@@ -1,0 +1,105 @@
+# 🚀 Loslegen mit aula
+
+<!-- Wird vermutlich noch überarbeitet und verändert. -->
+
+> **Wichtig: Diese Anleitung richtet sich an Schulen, die die Software auf den aula-Servern verwenden.**
+
+**Kurz erklärt** Hier erfährst du, wie du die Schul-Instanz aufsetzen kannst und welche ersten Schritte du machen musst.
+
+### Die ersten beiden Nutzer*innen
+
+Jede Instanz die von aula bereitgestellt wird generiert zunächst zwei Nutzer den Tech-Admin und den Admin (mehr über die Rollen erfährst du hier). Deshalb benötigt aula zu Anfang zwei Personen, die diese Rollen übernehmen und ihre zugehörigen Email-Adressen, um die Instanz freigeben zu können.
+
+
+### Die E-Mail mit alle notwendigen Informationen:
+Die beiden Nutzer*innen erhalten im Anschluss eine Email in der sich die wichtigsten Informationen finde:
+
+- Schulcode: Jede Instanz hat ihren eigenen Code
+- Benutzername
+- Link für das erstellen eines neuen Passworts (magic link)
+
+
+![Erste Mail: Admin](/welcome_mail.jpeg)
+
+## Die ersten Schritte:
+
+
+1. Gehe auf [neu.aula.de](www.neu.aula.de)
+2. Dort wirst du zuerst nach deinem Schulcode gefragt
+3. Nachdem du den Code eingegeben hast, wird er automatisch in deinem Browser gespeichert.
+4. Für den nächsten Schritt benötigst du den Link zum Erstellen des Passworts. Diesen gibst du in die Adress-/URL-Leiste deines Browsers ein.
+5. Nun kannst du ein neues Passwort festlegen und bestätigen.
+6. Zum Schluss kannst du dich mit dem neuen Passwort einloggen.
+
+Geschafft!
+
+## Die Grundlage schaffen: Räume anlegen
+
+Um die Struktur der Schule in Aula abbilden zu können, müssen von den Administrator\*innen Räume angelegt werden.
+
+### Einen Raum erstellen
+
+1. Gehe im Menu unter Räume
+2. Klicke auf Raum hinzufügen
+3. Richte den Raum ein:
+
+    3.1 Gebe einenen Namen für den Raum ein.
+
+    3.2 Optional: Füge eine Beschreibung zu dem Raum dazu.
+
+    3.3 Optional: Wähle ein Beispiel Bild aus.
+
+    3.4 Optional: Füge einzeln Benutzer hinzu. (Beachte das du mit dem CSV Import auch mehrer Benutzer einem Raum zufügen kannst).
+
+    3.5 Bestätige deine Eingaben durch das klicken auf BESTÄTIGEN
+
+
+
+## Mehere Benutzer*innen mit CSV Tabellen anlegen
+
+>💡 Wenn du zum ersten Mal alle Benutzer*innen für eure Schule in aula anlegen möchtest, ist es am einfachsten, die CSV-Importfunktion zu nutzen.
+
+Mit dieser Funktion kannst du mehrere Benutzer*innen auf einmal erstellen – z. B. eine ganze Klasse – und ihnen direkt den richtigen Raum (z. B. Klasse 7a) und eine Rolle (z. B. Nutzer\*in oder Supermoderator\*in) zuweisen.
+
+Am besten hast du für jede Klasse eine eigene CSV-Tabelle, in der die benötigten Benutzerdaten(s.u.) der Schüler\*innen stehen. Diese Tabellen kannst du dann nacheinander hochladen, um alle Benutzerinnen systematisch zur Plattform hinzuzufügen.
+
+>💡 CSV ist ein offenes Dateiformat, das du problemlos mit Microsoft Excel oder anderen Office-Produkten erstellen kannst.
+
+
+### Benutzerdaten für den CSV-Importer
+
+Um den CSV-Importer zu verwenden, müssen die Spalten in einem bestimmten Format vorliegen. Als Referenz kannst du auch eine Beispieldatei in der CSV-Importer-Oberfläche herunterladen.
+
+Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.
+
+| Anzeigename | Echter Name | Benutzername | E-Mail (optional) | Über mich (optional) |
+|------------|------------|--------------|--------------------|------------------|
+
+### Anleitung zur Nutzung des CSV-Importers
+
+1. In der Menuleiste klicke auf **Konfigurationen**.
+2. Vermutlich musst du die Ansich runterscrollen dann siehst du einen Button mit **Benutzer**.
+3. Klicke im ausgeklappten Menü auf **Datei-Upload**.
+4. Wähle die Datei aus, die dem oben genannten Format entsprechen muss (!).
+5. Nach der Auswahl der Datei siehst du eine Vorschau aller Benutzer, die mit dieser Datei importiert werden.
+6. Wähle eine Benutzerrolle aus, die auf alle Benutzer in der Vorschau angewendet wird.
+7. Wähle einen Raum aus, in dem die Benutzer mit dieser Rolle hinzugefügt werden sollen
+8. Klicke auf **Bestätigen**.
+9. *Optional:* Überprüfe im Benutzermenü, ob der Import erfolgreich war.
+
+## Die erste Idee erstellen
+
+Nach dem du jetzt Räume, Rollen und Nutzer\*innen zugeteilt hast kannst du auch schon loslegen und (probeweise) eine erste Idee erstellen.
+
+1. Gehe in einen beliebigen Raum den du erstellt hast
+2. Klicke auf das Symbol mit der grünen Glühbirne 
+3. Fülle die folgenden Felder aus:
+- **Titel (Pflichtfeld):** Gib einen Titel für die Idee ein.  
+- **Inhalt (Pflichtfeld):** Beschreibe die Idee im zweiten Feld ausführlich.  
+- **Kategorie (Optional):** Wähle eine passende Kategorie für die Idee aus.    
+- **Status (Pflichtfeld):** Der Status sollte in den meisten Fällen auf **„Aktiv“** gesetzt bleiben.
+4. Bestätige deine Eingaben, um die Idee zu erstellen.
+
+---
+
+Du hast deine erste Idee erstellt! 🎉
