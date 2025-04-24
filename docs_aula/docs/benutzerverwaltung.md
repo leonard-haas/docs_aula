@@ -5,15 +5,40 @@
 
 >Kurz erklärt: Das Rollensystem in der aula-Software bestimmt, welche Aufgaben und Rechte die verschiedenen Rollen haben. Es legt fest, wer welche Aktionen ausführen und welche Bereiche einsehen darf.
 
-### Rollenliste
+<details>
+<summary>1. <strong>Gast</strong></summary>
+<p>Kann Inhalte einsehen, aber nicht aktiv teilnehmen.</p>
+</details>
 
-1. **Gast** – Kann Inhalte einsehen, aber nicht aktiv teilnehmen.
-2. **Nutzer\*in** – Kann Ideen einbringen und abstimmen.
-3. **Moderator\*in** – Unterstützt die Moderation von Inhalten in einem bestimmten Raum.
-4. **Super-Moderator\*in** – Hat Moderationsrechte und sieht alle Räume.
-5. **Prüfer\*in** – Überprüft Ideen
-6. **Admin** – Verwaltet die Plattform
-7. **Tech-Admin** – Technische Verwaltung der Plattform
+<details>
+<summary>2. <strong>Nutzer*in</strong></summary>
+<p>Kann Ideen einbringen und abstimmen.</p>
+</details>
+
+<details>
+<summary>3. <strong>Moderator*in</strong></summary>
+<p>Unterstützt die Moderation von Inhalten in einem bestimmten Raum.</p>
+</details>
+
+<details>
+<summary>4. <strong>Super-Moderator*in</strong></summary>
+<p>Hat Moderationsrechte und sieht alle Räume.</p>
+</details>
+
+<details>
+<summary>5. <strong>Prüfer*in</strong></summary>
+<p>Überprüft Ideen.</p>
+</details>
+
+<details>
+<summary>6. <strong>Admin</strong></summary>
+<p>Verwaltet die Plattform.</p>
+</details>
+
+<details>
+<summary>7. <strong>Tech-Admin</strong></summary>
+<p>Technische Verwaltung der Plattform.</p>
+</details>
 
 ### Stimmrecht
 
@@ -30,31 +55,40 @@ Das Stimmrecht bezeichnet die Möglichkeit, in der Abstimmungsphase über eine I
 
 ## Benutzer\*innen erstellen
 
-### Einzelne\*r Benutzer\*in anlegen
+## 👤 Einzelne\*r Benutzer\*in anlegen
 
-Einzelne Benutzer*innen können im Benutzer-Menü erstellt werden. Beim Anlegen erhält der/die Benutzer\*in folgende Eigenschaften:
+Einzelne Benutzer\*innen können im **Benutzer-Menü** erstellt werden.  
+Beim Anlegen erhält der/die Benutzer*in folgende Eigenschaften:
+
+### 📄 Benutzer\*in-Eigenschaften
 
 - **Anzeigename**  
-  → Der Name, der beim Kommentieren oder beim Erstellen einer Idee angezeigt wird.  
-- **Echter Name**  
+  → Der Name, der beim Kommentieren oder beim Erstellen einer Idee angezeigt wird.
+- **Echter Name**
 - **Benutzername**  
-  → Login-Name  
+  → Login-Name
 - **Optional:** E-Mail-Adresse  
-- **Optional:** Beschreibung  
-- **Benutzerrolle** (siehe Standard-Setup unter 1.2)  
+- **Optional:** Beschreibung
+- **Benutzerrolle** *(siehe Standard-Setup unter 1.2)*
 - **Status**  
-  Es gibt vier mögliche Status: *Aktiv* (Standard), *Inaktiv*, *Gesperrt*, *Archiviert*  
-- **Optional:** Ein Raum **oder** mehrere Räume
-
-1. Klicke im Menü auf **Benutzer**
-2. Klicke auf **NEUER BENUTZER**
-3. Fülle das Formular mit den oben genannten Angaben aus
-4. Lege fest, welche Rolle der/die Benutzer*in in welchem Raum haben soll, indem du auf **RAUM-REGELN FESTLEGEN** klickst
-5. Wähle im Pop-up-Fenster für jeden Raum eine Rolle aus
-6. Bestätige das Pop-up-Fenster
-7. Bestätige die Erstellung des/der neuen Benutzer*in
+  Es gibt vier mögliche Status:
+  - Aktiv *(Standard)*
+  - Inaktiv
+  - Gesperrt
+  - Archiviert
+- **Optional:** Ein Raum oder mehrere Räume
 
 ---
+
+### 🛠️ Benutzer*in anlegen – Schritt-für-Schritt
+
+1. Klicke im Menü auf **Benutzer-Menü**
+2. Klicke auf **NEUER BENUTZER**
+3. Fülle das Formular mit den [oben genannten Angaben](#-benutzerin-eigenschaften) aus
+4. Lege fest, welche Rolle der/die Benutzer*in in welchem Raum haben soll, indem du auf **RAUM-REGELN FESTLEGEN** klickst
+5. Wähle im **Pop-up-Fenster** für jeden Raum eine Rolle <img: ausscreenshoots/raumrollen_setzen.png>
+6. Bestätige das Pop-up-Fenster
+7. Bestätige die Erstellung des/der neuen Benutzer*in
 
 ### Mehrere Benutzer*innen anlegen (CSV-Datei)
 

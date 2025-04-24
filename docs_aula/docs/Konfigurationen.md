@@ -9,12 +9,12 @@
 Das Admin Panel zeigt eine aufklappbare Liste mit erweiterten Einstellungsmöglichkeiten an:
 
 1. [💡 Ideen-Kategorien](#kategorien-fur-ideen) 
-2. [🗳️ Abstimmung] (#abstimmung-quorum)
-3. [👤 Benutzer](##benutzer-csv-import)  
-4. [👥 Gruppe](#gruppe)  
+2. [🗳️ Abstimmung](#abstimmung-quorum)
+3. [👤 Benutzer](#benutzer-csv-import)  
+4. [👥 Gruppe](#gruppen)  
 5. [🗓️ Geplante Aktionen](#geplante-aktionen)  
 6. [🖥️ System](#system)  
-7. [⚠️ Gefahrenzone](#gefahrenzone)
+7. [⚠️ Gefahrenzone](#instanz-loschen)
 
 ---
 
@@ -186,11 +186,6 @@ z. B. Benutzer sperren oder Instanz in den Urlaubsmodus versetzen.
 - *Urlaub*  
 - *Feiertag*  
 
----
-
-Klar! Hier ist eine **verständlicher formulierte Version**, inklusive eines **Hinweises für nicht-technische Nutzer*innen**:
-
----
 
 ### 🔄 Backup erstellen
 
@@ -214,13 +209,17 @@ Das Backup ist eine technische Datei und kann **nicht direkt geöffnet oder gele
 
 Ein Backup kann **nur über direkten Serverzugriff** wiederhergestellt werden. Das bedeutet: Dies ist ausschließlich bei **Selfhosting** durch technische Administrator*innen möglich.
 
-**Wenn ihr keine eigene Serververwaltung habt:**  
+**Wenn ihr über keine eigene Serververwaltung verfügt:**  
 👉 Bitte kontaktiert das **Aula-Team**, um ein Backup einspielen zu lassen.
 
 .
 
-## Instanz löschen
+## ⚠️ Gefahrenbereich (Instanz löschen) ⚠️
 
 **Wer:** Admin, Technischer Admin
+
+1. Klicke auf Gefahrenzone
+2. Anschließend auf Kontolöschen
+3. Bestätige die Löschung der Instanz
 
 

@@ -1,12 +1,18 @@
 # ❗ Phasen im Beteiligungsprozess
 
+1. [Wilde Ideen](#wildenideen-phase)
+2. [Diskussion](#diskussionsphase)
+3. [Prüfung](#prüfungsphase)
+4. [Abstimmung](#abstimmungsphase)
+5. [Ergebnis](#ergebnisphase)
+
 ## Überblick
 
-Jeder Raum hat seinen eigenen Ideen-/Boxen-Flow, der fünf verschiedene Phasen durchläuft.
+Jeder Raum hat seinen eigenen Ideen-/Boxen-Prozess, der fünf verschiedene Phasen durchläuft.
 
 **Idee**
 
-Ideen sind Vorschläge, die diskutiert, überarbeitet, geprüft und schließlich zur Abstimmung freigegeben werden. Ideen können ausschließlich in der ersten Phase erstellt werden. Sie beinhalten mindestens einen Titel und eine Beschreibung.
+Ideen sind Vorschläge, die diskutiert, überarbeitet, geprüft und schließlich abgestimmt werden. Ideen können ausschließlich in der ersten Phase erstellt werden. Sie beinhalten mindestens einen Titel und eine Beschreibung.
 
 **Boxen**
 
@@ -40,7 +46,7 @@ Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nä
 
 ---
 
-## Aktionen in der Wildenideenphase
+## Wildenideen Phase
 
 ### Idee erstellen
 

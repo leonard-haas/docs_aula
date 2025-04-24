@@ -55,11 +55,11 @@ nav:
   - loslegen.md
   - benutzerverwaltung.md
   - raeume.md
+  - phasen.md
   - boxen_menu.md
   - ideen_menu.md
-  - phasen.md
-  - Konfigurationen.md
   - Administrationsbereich.md
+  - Konfigurationen.md
 
 
 extra_css:

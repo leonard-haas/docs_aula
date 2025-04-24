@@ -20,7 +20,7 @@
 
 ---
 
-### Filter Ideen nach Status oder Raum (Ideen)
+### Ideen nach Status oder Raum filtern
 
 **Wer:** Super-Moderator, Admin
 
@@ -42,7 +42,7 @@
 
 **Wer:** Super-Moderator, Admin
 
-1. Klicke auf das **Kästchen** der Idee, die Du löschen möchtest.  
+1. Klicke auf das **Kästchen** neben der Idee, die Du löschen möchtest.  
 2. Klicke auf das **rote Müllsymbol**.  
 3. Bestätige die Warnung im **Pop-up-Fenster**.
 
