@@ -61,5 +61,10 @@ nav:
   - Konfigurationen.md
   - Administrationsbereich.md
 
+# Important
+extra:
+  cname: docs.aula.de
+
+
 extra_css:
   - stylesheets/extra.css
