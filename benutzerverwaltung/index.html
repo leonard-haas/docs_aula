@@ -320,15 +320,6 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#rollenliste" class="md-nav__link">
-    <span class="md-ellipsis">
-      Rollenliste
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#stimmrecht" class="md-nav__link">
     <span class="md-ellipsis">
       Stimmrecht
@@ -349,13 +340,31 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Benutzer*innen erstellen">
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#einzelner-benutzerin-anlegen" class="md-nav__link">
+    <span class="md-ellipsis">
+      👤 Einzelne*r Benutzer*in anlegen
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="👤 Einzelne*r Benutzer*in anlegen">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#einzelner-benutzerin-anlegen" class="md-nav__link">
+  <a href="#benutzerin-eigenschaften" class="md-nav__link">
     <span class="md-ellipsis">
-      Einzelne*r Benutzer*in anlegen
+      📄 Benutzer*in-Eigenschaften
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#benutzerin-anlegen-schritt-fur-schritt" class="md-nav__link">
+    <span class="md-ellipsis">
+      🛠️ Benutzer*in anlegen – Schritt-für-Schritt
     </span>
   </a>
   
@@ -496,12 +505,34 @@
   
   
     <li class="md-nav__item">
+      <a href="../phasen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    ❗ Phasen im Beteiligungsprozess
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../boxen_menu/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
-    Boxen menu
+    🗃️ Menü: Boxen
     
   </span>
   
@@ -540,12 +571,12 @@
   
   
     <li class="md-nav__item">
-      <a href="../phasen/" class="md-nav__link">
+      <a href="../Administrationsbereich/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
-    ❗ Phasen im Beteiligungsprozess
+    Administrationsbereich
     
   </span>
   
@@ -568,28 +599,6 @@
   
   <span class="md-ellipsis">
     Konfigurationen / Tech-Admin-Panel
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../Administrationsbereich/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Administrationsbereich
     
   </span>
   
@@ -623,16 +632,41 @@
 <blockquote>
 <p>Kurz erklärt: Das Rollensystem in der aula-Software bestimmt, welche Aufgaben und Rechte die verschiedenen Rollen haben. Es legt fest, wer welche Aktionen ausführen und welche Bereiche einsehen darf.</p>
 </blockquote>
-<h3 id="rollenliste">Rollenliste</h3>
-<ol>
-<li><strong>Gast</strong> – Kann Inhalte einsehen, aber nicht aktiv teilnehmen.</li>
-<li><strong>Nutzer*in</strong> – Kann Ideen einbringen und abstimmen.</li>
-<li><strong>Moderator*in</strong> – Unterstützt die Moderation von Inhalten in einem bestimmten Raum.</li>
-<li><strong>Super-Moderator*in</strong> – Hat Moderationsrechte und sieht alle Räume.</li>
-<li><strong>Prüfer*in</strong> – Überprüft Ideen</li>
-<li><strong>Admin</strong> – Verwaltet die Plattform</li>
-<li><strong>Tech-Admin</strong> – Technische Verwaltung der Plattform</li>
-</ol>
+<details>
+<summary>1. <strong>Gast</strong></summary>
+<p>Kann Inhalte einsehen, aber nicht aktiv teilnehmen.</p>
+</details>
+
+<details>
+<summary>2. <strong>Nutzer*in</strong></summary>
+<p>Kann Ideen einbringen und abstimmen.</p>
+</details>
+
+<details>
+<summary>3. <strong>Moderator*in</strong></summary>
+<p>Unterstützt die Moderation von Inhalten in einem bestimmten Raum.</p>
+</details>
+
+<details>
+<summary>4. <strong>Super-Moderator*in</strong></summary>
+<p>Hat Moderationsrechte und sieht alle Räume.</p>
+</details>
+
+<details>
+<summary>5. <strong>Prüfer*in</strong></summary>
+<p>Überprüft Ideen.</p>
+</details>
+
+<details>
+<summary>6. <strong>Admin</strong></summary>
+<p>Verwaltet die Plattform.</p>
+</details>
+
+<details>
+<summary>7. <strong>Tech-Admin</strong></summary>
+<p>Technische Verwaltung der Plattform.</p>
+</details>
+
 <h3 id="stimmrecht">Stimmrecht</h3>
 <p>Das Stimmrecht bezeichnet die Möglichkeit, in der Abstimmungsphase über eine Idee abzustimmen. Während Nutzer*innen immer ein Stimmrecht haben, gibt es für Moderator*innen, Super-Moderator*innen und Prüfer*innen jeweils eine Variante mit und ohne Stimmrecht.</p>
 <table>
@@ -670,33 +704,38 @@
 </tbody>
 </table>
 <h2 id="benutzerinnen-erstellen">Benutzer*innen erstellen</h2>
-<h3 id="einzelner-benutzerin-anlegen">Einzelne*r Benutzer*in anlegen</h3>
-<p>Einzelne Benutzer*innen können im Benutzer-Menü erstellt werden. Beim Anlegen erhält der/die Benutzer*in folgende Eigenschaften:</p>
+<h2 id="einzelner-benutzerin-anlegen">👤 Einzelne*r Benutzer*in anlegen</h2>
+<p>Einzelne Benutzer*innen können im <strong>Benutzer-Menü</strong> erstellt werden.<br />
+Beim Anlegen erhält der/die Benutzer*in folgende Eigenschaften:</p>
+<h3 id="benutzerin-eigenschaften">📄 Benutzer*in-Eigenschaften</h3>
 <ul>
 <li><strong>Anzeigename</strong><br />
-  → Der Name, der beim Kommentieren oder beim Erstellen einer Idee angezeigt wird.  </li>
-<li><strong>Echter Name</strong>  </li>
+  → Der Name, der beim Kommentieren oder beim Erstellen einer Idee angezeigt wird.</li>
+<li><strong>Echter Name</strong></li>
 <li><strong>Benutzername</strong><br />
-  → Login-Name  </li>
+  → Login-Name</li>
 <li><strong>Optional:</strong> E-Mail-Adresse  </li>
-<li><strong>Optional:</strong> Beschreibung  </li>
-<li><strong>Benutzerrolle</strong> (siehe Standard-Setup unter 1.2)  </li>
+<li><strong>Optional:</strong> Beschreibung</li>
+<li><strong>Benutzerrolle</strong> <em>(siehe Standard-Setup unter 1.2)</em></li>
 <li><strong>Status</strong><br />
-  Es gibt vier mögliche Status: <em>Aktiv</em> (Standard), <em>Inaktiv</em>, <em>Gesperrt</em>, <em>Archiviert</em>  </li>
-<li>
-<p><strong>Optional:</strong> Ein Raum <strong>oder</strong> mehrere Räume</p>
-</li>
-<li>
-<p>Klicke im Menü auf <strong>Benutzer</strong></p>
-</li>
-<li>Klicke auf <strong>NEUER BENUTZER</strong></li>
-<li>Fülle das Formular mit den oben genannten Angaben aus</li>
-<li>Lege fest, welche Rolle der/die Benutzer<em>in in welchem Raum haben soll, indem du auf </em><em>RAUM-REGELN FESTLEGEN</em>* klickst</li>
-<li>Wähle im Pop-up-Fenster für jeden Raum eine Rolle aus</li>
-<li>Bestätige das Pop-up-Fenster</li>
-<li>Bestätige die Erstellung des/der neuen Benutzer*in</li>
+  Es gibt vier mögliche Status:</li>
+<li>Aktiv <em>(Standard)</em></li>
+<li>Inaktiv</li>
+<li>Gesperrt</li>
+<li>Archiviert</li>
+<li><strong>Optional:</strong> Ein Raum oder mehrere Räume</li>
 </ul>
 <hr />
+<h3 id="benutzerin-anlegen-schritt-fur-schritt">🛠️ Benutzer*in anlegen – Schritt-für-Schritt</h3>
+<ol>
+<li>Klicke im Menü auf <strong>Benutzer-Menü</strong></li>
+<li>Klicke auf <strong>NEUER BENUTZER</strong></li>
+<li>Fülle das Formular mit den <a href="#-benutzerin-eigenschaften">oben genannten Angaben</a> aus</li>
+<li>Lege fest, welche Rolle der/die Benutzer<em>in in welchem Raum haben soll, indem du auf </em><em>RAUM-REGELN FESTLEGEN</em>* klickst</li>
+<li>Wähle im <strong>Pop-up-Fenster</strong> für jeden Raum eine Rolle <img: ausscreenshoots/raumrollen_setzen.png></li>
+<li>Bestätige das Pop-up-Fenster</li>
+<li>Bestätige die Erstellung des/der neuen Benutzer*in</li>
+</ol>
 <h3 id="mehrere-benutzerinnen-anlegen-csv-datei">Mehrere Benutzer*innen anlegen (CSV-Datei)</h3>
 <p>Wenn du die gesamte Instanz zum ersten Mal mit allen Benutzer<em>innen einrichtest, empfiehlt es sich, die </em><em>CSV-Importfunktion</em><em> zu verwenden. Damit kannst du </em><em>mehrere Benutzer</em>innen gleichzeitig** in einem bestimmten Raum mit einer bestimmten Rolle anlegen oder hinzufügen.  </p>
 <p>CSV ist ein offenes Dateiformat, das z. B. mit Microsoft Excel oder anderen Tabellenkalkulationsprogrammen einfach erstellt werden kann.</p>
