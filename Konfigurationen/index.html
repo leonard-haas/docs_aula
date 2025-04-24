@@ -608,9 +608,9 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#benutzer-sperren-reaktivieren" class="md-nav__link">
+  <a href="#benutzer-sperren-und-reaktivieren" class="md-nav__link">
     <span class="md-ellipsis">
-      Benutzer sperren (reaktivieren)
+      Benutzer sperren (und reaktivieren)
     </span>
   </a>
   
@@ -657,7 +657,7 @@
           <li class="md-nav__item">
   <a href="#backup-erstellen" class="md-nav__link">
     <span class="md-ellipsis">
-      Backup erstellen
+      🔄 Backup erstellen
     </span>
   </a>
   
@@ -666,7 +666,7 @@
           <li class="md-nav__item">
   <a href="#backup-wiederherstellen" class="md-nav__link">
     <span class="md-ellipsis">
-      Backup wiederherstellen
+      ♻️ Backup wiederherstellen
     </span>
   </a>
   
@@ -740,8 +740,9 @@
 <h2 id="admin-panel">Admin Panel</h2>
 <p>Das Admin Panel zeigt eine aufklappbare Liste mit erweiterten Einstellungsmöglichkeiten an:</p>
 <ol>
-<li><a href="#idee">💡 Idee</a>  </li>
-<li><a href="#benutzer">👤 Benutzer</a>  </li>
+<li><a href="#kategorien-fur-ideen">💡 Ideen-Kategorien</a> </li>
+<li>[🗳️ Abstimmung] (#abstimmung-quorum)</li>
+<li><a href="##benutzer-csv-import">👤 Benutzer</a>  </li>
 <li><a href="#gruppe">👥 Gruppe</a>  </li>
 <li><a href="#geplante-aktionen">🗓️ Geplante Aktionen</a>  </li>
 <li><a href="#system">🖥️ System</a>  </li>
@@ -800,7 +801,7 @@ Es zeigt an, wie viele Stimmen (in %) für eine Idee erforderlich sind –<br />
 <p><strong>Dropdowns:</strong></p>
 <ul>
 <li>Raum auswählen  </li>
-<li>Benutzerebene festlegen  </li>
+<li>Benutzer*innenrolle festlegen  </li>
 </ul>
 <p><strong>Benötigte CSV-Felder:</strong></p>
 <ul>
@@ -870,7 +871,7 @@ z. B. Benutzer sperren oder Instanz in den Urlaubsmodus versetzen.</p>
 <li><strong>Bestätigen</strong>  </li>
 </ol>
 <h3 id="anwendungsbeispiele-fur-geplante-aktionen">Anwendungsbeispiele für geplante Aktionen</h3>
-<h4 id="benutzer-sperren-reaktivieren">Benutzer sperren (reaktivieren)</h4>
+<h4 id="benutzer-sperren-und-reaktivieren">Benutzer sperren (und reaktivieren)</h4>
 <ol>
 <li>Bereich: <strong>Benutzer</strong>  </li>
 <li>Benutzerstatus auf <strong>gesperrt</strong> setzen  </li>
@@ -895,25 +896,35 @@ z. B. Benutzer sperren oder Instanz in den Urlaubsmodus versetzen.</p>
 <ol>
 <li>Menü: <strong>Konfigurationen → System</strong>  </li>
 <li>Status wählen:</li>
-<li><em>aktiv</em>  </li>
-<li><em>inaktiv</em>  </li>
+<li><em>Aktiv</em>  </li>
+<li><em>Inaktiv</em>  </li>
 <li><em>Wochenende</em>  </li>
 <li><em>Urlaub</em>  </li>
 <li><em>Feiertag</em>  </li>
 </ol>
 <hr />
-<h3 id="backup-erstellen">Backup erstellen</h3>
-<p><strong>Wer:</strong> Admin, Tech-Admin  </p>
-<p>Lädt einen SQL-Dump der Datenbank herunter.</p>
+<p>Klar! Hier ist eine <strong>verständlicher formulierte Version</strong>, inklusive eines <strong>Hinweises für nicht-technische Nutzer*innen</strong>:</p>
+<hr />
+<h3 id="backup-erstellen">🔄 Backup erstellen</h3>
+<p><strong>Wer:</strong> Admin, Tech-Admin</p>
+<p>Mit dieser Funktion wird eine Sicherheitskopie (Backup) der gesamten Datenbank erstellt. Diese Datei – ein sogenannter <strong>SQL-Dump</strong> – enthält alle gespeicherten Inhalte und Einstellungen der Plattform.<br />
+Sie kann später verwendet werden, um den Stand zu einem bestimmten Zeitpunkt wiederherzustellen.</p>
+<p><strong>So geht’s:</strong></p>
 <ol>
-<li>Menü: <strong>Konfigurationen → System</strong>  </li>
-<li>Auf <strong>„Backup erstellen“</strong> klicken  </li>
+<li>Öffne das Menü: <strong>Konfigurationen → System</strong>  </li>
+<li>Klicke auf <strong>„Backup erstellen“</strong>  </li>
+<li>Die Backup-Datei wird automatisch heruntergeladen</li>
 </ol>
+<blockquote>
+<p>💡 <strong>Hinweis</strong><br />
+Das Backup ist eine technische Datei und kann <strong>nicht direkt geöffnet oder gelesen</strong> werden. Sie dient ausschließlich dazu, den Zustand des Systems wiederherzustellen – z. B. im Notfall oder vor größeren Änderungen.</p>
+</blockquote>
 <hr />
-<h3 id="backup-wiederherstellen">Backup wiederherstellen</h3>
-<p>Nur bei direktem Serverzugriff möglich (bei Selfhosting).<br />
-<strong>Ansonsten:</strong> Bitte das Aula-Team kontaktieren.</p>
-<hr />
+<h3 id="backup-wiederherstellen">♻️ Backup wiederherstellen</h3>
+<p>Ein Backup kann <strong>nur über direkten Serverzugriff</strong> wiederhergestellt werden. Das bedeutet: Dies ist ausschließlich bei <strong>Selfhosting</strong> durch technische Administrator*innen möglich.</p>
+<p><strong>Wenn ihr keine eigene Serververwaltung habt:</strong><br />
+👉 Bitte kontaktiert das <strong>Aula-Team</strong>, um ein Backup einspielen zu lassen.</p>
+<p>.</p>
 <h2 id="instanz-loschen">Instanz löschen</h2>
 <p><strong>Wer:</strong> Admin, Technischer Admin</p>
 
