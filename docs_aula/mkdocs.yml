@@ -63,4 +63,4 @@ nav:
 
 
 extra_css:
-  - /docs_aula/stylesheets/extra.css
+  - stylesheets/extra.css
