@@ -37,6 +37,7 @@ theme:
     - search-highlight
 
 extra:
+  cname: docs.aula.de
   social:
   - icon: fontawesome/brands/instagram
     link:  https://www.instagram.com/projekt_aula/?hl=de  
@@ -60,10 +61,6 @@ nav:
   - phasen.md
   - Konfigurationen.md
   - Administrationsbereich.md
-
-# Important
-extra:
-  cname: docs.aula.de
 
 
 extra_css:
