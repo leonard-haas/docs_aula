@@ -8,12 +8,13 @@
 
 Das Admin Panel zeigt eine aufklappbare Liste mit erweiterten Einstellungsmöglichkeiten an:
 
-1. [💡 Idee](#idee)  
-2. [👤 Benutzer](#benutzer)  
-3. [👥 Gruppe](#gruppe)  
-4. [🗓️ Geplante Aktionen](#geplante-aktionen)  
-5. [🖥️ System](#system)  
-6. [⚠️ Gefahrenzone](#gefahrenzone)
+1. [💡 Ideen-Kategorien](#kategorien-fur-ideen) 
+2. [🗳️ Abstimmung] (#abstimmung-quorum)
+3. [👤 Benutzer](##benutzer-csv-import)  
+4. [👥 Gruppe](#gruppe)  
+5. [🗓️ Geplante Aktionen](#geplante-aktionen)  
+6. [🖥️ System](#system)  
+7. [⚠️ Gefahrenzone](#gefahrenzone)
 
 ---
 
@@ -77,7 +78,7 @@ Es zeigt an, wie viele Stimmen (in %) für eine Idee erforderlich sind –
 **Dropdowns:**
 
 - Raum auswählen  
-- Benutzerebene festlegen  
+- Benutzer\*innenrolle festlegen  
 
 **Benötigte CSV-Felder:**
 
@@ -151,7 +152,7 @@ z. B. Benutzer sperren oder Instanz in den Urlaubsmodus versetzen.
 
 ### Anwendungsbeispiele für geplante Aktionen
 
-#### Benutzer sperren (reaktivieren)
+#### Benutzer sperren (und reaktivieren)
 
 1. Bereich: **Benutzer**  
 2. Benutzerstatus auf **gesperrt** setzen  
@@ -179,31 +180,44 @@ z. B. Benutzer sperren oder Instanz in den Urlaubsmodus versetzen.
 
 1. Menü: **Konfigurationen → System**  
 2. Status wählen:
-   - *aktiv*  
-   - *inaktiv*  
-   - *Wochenende*  
-   - *Urlaub*  
-   - *Feiertag*  
+- *Aktiv*  
+- *Inaktiv*  
+- *Wochenende*  
+- *Urlaub*  
+- *Feiertag*  
 
 ---
 
-### Backup erstellen
-
-**Wer:** Admin, Tech-Admin  
-
-Lädt einen SQL-Dump der Datenbank herunter.
-
-1. Menü: **Konfigurationen → System**  
-2. Auf **„Backup erstellen“** klicken  
+Klar! Hier ist eine **verständlicher formulierte Version**, inklusive eines **Hinweises für nicht-technische Nutzer*innen**:
 
 ---
 
-### Backup wiederherstellen
+### 🔄 Backup erstellen
 
-Nur bei direktem Serverzugriff möglich (bei Selfhosting).  
-**Ansonsten:** Bitte das Aula-Team kontaktieren.
+**Wer:** Admin, Tech-Admin
+
+Mit dieser Funktion wird eine Sicherheitskopie (Backup) der gesamten Datenbank erstellt. Diese Datei – ein sogenannter **SQL-Dump** – enthält alle gespeicherten Inhalte und Einstellungen der Plattform.  
+Sie kann später verwendet werden, um den Stand zu einem bestimmten Zeitpunkt wiederherzustellen.
+
+**So geht’s:**
+
+1. Öffne das Menü: **Konfigurationen → System**  
+2. Klicke auf **„Backup erstellen“**  
+3. Die Backup-Datei wird automatisch heruntergeladen
+
+> 💡 **Hinweis**  
+Das Backup ist eine technische Datei und kann **nicht direkt geöffnet oder gelesen** werden. Sie dient ausschließlich dazu, den Zustand des Systems wiederherzustellen – z. B. im Notfall oder vor größeren Änderungen.
 
 ---
+
+### ♻️ Backup wiederherstellen
+
+Ein Backup kann **nur über direkten Serverzugriff** wiederhergestellt werden. Das bedeutet: Dies ist ausschließlich bei **Selfhosting** durch technische Administrator*innen möglich.
+
+**Wenn ihr keine eigene Serververwaltung habt:**  
+👉 Bitte kontaktiert das **Aula-Team**, um ein Backup einspielen zu lassen.
+
+.
 
 ## Instanz löschen
 

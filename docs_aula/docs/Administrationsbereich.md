@@ -33,7 +33,7 @@ Die Nachrichtenfunktion erlaubt es Administrator*innen, Nachrichten an bestimmte
 
 Über das Ankündigungssystem können Administrator*innen Informationen und Zustimmungsabfragen an alle Nutzer*innen senden.
 
-- **Obligatorische Zustimmung:** Blockiert die Nutzung der Anwendung, bis bestätigt wurde.
+- **Obligatorische Zustimmung:** Blockiert die Nutzung der Anwendung, bis diese bestätigt wurde.
 - **Optionale Zustimmung:** Öffnet ein Pop-up, blockiert aber keine Aktionen.
 - **Keine Zustimmung erforderlich:** Erscheint nur in den Benachrichtigungen.
 
@@ -72,7 +72,11 @@ Die Nachrichtenfunktion erlaubt es Administrator*innen, Nachrichten an bestimmte
 
 In diesem Bereich werden **alle gemeldeten Inhalte** gesammelt.
 
-## Karten-Ansicht
+## Ansicht
+
+![Bericht Card Ansicht](../screenshoots/berichte_card.png)
+
+
 Die Berichte bestehen aus vier Elementen:
 1. Einer Überschrift die angibt, welche Einheit (bspw. Box, Kommentar oder Idee) gemeldet wurde und dem zugehörigen Titel dieser Einheit.
 2. Dem Grund ("claim") hier für gibt es elfe Kategorie:
