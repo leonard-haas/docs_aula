@@ -45,6 +45,10 @@ extra:
     link: https://www.linkedin.com/company/aula-ggmbh/?originalSubdomain=de
  
 plugins:
+  - search
+  - cname:
+      domain: docs.aula.de
+      dist_path: site
 
 markdown_extensions:
   - attr_list
