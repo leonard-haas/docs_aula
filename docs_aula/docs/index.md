@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Dokumentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## WORK IN PROGRESS
 
-## Commands
+aula interne Erklärung: Unter der neuen URL www.docs.aula.de solle eine umfassende Nutzer-Dokumentation veröffentlicht werden. Diese soll unsere single source of truth sein. Eine "Single Source of Truth" bedeutet, dass alle Informationen an einer zentralen Stelle gespeichert und aktualisiert werden, sodass Benutzer immer auf die aktuellsten und konsistenten Informationen zugreifen können.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Was hier zu finden ist:
 
-## Project layout
+An wen richtet sich die Dokumentation: Die Dokumentation richtet sich grundsätzlich an alle Nutzer*innen von aula, allerdings mit Fokus auf den Administrator*innen, weil bei diesen ein erhöhter Erklärungsbedarf besteht.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Das aula Komnzept wir hier nicht in besprochen dafür gibt es die Kurse auf unsere Lernplatform learning.aula.de und unser Website aula.de
