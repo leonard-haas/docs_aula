@@ -30,19 +30,19 @@ Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nä
 ### Diskussion → Prüfung
 
 - Nach **X** Tagen (festgelegt beim Erstellen der Box) wird die Box **automatisch** in die Prüfungsphase verschoben.
-- **Wer:** Moderator:in, Super-Moderator:in, Prüfer\*innen oder Admin können die Box jederzeit verschieben.
+- **Wer:** Moderator\*in, Super-Moderator\*in, Prüfer\*innen oder Admin können die Box jederzeit verschieben.
 
 ### Prüfung → Abstimmung
 
 - **Automatisch**, sobald **alle Ideen genehmigt** wurden (nur durch die Prüfer\*innen).
 - **Nicht genehmigte Ideen** sind **ausgegraut** und **nicht abstimmbar**.
-- **Wer:** Prüfer\*innen oder Admin können die Box verschieben.
-- **Zurücksetzen:** Moderator:innen, Super-Moderator:innen, Prüfer\*innen oder Admin können Boxen auch wieder in die Diskussionsphase zurückversetzen.
+- **Wer:** Prüfer\*innen oder Admins können die Box verschieben.
+- **Zurücksetzen:** Moderator\*innen, Super-Moderator\*innen, Prüfer\*innen oder Admins können Boxen auch wieder in die Diskussionsphase zurückversetzen.
 
 ### Abstimmung → Ergebnisse
 
 - Nach **X** Tagen (definiert bei Erstellung der Box) erfolgt die Verschiebung **automatisch**.
-- **Manuell:** Moderator:in, Super-Moderator:in, Prüfer\*innen oder Admin.
+- **Manuell:** Moderator\*in, Super-Moderator\*in, Prüfer\*innen oder Admin.
 
 ---
 
@@ -57,13 +57,13 @@ Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nä
    - **Titel** (Pflicht)
    - **Inhalt** (Pflicht)
    - **Kategorie** (optional)
-   - **zer\*innendefinierte Felder** (optional)
+   - **Benutzer\*innendefinierte Felder** (optional)
    - **Status**: In der Regel „Aktiv“
 3. Eingaben bestätigen
 
 ### Idee bearbeiten
 
-**Wer:** Ersteller:in, Moderator:in, Super-Moderator:in, Admin
+**Wer:** Ersteller\*in, Moderator\*in, Super-Moderator\*in, Admin
 
 1. Auf die „…“ neben der Idee klicken
 2. „Bearbeiten“ wählen
@@ -72,7 +72,7 @@ Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nä
 
 ### Idee löschen
 
-**Wer:** Ersteller:in, Moderator:in, Super-Moderator:in, Admin
+**Wer:** Ersteller\*in, Moderator\*in, Super-Moderator\*in, Admin
 
 1. Auf die „…“ klicken
 2. „Löschen“ wählen
@@ -95,7 +95,7 @@ Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nä
 
 ### Kommentar löschen
 
-**Wer:** Ersteller:in, Moderator:in, Super-Moderator:in, Admin
+**Wer:** Ersteller\*in, Moderator\*in, Super-Moderator\*in, Admin
 
 1. Auf die „…“ klicken
 2. Mülleimer-Symbol wählen
@@ -107,7 +107,7 @@ Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nä
 
 ### Box erstellen
 
-**Wer:** Moderator:in, Super-Moderator:in, Admin, Tech-Admin
+**Wer:** Moderator\*in, Super-Moderator\*in, Admin, Tech-Admin
 
 1. Auf das „+“-Symbol klicken
 2. Felder ausfüllen:
@@ -122,7 +122,7 @@ Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nä
 
 ### Box bearbeiten
 
-**Wer:** Moderator:in, Super-Moderator:in, Admin, Tech-Admin
+**Wer:** Moderator\*in, Super-Moderator\*in, Admin, Tech-Admin
 
 1. Auf die „…“ neben der Box klicken
 2. „Bearbeiten“ wählen
@@ -132,7 +132,7 @@ Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nä
 
 ## Prüfungsphase
 
-In dieser Phase ist der Inhalt eingefroren, dass bedeutet es ist keine Bearbeitung möglich. Nur Admins können Inhalte ändern.
+In dieser Phase ist der Inhalt eingefroren das bedeutet es ist keine Bearbeitung möglich. Nur Admins können Inhalte ändern.
 
 ### Genehmigung setzen
 
@@ -152,15 +152,15 @@ Auch hier ist der Inhalt eingefroren – Änderungen nur durch Admins.
 ### Abstimmungsmechanismus
 
 
-In der aula-Software wird über eine Idee abgestimmt, wobei die Möglichkeit besteht, FÜR, GEGEN oder NEUTRAL zu stimmen. Die Abstimmungsrechte sind abhängig von den Rollen eines Nutzers (siehe 1.2). Die Stimmen, die gezählt und im Balkendiagramm angezeigt werden, werden im Verhältnis zu allen Personen im Raum plus den Stimmen von höheren Rollen wie Super-Moderator, Prinzipal und Admin mit Stimmrecht angezeigt.
+In der aula-Software wird über eine Idee abgestimmt, wobei die Möglichkeit besteht, FÜR, GEGEN oder NEUTRAL zu stimmen. Die Abstimmungsrechte sind abhängig von den Rollen der Nutzer\*nnen (siehe 1.2). Die Stimmen, die gezählt und im Balkendiagramm angezeigt werden, werden im Verhältnis zu allen Personen im Raum plus den Stimmen von höheren Rollen wie Super-Moderator, Prinzipal und Admin mit Stimmrecht angezeigt.
 
 Die Zählung ist einfach FÜR = + 1, GEGEN = -1 und NEUTRAL= 0. Es gibt keinen Mechanismus, der eine Idee automatisch genehmigt oder als Gewinner markiert. Da es innerhalb der Boxen und zwischen den Boxen konkurrierende Ideen geben kann, die die gleiche Abstimmung gewinnen können.
 
 ### Delegation
-zer\*innen mit Stimmrecht können ihre Stimme an einen anderen Stimmberechtigten delegieren. Die Delegation gilt pro Box , d.h. sie betrifft alle Ideen innerhalb dieser Box.
+Benutzer\*innen mit Stimmrecht können ihre Stimme an eine\*n andere\*n Stimmberechtigte\*n delegieren. Die Delegation gilt pro Box , d.h. sie betrifft alle Ideen innerhalb dieser Box.
 Die Anzahl der Stimmen steigt um +1, wenn ein Schüler A seine Stimme an Schüler B delegiert. Das bedeutet, dass Schüler B nicht mit + 2 (FÜR) oder -2 (GEGEN) für eine Idee stimmen kann.
 
-Es gibt keine Kettendelegation, d. h. eine Stimme kann nur einmal delegiert werden und wird nicht über mehrere Delegationen hinweg kumuliert. Wenn Schüler A an Schüler B delegiert und Schüler B dann an Schüler C delegiert, erhält Schüler C keine Mehrfachstimmen (mehr als 2 Stimmen). In diesem Fall müsste Schüler A erneut abstimmen, wenn er immer noch teilnehmen möchte, da sonst seine*ihre Stimme verloren ist, aber das System erzwingt dies nicht. zer\*innen, die bereits eine delegierte Stimme erhalten haben, können keine Stimme von einer anderen Person delegieren.
+Es gibt keine Kettendelegation, d. h. eine Stimme kann nur einmal delegiert werden und wird nicht über mehrere Delegationen hinweg kumuliert. Wenn Schüler A an Schüler B delegiert und Schüler B dann an Schüler C delegiert, erhält Schüler C keine Mehrfachstimmen (mehr als 2 Stimmen). In diesem Fall müsste Schüler A erneut abstimmen, wenn er immer noch teilnehmen möchte, da sonst seine*ihre Stimme verloren ist, aber das System erzwingt dies nicht. Benutzer\*innen, die bereits eine delegierte Stimme erhalten haben, können keine Stimme von einer anderen Person delegieren.
 
 > Hinweis Rollen ohne Stimmrecht sehen den Delegieren-Button nicht
 
@@ -202,7 +202,7 @@ Es gibt keine Kettendelegation, d. h. eine Stimme kann nur einmal delegiert werd
 
 ### Idee als Gewinner markieren
 
-**Wer:** Super-Moderator:in, Prüfer\*innen, Admin
+**Wer:** Super-Moderator\*in, Prüfer\*innen, Admin
 
 1. Idee auswählen
 2. Schalter „Als Gewinner markieren“ aktivieren
