@@ -12,19 +12,24 @@
 
 <details>
 <summary>2. <strong>Nutzer*in</strong></summary>
-<p>Nutzer*in können eigene Ideen einbringen, mit anderen Nutzer*innen über Vorschläge diskutieren und in Abstimmungen entscheiden, welche Ideen weiterverfolgt werden sollen.
+<p>Nutzer*innen können eigene Ideen einbringen, mit anderen Nutzer*innen über Vorschläge diskutieren und in Abstimmungen entscheiden, welche Ideen weiterverfolgt werden sollen.
 </p>
 </details>
 
 <details>
 <summary>3. <strong>Moderator*in</strong></summary>
-<p>
+<p>**Rollenbeschreibung für Moderator*innen in der Aula-Beteiligungssoftware:**
+
+**Rolle: Moderator*in**
+
+**Beschreibung:**
+
 Moderator\*innen in der Aula-Beteiligungssoftware sind Schüler\*innen und Lehrkräfte, die sicherstellen, dass sich alle an der Schule aktiv und respektvoll beteiligen können. Sie kümmern sich um die Plattform, achten auf die Einhaltung der Verhaltensregeln und unterstützen andere Nutzer\*innen, um eine konstruktive und positive Atmosphäre zu fördern. Es ist sinnvoll, viele Moderator\*innen an der Schule zu haben, damit sie sich die Aufgaben gut aufteilen können – idealerweise zwei Moderator\*innen pro Klasse.</p>
 </details>
 
 <details>
 <summary>4. <strong>Super-Moderator*in</strong></summary>
-<p>Hat Moderationsrechte, wie die Moderator\*inne allerdings nicht beschränkt auf einen/oder mehrere Räume, sondern kann alle Räume und ihre Inhalt sehen. Zusätzlich können Supermoderator*innen die Menüpunkte Ideen und Boxen einsehen, um zusätzliche einen Gesamtüberblick zuhalten. </p>
+<p>Hat Moderationsrechte, wie die Moderator\*inne allerdings nicht beschränkt auf einen/oder mehrere Räume, sondern kann alle Räume und ihre Inhalt sehen. Zusätzlich können Supermoderator*innen die Menüpunkte Ideen und Boxen einsehen, um zusätzlich einen Gesamtüberblick zuhalten. </p>
 </details>
 
 <details>
@@ -39,7 +44,7 @@ Moderator\*innen in der Aula-Beteiligungssoftware sind Schüler\*innen und Lehrk
 
 <details>
 <summary>7. <strong>Tech-Admin</strong></summary>
-<p>Kann grundlegende Änderungen an der Schul-Instanz vornehmen, z.B. die Instanz offline schalten oder Betriebszeiten festlegen. Mit dem Tech-Admin-Account sind keine Inhalte sichtbar. Diesen Account kann bspw. auch ein externer Dienstleister nutzen und hat dennoch keinen Einblick auf die inhaltliche Ebene der erstellten Ideen etc.</p>
+<p>Kann grundlegende Änderungen an der Schul-Instanz vornehmen, z.B. die Instanz offline schalten oder Betriebszeiten festlegen. Mit dem Tech-Admin-Account sind keine Inhalte sichtbar. Diesen Account kann bspw. auch ein externer Dienstleister nutzen, denn der Tech-Admin hat keinen Einblick auf die inhaltliche Ebene der erstellten Ideen etc.</p>
 </details>
 
 ### Stimmrecht
@@ -60,7 +65,7 @@ Das Stimmrecht bezeichnet die Möglichkeit, in der Abstimmungsphase über eine I
 ## 👤 Einzelne\*r Benutzer\*in anlegen
 
 Einzelne Benutzer\*innen können im **Benutzer-Menü** erstellt werden.  
-Beim Anlegen erhält der/die Benutzer*in folgende Eigenschaften:
+Beim Anlegen erhält der/die Benutzer\*in folgende Eigenschaften:
 
 ### 📄 Benutzer\*in-Eigenschaften
 
@@ -74,11 +79,11 @@ Beim Anlegen erhält der/die Benutzer*in folgende Eigenschaften:
 - **Benutzerrolle** *(siehe Standard-Setup unter 1.2)*
 - **Status**  
   Es gibt vier mögliche Status:
-  - Aktiv *(Standard)*
-  - Inaktiv
-  - Gesperrt
-  - Archiviert
-- **Optional:** Ein Raum oder mehrere Räume
+    - Aktiv *(Standard)*
+    - Inaktiv
+    - Gesperrt
+    - Archiviert
+- **Optional:** Zuordnung zu einem Raum oder mehreren Räumen
 
 ---
 
@@ -87,31 +92,42 @@ Beim Anlegen erhält der/die Benutzer*in folgende Eigenschaften:
 1. Klicke im Menü auf **Benutzer-Menü**
 2. Klicke auf **NEUER BENUTZER**
 3. Fülle das Formular mit den [oben genannten Angaben](#-benutzerin-eigenschaften) aus
-4. Lege fest, welche Rolle der/die Benutzer*in in welchem Raum haben soll, indem du auf **RAUM-REGELN FESTLEGEN** klickst
-5. Wähle im **Pop-up-Fenster** für jeden Raum eine Rolle <img: ausscreenshoots/raumrollen_setzen.png>
+4. Lege fest, welche Rolle der/die Benutzer\*in in welchem Raum haben soll, indem du auf **RAUM-REGELN FESTLEGEN** klickst
+5. Wähle im **Pop-up-Fenster** für jeden Raum eine Rolle 
+![Raum Rollen setzen](/screenshots/raumrollen_setzen.png)
 6. Bestätige das Pop-up-Fenster
 7. Bestätige die Erstellung des/der neuen Benutzer*in
 
 ### Mehrere Benutzer*innen anlegen (CSV-Datei)
 
-Wenn du die gesamte Instanz zum ersten Mal mit allen Benutzer*innen einrichtest, empfiehlt es sich, die **CSV-Importfunktion** zu verwenden. Damit kannst du **mehrere Benutzer*innen gleichzeitig** in einem bestimmten Raum mit einer bestimmten Rolle anlegen oder hinzufügen.  
+>💡 Wenn du zum ersten Mal alle Benutzer\*innen für eure Schule in aula anlegen möchtest, ist es am einfachsten, die CSV-Importfunktion zu nutzen.
 
-CSV ist ein offenes Dateiformat, das z. B. mit Microsoft Excel oder anderen Tabellenkalkulationsprogrammen einfach erstellt werden kann.
+Mit dieser Funktion kannst du mehrere Benutzer\*innen auf einmal erstellen – z.B. eine ganze Klasse – und ihnen direkt den richtigen Raum (z. B. Klasse 7a) und eine Rolle (z. B. Nutzer\*in oder Supermoderator\*in) zuweisen.
 
-Für den CSV-Import musst du ein bestimmtes Spaltenformat einhalten. Als Referenz kannst du im CSV-Importbereich auch eine **Beispieldatei herunterladen**.
+Am besten hast du für jede Klasse eine eigene CSV-Tabelle, in der die benötigten Benutzerdaten(s.u.) der Schüler\*innen stehen. Diese Tabellen kannst du dann nacheinander hochladen, um alle Benutzer\*innen systematisch zur Plattform hinzuzufügen.
+
+>💡 CSV ist ein offenes Dateiformat, das du problemlos mit Microsoft Excel oder anderen Office-Produkten erstellen kannst.
+
+### Benutzerdaten für den CSV-Importer
+
+Um den CSV-Importer zu verwenden, müssen die Spalten in einem bestimmten Format vorliegen. Als Referenz kannst du auch eine Beispieldatei in der CSV-Importer-Oberfläche herunterladen.
+
+Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.
 
 | Anzeigename | Echter Name | Benutzername | E-Mail (optional) | Über mich (optional) |
-| --- | --- | --- | --- | --- |
+|------------|------------|--------------|--------------------|------------------|
 
-1. Klicke auf **Konfigurationen**
-2. Wähle **Benutzer**
-3. Klicke im aufgeklappten Menü auf **DATEI HOCHLADEN**
-4. Wähle eine Datei, die dem oben beschriebenen Format entspricht
-5. Nach dem Hochladen siehst du eine Vorschau der Benutzer*innen, die mit dieser Datei importiert werden
-6. Wähle eine **Benutzerrolle**, die für alle Benutzer*innen in der Vorschau gelten soll
-7. Wähle einen **Raum**, in dem diese Rolle gelten soll
-8. Klicke auf **Bestätigen**
-9. **Optional:** Überprüfe im Benutzer-Menü, ob der Import erfolgreich war
+### Anleitung zur Nutzung des CSV-Importers
+
+1. In der Menuleiste klicke auf **Konfigurationen**.
+2. Vermutlich musst du in der Ansicht etwas herrunterscrollen, dann siehst du einen Button mit **Benutzer**.
+3. Klicke im ausgeklappten Menü auf **Datei-Upload**.
+4. Wähle die Datei aus, die der oben genannten Formatvorlage entsprechen muss (!).
+5. Nach der Auswahl der Datei siehst du eine Vorschau aller Benutzer\*innen, die mit dieser Datei importiert werden.
+6. Wähle eine Benutzerrolle aus, die auf alle Benutzer\*innen in der Vorschau angewendet wird.
+7. Wähle einen Raum aus, in dem die Benutzer\*innen mit dieser Rolle hinzugefügt werden sollen
+8. Klicke auf **Bestätigen**.
+9. *Optional:* Überprüfe im Benutzermenü, ob der Import erfolgreich war.
 
 ---
 
