@@ -24,25 +24,25 @@ Ideen können mit Kategorien thematisch gruppiert werden.
 
 ### Kategorie erstellen
 
-1. In der Zeile **„Ideen“** auf den **Pfeil nach unten** klicken  
-2. Auf **„Neue Kategorie erstellen“** klicken  
+1. In der Zeile **„Ideen“** auf den **Pfeil nach unten** klicken.  
+2. Auf **„Neue Kategorie erstellen“** klicken.  
 3. Eingeben:
    - Name der Kategorie  
    - Bild auswählen  
-4. Eingaben bestätigen  
+4. Eingaben bestätigen.  
 
 ### Kategorie bearbeiten
 
-1. In der Zeile **„Ideen“** auf den **Pfeil nach unten** klicken  
-2. Auf das **Symbol der Kategorie** klicken, die bearbeitet werden soll  
-3. Änderungen vornehmen  
-4. Änderungen bestätigen  
+1. In der Zeile **„Ideen“** auf den **Pfeil nach unten** klicken.  
+2. Auf das **Symbol der Kategorie** klicken, die bearbeitet werden soll.  
+3. Änderungen vornehmen.  
+4. Änderungen bestätigen.  
 
 ### Kategorie löschen
 
-1. Auf den **Pfeil-nach-unten-Button** in der Zeile **„Ideen“** klicken  
-2. Auf das **Kreuz-Symbol** innerhalb der zu löschenden Kategorie klicken  
-3. Warnmeldung im Popup-Fenster bestätigen  
+1. Auf den **Pfeil-nach-unten-Button** in der Zeile **„Ideen“** klicken.  
+2. Auf das **Kreuz-Symbol** innerhalb der zu löschenden Kategorie klicken.  
+3. Warnmeldung im Popup-Fenster bestätigen.  
 
 ---
 
@@ -90,9 +90,9 @@ Es zeigt an, wie viele Stimmen (in %) für eine Idee erforderlich sind –
 
 ### Benutzer importieren
 
-1. Beispieldatei herunterladen  
-2. CSV-Datei hochladen  
-3. Raum + Benutzerrolle auswählen  
+1. Beispieldatei herunterladen.  
+2. CSV-Datei hochladen. 
+3. Raum + Benutzerrolle auswählen.  
 4. **Bestätigen**  
 5. Optional: **Abbrechen**  
 
@@ -100,7 +100,7 @@ Es zeigt an, wie viele Stimmen (in %) für eine Idee erforderlich sind –
 
 ## Gruppen
 
-Mehrere Benutzer können zu Gruppen zusammengefasst werden – z. B. für Nachrichten (siehe **Nachrichten**).
+Mehrere Benutzer\*innen können zu Gruppen zusammengefasst werden – z. B. für Nachrichten (siehe **Nachrichten**).
 
 ### Gruppe erstellen
 
@@ -109,15 +109,15 @@ Mehrere Benutzer können zu Gruppen zusammengefasst werden – z. B. für Nach
 3. Eingeben:
    - Gruppenname  
    - Beschreibung  
-4. Benutzer auswählen  
-5. Bestätigen  
+4. Benutzer auswählen.  
+5. Bestätigen. 
 
 ### Gruppe bearbeiten
 
-1. In der Zeile **„Ideen“** auf den **Pfeil nach unten** klicken  
-2. Gewünschte Gruppe auswählen  
-3. Änderungen vornehmen  
-4. Bestätigen  
+1. In der Zeile **„Ideen“** auf den **Pfeil nach unten** klicken.  
+2. Gewünschte Gruppe auswählen.  
+3. Änderungen vornehmen.  
+4. Bestätigen.  
 
 ### Gruppe löschen
 
@@ -130,7 +130,7 @@ Mehrere Benutzer können zu Gruppen zusammengefasst werden – z. B. für Nach
 ## Geplante Aktionen
 
 Ermöglicht das Planen von Aktionen für ein zukünftiges Datum –  
-z. B. Benutzer sperren oder Instanz in den Urlaubsmodus versetzen.
+z. B. Benutzer\*innen sperren oder Instanz in den Urlaubsmodus versetzen.
 
 ### Ansicht für geplante Aktionen
 
@@ -198,7 +198,7 @@ Sie kann später verwendet werden, um den Stand zu einem bestimmten Zeitpunkt wi
 
 1. Öffne das Menü: **Konfigurationen → System**  
 2. Klicke auf **„Backup erstellen“**  
-3. Die Backup-Datei wird automatisch heruntergeladen
+3. Die Backup-Datei wird automatisch heruntergeladen.
 
 > 💡 **Hinweis**  
 Das Backup ist eine technische Datei und kann **nicht direkt geöffnet oder gelesen** werden. Sie dient ausschließlich dazu, den Zustand des Systems wiederherzustellen – z. B. im Notfall oder vor größeren Änderungen.
@@ -210,7 +210,7 @@ Das Backup ist eine technische Datei und kann **nicht direkt geöffnet oder gele
 Ein Backup kann **nur über direkten Serverzugriff** wiederhergestellt werden. Das bedeutet: Dies ist ausschließlich bei **Selfhosting** durch technische Administrator*innen möglich.
 
 **Wenn ihr über keine eigene Serververwaltung verfügt:**  
-👉 Bitte kontaktiert das **Aula-Team**, um ein Backup einspielen zu lassen.
+👉 Bitte kontaktiert das **aula-Team**, um ein Backup einspielen zu lassen.
 
 .
 
@@ -218,8 +218,8 @@ Ein Backup kann **nur über direkten Serverzugriff** wiederhergestellt werden. D
 
 **Wer:** Admin, Technischer Admin
 
-1. Klicke auf Gefahrenzone
-2. Anschließend auf Kontolöschen
-3. Bestätige die Löschung der Instanz
+1. Klicke auf Gefahrenzone.
+2. Anschließend auf Kontolöschen.
+3. Bestätige die Löschung der Instanz.
 
 
