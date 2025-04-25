@@ -7,7 +7,7 @@
 
 # 📩 Nachrichten-Menü
 
-Die Nachrichtenfunktion erlaubt es Administrator*innen, Nachrichten an bestimmte Nutzer*innen, Gruppen, Räume oder an alle Nutzer*innen gleichzeitig zu versenden. Die Nachrichten sind **einseitig** – man kann **nicht darauf antworten**, und **Nutzer*innen können sich nicht gegenseitig schreiben**.
+Die Nachrichtenfunktion erlaubt es Administrator\*innen, Nachrichten an bestimmte Nutzer\*innen, Gruppen, Räume oder an alle Nutzer\*innen gleichzeitig zu versenden. Die Nachrichten sind **einseitig** – man kann **nicht darauf antworten**, und **Nutzer*innen können sich nicht gegenseitig schreiben**.
 
 **Aktionen**
 
@@ -31,7 +31,7 @@ Die Nachrichtenfunktion erlaubt es Administrator*innen, Nachrichten an bestimmte
 
 # 📢 Ankündigungen-Menü
 
-Über das Ankündigungssystem können Administrator*innen Informationen und Zustimmungsabfragen an alle Nutzer*innen senden.
+Über das Ankündigungssystem können Administrato\*innen Informationen und Zustimmungsabfragen an alle Nutzer\*innen senden.
 
 - **Obligatorische Zustimmung:** Blockiert die Nutzung der Anwendung, bis diese bestätigt wurde.
 - **Optionale Zustimmung:** Öffnet ein Pop-up, blockiert aber keine Aktionen.
@@ -74,12 +74,12 @@ In diesem Bereich werden **alle gemeldeten Inhalte** gesammelt.
 
 ## Ansicht
 
-![Bericht Card Ansicht](../screenshoots/berichte_card.png)
+![Bericht Card Ansicht](/screenshots/berichte_card.png)
 
 
 Die Berichte bestehen aus vier Elementen:
 1. Einer Überschrift die angibt, welche Einheit (bspw. Box, Kommentar oder Idee) gemeldet wurde und dem zugehörigen Titel dieser Einheit.
-2. Dem Grund ("claim") hier für gibt es elfe Kategorie:
+2. Dem Grund ("claim") hier für gibt es elf Kategorien:
    - Unangemessene Sprache
    - Mobbing oder Belästigung
    - Hassrede
@@ -90,7 +90,7 @@ Die Berichte bestehen aus vier Elementen:
    - Verletzung der Privatsphäre
    - Urheberrechtsverletzung
    - Andere
-3. Einem Link zu dem Ort(Location), wo die gemedelte Einheit zu finden ist.
+3. Einem Link zu dem Ort (Location), an dem die gemedelte Einheit zu finden ist.
 4. Der Text der die Meldung begründet bzw. dieser hinzugefügt wurde.
 
 ## Aktionen
