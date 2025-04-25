@@ -19,12 +19,12 @@ Die beiden Nutzer*innen erhalten im Anschluss eine Email in der sich die wichtig
 - Link für das erstellen eines neuen Passworts (magic link)
 
 
-![Erste Mail: Admin](/welcome_mail.jpeg)
+![Erste Mail: Admin](/screenshots/welcome_mail.png)
 
 ## Die ersten Schritte:
 
 
-1. Gehe auf [neu.aula.de](www.neu.aula.de)
+1. Gehe auf www.neu.aula.de
 2. Dort wirst du zuerst nach deinem Schulcode gefragt
 3. Nachdem du den Code eingegeben hast, wird er automatisch in deinem Browser gespeichert.
 4. Für den nächsten Schritt benötigst du den Link zum Erstellen des Passworts. Diesen gibst du in die Adress-/URL-Leiste deines Browsers ein.
