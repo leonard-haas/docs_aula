@@ -162,7 +162,7 @@ Alle Benutzerkonten müssen von einem\*r Administrator\*in erstellt werden
 
 **Wer:** Alle Rollen
 
-1. Öffne die E-Mail von [admin@neu.aula.de](admin@neu.aula.de)  
+1. Öffne die E-Mail von [admin@neu.aula.de](mailto:admin@neu.aula.de)  
 2. Notiere dir den **Schulcode** und **Benutzernamen** aus der E-Mail  
 3. Gehe auf **neu.aula.de**  
 4. Gib den **Schulcode** ein  
@@ -177,7 +177,7 @@ Alle Benutzerkonten müssen von einem\*r Administrator\*in erstellt werden
 
 **Wer:** Alle Rollen
 
-1. Gehe auf [neu.aula.de](neu.aula.de)
+1. Gehe auf www.neu.aula.de
 2. Gib den **Schulcode** ein  
     1. → Dieser Schritt ist optional, falls du den Instanzcode bereits eingegeben hast  
 3. Gib deinen **Benutzernamen** und das **temporäre Passwort** ein  
