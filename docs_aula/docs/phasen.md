@@ -27,6 +27,9 @@ Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nä
 3. Auf der rechten Seite die neue Zielphase auswählen
 4. Änderungen mit „Bestätigen“ speichern
 
+<img src="/screenshots/move_box.png" alt="Raum erstellen" style="height: 300px;">
+
+
 ### Diskussion → Prüfung
 
 - Nach **X** Tagen (festgelegt beim Erstellen der Box) wird die Box **automatisch** in die Prüfungsphase verschoben.

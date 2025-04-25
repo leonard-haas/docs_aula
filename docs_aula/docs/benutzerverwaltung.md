@@ -87,7 +87,7 @@ Beim Anlegen erhält der/die Benutzer\*in folgende Eigenschaften:
 
 ---
 
-### 🛠️ Benutzer*in anlegen – Schritt-für-Schritt
+### 🛠️ Benutzer*in hinzufügen
 
 1. Klicke im Menü auf **Benutzer-Menü**
 2. Klicke auf **NEUER BENUTZER**
@@ -97,6 +97,8 @@ Beim Anlegen erhält der/die Benutzer\*in folgende Eigenschaften:
 ![Raum Rollen setzen](/screenshots/raumrollen_setzen.png)
 6. Bestätige das Pop-up-Fenster
 7. Bestätige die Erstellung des/der neuen Benutzer*in
+
+<img src="/screenshots/benutzer_hinzufügen.png" alt="Raum erstellen" style="height: 300px;">
 
 ### Mehrere Benutzer*innen anlegen (CSV-Datei)
 

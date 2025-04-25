@@ -87,6 +87,9 @@ Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.
 8. Klicke auf **Bestätigen**.
 9. *Optional:* Überprüfe im Benutzermenü, ob der Import erfolgreich war.
 
+<img src="/screenshots/csv_importer.png" alt="Raum erstellen" style="height: 300px;">
+
+
 ## Die erste Idee erstellen
 
 Nach dem du jetzt Räume, Rollen und Nutzer\*innen erstellt hast kannst du auch schon loslegen und (probeweise) eine erste Idee erstellen.
