@@ -18,12 +18,7 @@
 
 <details>
 <summary>3. <strong>Moderator*in</strong></summary>
-<p>**Rollenbeschreibung für Moderator*innen in der Aula-Beteiligungssoftware:**
-
-**Rolle: Moderator*in**
-
-**Beschreibung:**
-
+<p>
 Moderator\*innen in der Aula-Beteiligungssoftware sind Schüler\*innen und Lehrkräfte, die sicherstellen, dass sich alle an der Schule aktiv und respektvoll beteiligen können. Sie kümmern sich um die Plattform, achten auf die Einhaltung der Verhaltensregeln und unterstützen andere Nutzer\*innen, um eine konstruktive und positive Atmosphäre zu fördern. Es ist sinnvoll, viele Moderator\*innen an der Schule zu haben, damit sie sich die Aufgaben gut aufteilen können – idealerweise zwei Moderator\*innen pro Klasse.</p>
 </details>
 
