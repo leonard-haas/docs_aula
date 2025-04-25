@@ -91,8 +91,8 @@ Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.
 
 Nach dem du jetzt Räume, Rollen und Nutzer\*innen erstellt hast kannst du auch schon loslegen und (probeweise) eine erste Idee erstellen.
 
-1. Gehe in einen beliebigen Raum den du erstellt hast
-2. Klicke auf das Symbol mit der grünen Glühbirne 
+1. Gehe in einen beliebigen Raum den du erstellt hast.
+2. Klicke auf das Symbol mit der grünen Glühbirne. 
 3. Fülle die folgenden Felder aus:
 - **Titel (Pflichtfeld):** Gib einen Titel für die Idee ein.  
 - **Inhalt (Pflichtfeld):** Beschreibe die Idee im zweiten Feld ausführlich.  

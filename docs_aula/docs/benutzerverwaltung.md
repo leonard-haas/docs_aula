@@ -12,24 +12,19 @@
 
 <details>
 <summary>2. <strong>Nutzer*in</strong></summary>
-<p>Nutzer*in können eigene Ideen einbringen, mit anderen Nutzer*innen über Vorschläge diskutieren und in Abstimmungen entscheiden, welche Ideen weiterverfolgt werden sollen.
+<p>Nutzer*innen können eigene Ideen einbringen, mit anderen Nutzer*innen über Vorschläge diskutieren und in Abstimmungen entscheiden, welche Ideen weiterverfolgt werden sollen.
 </p>
 </details>
 
 <details>
 <summary>3. <strong>Moderator*in</strong></summary>
-<p>**Rollenbeschreibung für Moderator*innen in der Aula-Beteiligungssoftware:**
-
-**Rolle: Moderator*in**
-
-**Beschreibung:**
-
-Moderator\*innen in der Aula-Beteiligungssoftware sind Schüler\*innen und Lehrkräfte, die sicherstellen, dass sich alle an der Schule aktiv und respektvoll beteiligen können. Sie kümmern sich um die Plattform, achten auf die Einhaltung der Verhaltensregeln und unterstützen andere Nutzer\*innen, um eine konstruktive und positive Atmosphäre zu fördern. Es ist sinnvoll, viele Moderator\*innen an der Schule zu haben, damit sie sich die Aufgaben gut aufteilen können – idealerweise zwei Moderator\*innen pro Klasse.</p>
+<p>Moderator*innen in der aula-Beteiligungssoftware sind Schüler\*innen und Lehrkräfte, die sicherstellen, dass sich alle an der Schule aktiv und respektvoll beteiligen können. Sie kümmern sich um die Plattform, achten auf die Einhaltung der Verhaltensregeln und unterstützen andere Nutzer*innen, um eine konstruktive und positive Atmosphäre zu fördern. Es ist sinnvoll, viele Moderator*innen an der Schule zu haben, damit sie sich die Aufgaben gut aufteilen können – idealerweise zwei Moderator*innen pro Klasse.
+</p>
 </details>
 
 <details>
 <summary>4. <strong>Super-Moderator*in</strong></summary>
-<p>Hat Moderationsrechte, wie die Moderator\*inne allerdings nicht beschränkt auf einen/oder mehrere Räume, sondern kann alle Räume und ihre Inhalt sehen. Zusätzlich können Supermoderator*innen die Menüpunkte Ideen und Boxen einsehen, um zusätzliche einen Gesamtüberblick zuhalten. </p>
+<p>Hat Moderationsrechte, wie die Moderator\*inne allerdings nicht beschränkt auf einen/oder mehrere Räume, sondern kann alle Räume und ihre Inhalt sehen. Zusätzlich können Supermoderator*innen die Menüpunkte Ideen und Boxen einsehen, um zusätzlich einen Gesamtüberblick zuhalten. </p>
 </details>
 
 <details>
@@ -44,7 +39,7 @@ Moderator\*innen in der Aula-Beteiligungssoftware sind Schüler\*innen und Lehrk
 
 <details>
 <summary>7. <strong>Tech-Admin</strong></summary>
-<p>Kann grundlegende Änderungen an der Schul-Instanz vornehmen, z.B. die Instanz offline schalten oder Betriebszeiten festlegen. Mit dem Tech-Admin-Account sind keine Inhalte sichtbar. Diesen Account kann bspw. auch ein externer Dienstleister nutzen und hat dennoch keinen Einblick auf die inhaltliche Ebene der erstellten Ideen etc.</p>
+<p>Kann grundlegende Änderungen an der Schul-Instanz vornehmen, z.B. die Instanz offline schalten oder Betriebszeiten festlegen. Mit dem Tech-Admin-Account sind keine Inhalte sichtbar. Diesen Account kann bspw. auch ein externer Dienstleister nutzen, denn der Tech-Admin hat keinen Einblick auf die inhaltliche Ebene der erstellten Ideen etc.</p>
 </details>
 
 ### Stimmrecht
@@ -65,7 +60,7 @@ Das Stimmrecht bezeichnet die Möglichkeit, in der Abstimmungsphase über eine I
 ## 👤 Einzelne\*r Benutzer\*in anlegen
 
 Einzelne Benutzer\*innen können im **Benutzer-Menü** erstellt werden.  
-Beim Anlegen erhält der/die Benutzer*in folgende Eigenschaften:
+Beim Anlegen erhält der/die Benutzer\*in folgende Eigenschaften:
 
 ### 📄 Benutzer\*in-Eigenschaften
 
@@ -79,11 +74,11 @@ Beim Anlegen erhält der/die Benutzer*in folgende Eigenschaften:
 - **Benutzerrolle** *(siehe Standard-Setup unter 1.2)*
 - **Status**  
   Es gibt vier mögliche Status:
-  - Aktiv *(Standard)*
-  - Inaktiv
-  - Gesperrt
-  - Archiviert
-- **Optional:** Ein Raum oder mehrere Räume
+    - Aktiv *(Standard)*
+    - Inaktiv
+    - Gesperrt
+    - Archiviert
+- **Optional:** Zuordnung zu einem Raum oder mehreren Räumen
 
 ---
 
@@ -92,14 +87,15 @@ Beim Anlegen erhält der/die Benutzer*in folgende Eigenschaften:
 1. Klicke im Menü auf **Benutzer-Menü**
 2. Klicke auf **NEUER BENUTZER**
 3. Fülle das Formular mit den [oben genannten Angaben](#-benutzerin-eigenschaften) aus
-4. Lege fest, welche Rolle der/die Benutzer*in in welchem Raum haben soll, indem du auf **RAUM-REGELN FESTLEGEN** klickst
-5. Wähle im **Pop-up-Fenster** für jeden Raum eine Rolle <img: ausscreenshoots/raumrollen_setzen.png>
+4. Lege fest, welche Rolle der/die Benutzer\*in in welchem Raum haben soll, indem du auf **RAUM-REGELN FESTLEGEN** klickst
+5. Wähle im **Pop-up-Fenster** für jeden Raum eine Rolle 
+![Raum Rollen setzen](/screenshots/raumrollen_setzen.png)
 6. Bestätige das Pop-up-Fenster
 7. Bestätige die Erstellung des/der neuen Benutzer*in
 
 ### Mehrere Benutzer*innen anlegen (CSV-Datei)
 
-Wenn du die gesamte Instanz zum ersten Mal mit allen Benutzer*innen einrichtest, empfiehlt es sich, die **CSV-Importfunktion** zu verwenden. Damit kannst du **mehrere Benutzer*innen gleichzeitig** in einem bestimmten Raum mit einer bestimmten Rolle anlegen oder hinzufügen.  
+Wenn du die gesamte Instanz zum ersten Mal mit allen Benutzer\*innen einrichtest, empfiehlt es sich, die **CSV-Importfunktion** zu verwenden. Damit kannst du **mehrere Benutzer*innen gleichzeitig** in einem bestimmten Raum mit einer bestimmten Rolle anlegen oder hinzufügen.  
 
 CSV ist ein offenes Dateiformat, das z. B. mit Microsoft Excel oder anderen Tabellenkalkulationsprogrammen einfach erstellt werden kann.
 
