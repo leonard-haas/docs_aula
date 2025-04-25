@@ -94,7 +94,9 @@ Beim Anlegen erhält der/die Benutzer\*in folgende Eigenschaften:
 3. Fülle das Formular mit den [oben genannten Angaben](#-benutzerin-eigenschaften) aus
 4. Lege fest, welche Rolle der/die Benutzer\*in in welchem Raum haben soll, indem du auf **RAUM-REGELN FESTLEGEN** klickst
 5. Wähle im **Pop-up-Fenster** für jeden Raum eine Rolle 
-![Raum Rollen setzen](/screenshots/raumrollen_setzen.png)
+
+<img src="/screenshots/raumrollen_setzen.png" alt="Raum erstellen" style="height: 300px;">
+
 6. Bestätige das Pop-up-Fenster
 7. Bestätige die Erstellung des/der neuen Benutzer*in
 
