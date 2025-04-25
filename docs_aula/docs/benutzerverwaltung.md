@@ -100,24 +100,34 @@ Beim Anlegen erhält der/die Benutzer\*in folgende Eigenschaften:
 
 ### Mehrere Benutzer*innen anlegen (CSV-Datei)
 
-Wenn du die gesamte Instanz zum ersten Mal mit allen Benutzer\*innen einrichtest, empfiehlt es sich, die **CSV-Importfunktion** zu verwenden. Damit kannst du **mehrere Benutzer*innen gleichzeitig** in einem bestimmten Raum mit einer bestimmten Rolle anlegen oder hinzufügen.  
+>💡 Wenn du zum ersten Mal alle Benutzer\*innen für eure Schule in aula anlegen möchtest, ist es am einfachsten, die CSV-Importfunktion zu nutzen.
 
-CSV ist ein offenes Dateiformat, das z. B. mit Microsoft Excel oder anderen Tabellenkalkulationsprogrammen einfach erstellt werden kann.
+Mit dieser Funktion kannst du mehrere Benutzer\*innen auf einmal erstellen – z.B. eine ganze Klasse – und ihnen direkt den richtigen Raum (z. B. Klasse 7a) und eine Rolle (z. B. Nutzer\*in oder Supermoderator\*in) zuweisen.
 
-Für den CSV-Import musst du ein bestimmtes Spaltenformat einhalten. Als Referenz kannst du im CSV-Importbereich auch eine **Beispieldatei herunterladen**.
+Am besten hast du für jede Klasse eine eigene CSV-Tabelle, in der die benötigten Benutzerdaten(s.u.) der Schüler\*innen stehen. Diese Tabellen kannst du dann nacheinander hochladen, um alle Benutzer\*innen systematisch zur Plattform hinzuzufügen.
+
+>💡 CSV ist ein offenes Dateiformat, das du problemlos mit Microsoft Excel oder anderen Office-Produkten erstellen kannst.
+
+### Benutzerdaten für den CSV-Importer
+
+Um den CSV-Importer zu verwenden, müssen die Spalten in einem bestimmten Format vorliegen. Als Referenz kannst du auch eine Beispieldatei in der CSV-Importer-Oberfläche herunterladen.
+
+Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.
 
 | Anzeigename | Echter Name | Benutzername | E-Mail (optional) | Über mich (optional) |
-| --- | --- | --- | --- | --- |
+|------------|------------|--------------|--------------------|------------------|
 
-1. Klicke auf **Konfigurationen**
-2. Wähle **Benutzer**
-3. Klicke im aufgeklappten Menü auf **DATEI HOCHLADEN**
-4. Wähle eine Datei, die dem oben beschriebenen Format entspricht
-5. Nach dem Hochladen siehst du eine Vorschau der Benutzer*innen, die mit dieser Datei importiert werden
-6. Wähle eine **Benutzerrolle**, die für alle Benutzer*innen in der Vorschau gelten soll
-7. Wähle einen **Raum**, in dem diese Rolle gelten soll
-8. Klicke auf **Bestätigen**
-9. **Optional:** Überprüfe im Benutzer-Menü, ob der Import erfolgreich war
+### Anleitung zur Nutzung des CSV-Importers
+
+1. In der Menuleiste klicke auf **Konfigurationen**.
+2. Vermutlich musst du in der Ansicht etwas herrunterscrollen, dann siehst du einen Button mit **Benutzer**.
+3. Klicke im ausgeklappten Menü auf **Datei-Upload**.
+4. Wähle die Datei aus, die der oben genannten Formatvorlage entsprechen muss (!).
+5. Nach der Auswahl der Datei siehst du eine Vorschau aller Benutzer\*innen, die mit dieser Datei importiert werden.
+6. Wähle eine Benutzerrolle aus, die auf alle Benutzer\*innen in der Vorschau angewendet wird.
+7. Wähle einen Raum aus, in dem die Benutzer\*innen mit dieser Rolle hinzugefügt werden sollen
+8. Klicke auf **Bestätigen**.
+9. *Optional:* Überprüfe im Benutzermenü, ob der Import erfolgreich war.
 
 ---
 
