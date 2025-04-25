@@ -18,8 +18,7 @@ Die beiden Nutzer\*innen erhalten im Anschluss eine Email in der sich die wichti
 - Benutzername
 - Link für das Erstellen eines neuen Passworts (magic link)
 
-
-![Erste Mail: Admin](/screenshots/welcome_mail.png)
+<img src="/screenshots/welcome_mail.png" alt="Erste Mail Admin" style="height: 300px;">
 
 ## Die ersten Schritte:
 
