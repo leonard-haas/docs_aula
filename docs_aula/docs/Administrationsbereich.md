@@ -8,7 +8,7 @@
 
 ---
 
-# 📩 Nachrichten-Menü
+# Nachrichten-Menü
 
 Die Nachrichtenfunktion erlaubt es Administrator\*innen, Nachrichten an bestimmte Nutzer\*innen, Gruppen, Räume oder an alle Nutzer\*innen gleichzeitig zu versenden. Die Nachrichten sind **einseitig** – man kann **nicht darauf antworten**, und **Nutzer*innen können sich nicht gegenseitig schreiben**.
 
@@ -32,7 +32,7 @@ Die Nachrichtenfunktion erlaubt es Administrator\*innen, Nachrichten an bestimmt
 
 ---
 
-# 📢 Ankündigungen-Menü
+# Ankündigungen-Menü
 
 Über das Ankündigungssystem können Administrato\*innen Informationen und Zustimmungsabfragen an alle Nutzer\*innen senden.
 
@@ -71,7 +71,7 @@ Die Nachrichtenfunktion erlaubt es Administrator\*innen, Nachrichten an bestimmt
 
 ---
 
-# 🚩 Berichte-Menü
+# Berichte-Menü
 
 In diesem Bereich werden **alle gemeldeten Inhalte** gesammelt.
 
@@ -111,7 +111,7 @@ Die Berichte bestehen aus vier Elementen:
 
 ---
 
-# 🙋 Anfragen-Menü 
+# Anfragen-Menü 
 
 Hier werden alle Nutzer\*innen-Anfragen verwaltet, z. B. Namensänderung oder Datenanforderung.
 
