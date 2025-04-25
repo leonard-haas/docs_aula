@@ -1,9 +1,12 @@
 # Administrationsbereich
 ---
-- [📩 Nachrichten-Menü](#nachrichten-menü)
-- [📢 Ankündigungs-Menü](#ankündigungs-menü)
-- [🚩 Berichte-Menü](#berichte-menü)
-- [🙋 Anfragen-Menü](#anfragen-menü)
+1. [📩 Nachrichten-Menü](#nachrichten-menü)
+2. [📢 Ankündigungs-Menü](#ankündigungs-menü)
+3. [🚩 Berichte-Menü](#berichte-menü)
+4. [🙋 Anfragen-Menü](#anfragen-menü)
+---
+
+---
 
 # 📩 Nachrichten-Menü
 
@@ -78,20 +81,20 @@ In diesem Bereich werden **alle gemeldeten Inhalte** gesammelt.
 
 
 Die Berichte bestehen aus vier Elementen:
-1. Einer Überschrift die angibt, welche Einheit (bspw. Box, Kommentar oder Idee) gemeldet wurde und dem zugehörigen Titel dieser Einheit.
-2. Dem Grund ("claim") hier für gibt es elfe Kategorie:
-   - Unangemessene Sprache
-   - Mobbing oder Belästigung
-   - Hassrede
-   - Gewalt oder Drohungen
-   - Fehlinformation
-   - Unangemessener Inhalt für Kinder
-   - Spam oder Werbung
-   - Verletzung der Privatsphäre
-   - Urheberrechtsverletzung
-   - Andere
+1. Einer Überschrift die angibt, welche Einheit (bspw. Box, Kommentar oder Idee) gemeldet wurde, sowie dem zugehörigen Titel dieser Einheit.
+2. Dem Grund ("claim") hier für gibt es elf Kategorien:
+      - Unangemessene Sprache
+      - Mobbing oder Belästigung
+      - Hassrede
+      - Gewalt oder Drohungen
+      - Fehlinformation
+      - Unangemessener Inhalt für Kinder
+      - Spam oder Werbung
+      - Verletzung der Privatsphäre
+      - Urheberrechtsverletzung
+      - Andere
 3. Einem Link zu dem Ort(Location), wo die gemedelte Einheit zu finden ist.
-4. Der Text der die Meldung begründet bzw. dieser hinzugefügt wurde.
+4. Der Text, der die Meldung begründet bzw. hinzugefügt wurde
 
 ## Aktionen
 
@@ -110,7 +113,7 @@ Die Berichte bestehen aus vier Elementen:
 
 # 🙋 Anfragen-Menü 
 
-Hier werden alle Nutzer\*innen-Anfragen verwaltet, z. B. Namensänderun oder Datenanforderung.
+Hier werden alle Nutzer\*innen-Anfragen verwaltet, z. B. Namensänderung oder Datenanforderung.
 
 ## Aktionen
 
@@ -129,5 +132,5 @@ Hier werden alle Nutzer\*innen-Anfragen verwaltet, z. B. Namensänderun oder D
 ### 📦 Anfrage archivieren
 **Wer:** Admin
 
-- Klicke auf das Symbol oben rechts auf der Anfrageseite.
+- Klicke auf das Symbol oben rechts auf der Anfragemenü.
 

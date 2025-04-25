@@ -27,6 +27,8 @@ Du kannst Räume nach Namen und Beschreibung durchsuchen.
 7. Du kannst auch einzelne Benutzer dem Raum hinzufügen. 
 7. Bestätige dein Eingabe
 
+<img src="/screenshots/raum_hinzufügen.png" alt="Raum erstellen" style="height: 300px;">
+
 ## Raum bearbeiten
 1. Klicke auf einen Raum in der Tabellenansicht.
 2. Du kannst alle Merkmale des Raumes verändern oder neue Benutzer hinzufügen.
