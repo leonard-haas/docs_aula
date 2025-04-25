@@ -53,9 +53,9 @@ Um die Struktur der Schule in aula abbilden zu können, müssen von den Administ
 
     3.5 Bestätige deine Eingaben durch das klicken auf BESTÄTIGEN
 
+<img src="/screenshots/raum_hinzufügen.png" alt="Raum erstellen" style="height: 300px;">
 
-
-## Mehere Benutzer\*innen mit CSV Tabellen anlegen
+## Mehrere Benutzer\*innen mit CSV Tabellen anlegen
 
 >💡 Wenn du zum ersten Mal alle Benutzer\*innen für eure Schule in aula anlegen möchtest, ist es am einfachsten, die CSV-Importfunktion zu nutzen.
 

@@ -1,9 +1,12 @@
 # Administrationsbereich
 ---
-- [📩 Nachrichten-Menü](#nachrichten-menü)
-- [📢 Ankündigungs-Menü](#ankündigungs-menü)
-- [🚩 Berichte-Menü](#berichte-menü)
-- [🙋 Anfragen-Menü](#anfragen-menü)
+1. [📩 Nachrichten-Menü](#nachrichten-menü)
+2. [📢 Ankündigungs-Menü](#ankündigungs-menü)
+3. [🚩 Berichte-Menü](#berichte-menü)
+4. [🙋 Anfragen-Menü](#anfragen-menü)
+---
+
+---
 
 # 📩 Nachrichten-Menü
 
@@ -110,7 +113,7 @@ Die Berichte bestehen aus vier Elementen:
 
 # 🙋 Anfragen-Menü 
 
-Hier werden alle Nutzer\*innen-Anfragen verwaltet, z. B. Namensänderun oder Datenanforderung.
+Hier werden alle Nutzer\*innen-Anfragen verwaltet, z. B. Namensänderung oder Datenanforderung.
 
 ## Aktionen
 
@@ -129,5 +132,5 @@ Hier werden alle Nutzer\*innen-Anfragen verwaltet, z. B. Namensänderun oder D
 ### 📦 Anfrage archivieren
 **Wer:** Admin
 
-- Klicke auf das Symbol oben rechts auf der Anfrageseite.
+- Klicke auf das Symbol oben rechts auf der Anfragemenü.
 
