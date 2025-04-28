@@ -1,6 +1,6 @@
 # 🎓 Räume
 
-> **Hinweis**: Diese Ansicht ist nur sichtbar für Administrator\*innen
+> **Hinweis**: Diese Ansicht ist nur für Adminstator\*innen sichtbar.
 
 **Kurz erklärt**: Unter dieser Ansicht findet sich eine Tabelle, die eine Übersicht über alle Räume gibt.
 
@@ -18,14 +18,14 @@ Du kannst Räume nach Namen und Beschreibung durchsuchen.
 
 ## Raum erstellen
 
-1. Klicke auf den RAUM HINZUFÜGEN-Button.
+1. Klicke auf den **RAUM HINZUFÜGEN**-Button.
 3. Gib einen Namen für den Raum ein.
 4. Du kannst auch eine Beschreibung hinzufügen.
 5. Du kannst auch ein Bild für den Raum einfügen.
 5. "Dauer der Phasen": Du kannst hier festlegen, wie lange die Phasen in einem bestimmten Raum dauern sollen.
 6. Meistens willst du den Status auf "Aktiv" lassen. Du kannst den Raum auch als "inaktiv" erstellen, damit er für andere Personen nicht sichtbar ist.
 7. Du kannst auch einzelne Benutzer\*innen dem Raum hinzufügen. 
-7. Bestätige dein Eingabe
+7. Bestätige dein Eingabe.
 
 <img src="/screenshots/raum_hinzufügen.png" alt="Raum erstellen" style="height: 300px;">
 
@@ -36,5 +36,5 @@ Du kannst Räume nach Namen und Beschreibung durchsuchen.
 
 ## Raum löschen
 1. Klicke auf das Kästchen am linken Rand der Tabelle zum zugehörigen Raum.
-2. Klicke anschließend die rote Mülltonne "RAUM ENTFERNEN".
+2. Klicke anschließend die rote Mülltonne **RAUM ENTFERNEN**
 3. Bestätige die Löschung in dem Pop-up Fenster.
