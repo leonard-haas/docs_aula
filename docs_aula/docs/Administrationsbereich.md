@@ -10,11 +10,7 @@
 
 # Nachrichten-Menü
 
-<<<<<<< HEAD
-Die Nachrichtenfunktion erlaubt es Administrator\*innen, Nachrichten an bestimmte Nutzer\*innen, Gruppen, Räume oder an alle Nutzer\*innen gleichzeitig zu versenden. Die Nachrichten sind **einseitig** – man kann **nicht darauf antworten**, und **Nutzer\*innen können sich nicht gegenseitig schreiben**.
-=======
 Die Nachrichtenfunktion erlaubt es Administrator\*innen, Nachrichten an bestimmte Nutzer\*innen, Gruppen, Räume oder an alle Nutzer\*innen gleichzeitig zu versenden. Die Nachrichten sind **einseitig** – man kann **nicht darauf antworten**, und **Nutzer*innen können sich nicht gegenseitig schreiben**.
->>>>>>> 4c6c902bd1b0ef3848096fa1cdda95083752b036
 
 **Aktionen**
 

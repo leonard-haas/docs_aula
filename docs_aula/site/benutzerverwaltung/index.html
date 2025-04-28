@@ -362,9 +362,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#benutzerin-anlegen-schritt-fur-schritt" class="md-nav__link">
+  <a href="#benutzerin-hinzufugen" class="md-nav__link">
     <span class="md-ellipsis">
-      🛠️ Benutzer*in anlegen – Schritt-für-Schritt
+      🛠️ Benutzer*in hinzufügen
     </span>
   </a>
   
@@ -374,6 +374,24 @@
   <a href="#mehrere-benutzerinnen-anlegen-csv-datei" class="md-nav__link">
     <span class="md-ellipsis">
       Mehrere Benutzer*innen anlegen (CSV-Datei)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#benutzerdaten-fur-den-csv-importer" class="md-nav__link">
+    <span class="md-ellipsis">
+      Benutzerdaten für den CSV-Importer
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#anleitung-zur-nutzung-des-csv-importers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Anleitung zur Nutzung des CSV-Importers
     </span>
   </a>
   
@@ -639,19 +657,24 @@
 
 <details>
 <summary>2. <strong>Nutzer*in</strong></summary>
-<p>Nutzer*in können eigene Ideen einbringen, mit anderen Nutzer*innen über Vorschläge diskutieren und in Abstimmungen entscheiden, welche Ideen weiterverfolgt werden sollen.
+<p>Nutzer*innen können eigene Ideen einbringen, mit anderen Nutzer*innen über Vorschläge diskutieren und in Abstimmungen entscheiden, welche Ideen weiterverfolgt werden sollen.
 </p>
 </details>
 
 <details>
 <summary>3. <strong>Moderator*in</strong></summary>
-<p>
+<p>**Rollenbeschreibung für Moderator*innen in der Aula-Beteiligungssoftware:**
+
+**Rolle: Moderator*in**
+
+**Beschreibung:**
+
 Moderator\*innen in der Aula-Beteiligungssoftware sind Schüler\*innen und Lehrkräfte, die sicherstellen, dass sich alle an der Schule aktiv und respektvoll beteiligen können. Sie kümmern sich um die Plattform, achten auf die Einhaltung der Verhaltensregeln und unterstützen andere Nutzer\*innen, um eine konstruktive und positive Atmosphäre zu fördern. Es ist sinnvoll, viele Moderator\*innen an der Schule zu haben, damit sie sich die Aufgaben gut aufteilen können – idealerweise zwei Moderator\*innen pro Klasse.</p>
 </details>
 
 <details>
 <summary>4. <strong>Super-Moderator*in</strong></summary>
-<p>Hat Moderationsrechte, wie die Moderator\*inne allerdings nicht beschränkt auf einen/oder mehrere Räume, sondern kann alle Räume und ihre Inhalt sehen. Zusätzlich können Supermoderator*innen die Menüpunkte Ideen und Boxen einsehen, um zusätzliche einen Gesamtüberblick zuhalten. </p>
+<p>Hat Moderationsrechte, wie die Moderator\*inne allerdings nicht beschränkt auf einen/oder mehrere Räume, sondern kann alle Räume und ihre Inhalt sehen. Zusätzlich können Supermoderator*innen die Menüpunkte Ideen und Boxen einsehen, um zusätzlich einen Gesamtüberblick zuhalten. </p>
 </details>
 
 <details>
@@ -666,7 +689,7 @@ Moderator\*innen in der Aula-Beteiligungssoftware sind Schüler\*innen und Lehrk
 
 <details>
 <summary>7. <strong>Tech-Admin</strong></summary>
-<p>Kann grundlegende Änderungen an der Schul-Instanz vornehmen, z.B. die Instanz offline schalten oder Betriebszeiten festlegen. Mit dem Tech-Admin-Account sind keine Inhalte sichtbar. Diesen Account kann bspw. auch ein externer Dienstleister nutzen und hat dennoch keinen Einblick auf die inhaltliche Ebene der erstellten Ideen etc.</p>
+<p>Kann grundlegende Änderungen an der Schul-Instanz vornehmen, z.B. die Instanz offline schalten oder Betriebszeiten festlegen. Mit dem Tech-Admin-Account sind keine Inhalte sichtbar. Diesen Account kann bspw. auch ein externer Dienstleister nutzen, denn der Tech-Admin hat keinen Einblick auf die inhaltliche Ebene der erstellten Ideen etc.</p>
 </details>
 
 <h3 id="stimmrecht">Stimmrecht</h3>
@@ -720,28 +743,40 @@ Beim Anlegen erhält der/die Benutzer*in folgende Eigenschaften:</p>
 <li><strong>Optional:</strong> Beschreibung</li>
 <li><strong>Benutzerrolle</strong> <em>(siehe Standard-Setup unter 1.2)</em></li>
 <li><strong>Status</strong><br />
-  Es gibt vier mögliche Status:</li>
+  Es gibt vier mögliche Status:<ul>
 <li>Aktiv <em>(Standard)</em></li>
 <li>Inaktiv</li>
 <li>Gesperrt</li>
 <li>Archiviert</li>
-<li><strong>Optional:</strong> Ein Raum oder mehrere Räume</li>
+</ul>
+</li>
+<li><strong>Optional:</strong> Zuordnung zu einem Raum oder mehreren Räumen</li>
 </ul>
 <hr />
-<h3 id="benutzerin-anlegen-schritt-fur-schritt">🛠️ Benutzer*in anlegen – Schritt-für-Schritt</h3>
+<h3 id="benutzerin-hinzufugen">🛠️ Benutzer*in hinzufügen</h3>
 <ol>
 <li>Klicke im Menü auf <strong>Benutzer-Menü</strong></li>
 <li>Klicke auf <strong>NEUER BENUTZER</strong></li>
 <li>Fülle das Formular mit den <a href="#-benutzerin-eigenschaften">oben genannten Angaben</a> aus</li>
-<li>Lege fest, welche Rolle der/die Benutzer<em>in in welchem Raum haben soll, indem du auf </em><em>RAUM-REGELN FESTLEGEN</em>* klickst</li>
-<li>Wähle im <strong>Pop-up-Fenster</strong> für jeden Raum eine Rolle <img: ausscreenshoots/raumrollen_setzen.png></li>
+<li>Lege fest, welche Rolle der/die Benutzer*in in welchem Raum haben soll, indem du auf <strong>RAUM-REGELN FESTLEGEN</strong> klickst</li>
+<li>Wähle im <strong>Pop-up-Fenster</strong> für jeden Raum eine Rolle 
+<img alt="Raum Rollen setzen" src="/screenshots/raumrollen_setzen.png" /></li>
 <li>Bestätige das Pop-up-Fenster</li>
 <li>Bestätige die Erstellung des/der neuen Benutzer*in</li>
 </ol>
+<p><img src="/screenshots/benutzer_hinzufügen.png" alt="Raum erstellen" style="height: 300px;"></p>
 <h3 id="mehrere-benutzerinnen-anlegen-csv-datei">Mehrere Benutzer*innen anlegen (CSV-Datei)</h3>
-<p>Wenn du die gesamte Instanz zum ersten Mal mit allen Benutzer<em>innen einrichtest, empfiehlt es sich, die </em><em>CSV-Importfunktion</em><em> zu verwenden. Damit kannst du </em><em>mehrere Benutzer</em>innen gleichzeitig** in einem bestimmten Raum mit einer bestimmten Rolle anlegen oder hinzufügen.  </p>
-<p>CSV ist ein offenes Dateiformat, das z. B. mit Microsoft Excel oder anderen Tabellenkalkulationsprogrammen einfach erstellt werden kann.</p>
-<p>Für den CSV-Import musst du ein bestimmtes Spaltenformat einhalten. Als Referenz kannst du im CSV-Importbereich auch eine <strong>Beispieldatei herunterladen</strong>.</p>
+<blockquote>
+<p>💡 Wenn du zum ersten Mal alle Benutzer*innen für eure Schule in aula anlegen möchtest, ist es am einfachsten, die CSV-Importfunktion zu nutzen.</p>
+</blockquote>
+<p>Mit dieser Funktion kannst du mehrere Benutzer*innen auf einmal erstellen – z.B. eine ganze Klasse – und ihnen direkt den richtigen Raum (z. B. Klasse 7a) und eine Rolle (z. B. Nutzer*in oder Supermoderator*in) zuweisen.</p>
+<p>Am besten hast du für jede Klasse eine eigene CSV-Tabelle, in der die benötigten Benutzerdaten(s.u.) der Schüler*innen stehen. Diese Tabellen kannst du dann nacheinander hochladen, um alle Benutzer*innen systematisch zur Plattform hinzuzufügen.</p>
+<blockquote>
+<p>💡 CSV ist ein offenes Dateiformat, das du problemlos mit Microsoft Excel oder anderen Office-Produkten erstellen kannst.</p>
+</blockquote>
+<h3 id="benutzerdaten-fur-den-csv-importer">Benutzerdaten für den CSV-Importer</h3>
+<p>Um den CSV-Importer zu verwenden, müssen die Spalten in einem bestimmten Format vorliegen. Als Referenz kannst du auch eine Beispieldatei in der CSV-Importer-Oberfläche herunterladen.</p>
+<p>Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.</p>
 <table>
 <thead>
 <tr>
@@ -762,16 +797,17 @@ Beim Anlegen erhält der/die Benutzer*in folgende Eigenschaften:</p>
 </tr>
 </tbody>
 </table>
+<h3 id="anleitung-zur-nutzung-des-csv-importers">Anleitung zur Nutzung des CSV-Importers</h3>
 <ol>
-<li>Klicke auf <strong>Konfigurationen</strong></li>
-<li>Wähle <strong>Benutzer</strong></li>
-<li>Klicke im aufgeklappten Menü auf <strong>DATEI HOCHLADEN</strong></li>
-<li>Wähle eine Datei, die dem oben beschriebenen Format entspricht</li>
-<li>Nach dem Hochladen siehst du eine Vorschau der Benutzer*innen, die mit dieser Datei importiert werden</li>
-<li>Wähle eine <strong>Benutzerrolle</strong>, die für alle Benutzer*innen in der Vorschau gelten soll</li>
-<li>Wähle einen <strong>Raum</strong>, in dem diese Rolle gelten soll</li>
-<li>Klicke auf <strong>Bestätigen</strong></li>
-<li><strong>Optional:</strong> Überprüfe im Benutzer-Menü, ob der Import erfolgreich war</li>
+<li>In der Menuleiste klicke auf <strong>Konfigurationen</strong>.</li>
+<li>Vermutlich musst du in der Ansicht etwas herrunterscrollen, dann siehst du einen Button mit <strong>Benutzer</strong>.</li>
+<li>Klicke im ausgeklappten Menü auf <strong>Datei-Upload</strong>.</li>
+<li>Wähle die Datei aus, die der oben genannten Formatvorlage entsprechen muss (!).</li>
+<li>Nach der Auswahl der Datei siehst du eine Vorschau aller Benutzer*innen, die mit dieser Datei importiert werden.</li>
+<li>Wähle eine Benutzerrolle aus, die auf alle Benutzer*innen in der Vorschau angewendet wird.</li>
+<li>Wähle einen Raum aus, in dem die Benutzer*innen mit dieser Rolle hinzugefügt werden sollen</li>
+<li>Klicke auf <strong>Bestätigen</strong>.</li>
+<li><em>Optional:</em> Überprüfe im Benutzermenü, ob der Import erfolgreich war.</li>
 </ol>
 <hr />
 <h2 id="wie-einzelne-benutzerinnen-zu-aula-finden">Wie einzelne Benutzer*innen zu aula finden</h2>
@@ -792,7 +828,7 @@ Beim Anlegen erhält der/die Benutzer*in folgende Eigenschaften:</p>
 <h4 id="login-mit-magic-link">Login mit Magic Link</h4>
 <p><strong>Wer:</strong> Alle Rollen</p>
 <ol>
-<li>Öffne die E-Mail von <a href="admin@neu.aula.de">admin@neu.aula.de</a>  </li>
+<li>Öffne die E-Mail von <a href="mailto:admin@neu.aula.de">admin@neu.aula.de</a>  </li>
 <li>Notiere dir den <strong>Schulcode</strong> und <strong>Benutzernamen</strong> aus der E-Mail  </li>
 <li>Gehe auf <strong>neu.aula.de</strong>  </li>
 <li>Gib den <strong>Schulcode</strong> ein  <ol>
@@ -807,7 +843,7 @@ Beim Anlegen erhält der/die Benutzer*in folgende Eigenschaften:</p>
 <h4 id="login-mit-temporarem-passwort">Login mit temporärem Passwort</h4>
 <p><strong>Wer:</strong> Alle Rollen</p>
 <ol>
-<li>Gehe auf <a href="neu.aula.de">neu.aula.de</a></li>
+<li>Gehe auf <a href="http://www.neu.aula.de">www.neu.aula.de</a></li>
 <li>Gib den <strong>Schulcode</strong> ein  <ol>
 <li>→ Dieser Schritt ist optional, falls du den Instanzcode bereits eingegeben hast  </li>
 </ol>
