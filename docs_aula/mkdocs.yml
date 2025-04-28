@@ -38,11 +38,6 @@ theme:
 
 extra:
   cname: docs.aula.de
-  social:
-  - icon: fontawesome/brands/instagram
-    link:  https://www.instagram.com/projekt_aula/?hl=de  
-  - icon: fontawesome/brands/linkedin
-    link: https://www.linkedin.com/company/aula-ggmbh/?originalSubdomain=de
  
 
 markdown_extensions:
