@@ -3,7 +3,7 @@
 
 ## Rollen in der aula Software
 
->Kurz erklärt: Das Rollensystem in der aula-Software bestimmt, welche Aufgaben und Rechte die verschiedenen Rollen haben. Es legt fest, wer welche Aktionen ausführen und welche Bereiche einsehen darf.
+>Kurz erklärt: Das Rollensystem in der aula-Software bestimmt, welche Aufgaben und Rechte die verschiedenen Rollen haben. Es legt fest, wer welche Aktionen ausführen kann und welche Bereiche einsehen darf.
 
 <details>
 <summary>1. <strong>Gast</strong></summary>
@@ -18,18 +18,12 @@
 
 <details>
 <summary>3. <strong>Moderator*in</strong></summary>
-<p>**Rollenbeschreibung für Moderator*innen in der Aula-Beteiligungssoftware:**
-
-**Rolle: Moderator*in**
-
-**Beschreibung:**
-
-Moderator\*innen in der Aula-Beteiligungssoftware sind Schüler\*innen und Lehrkräfte, die sicherstellen, dass sich alle an der Schule aktiv und respektvoll beteiligen können. Sie kümmern sich um die Plattform, achten auf die Einhaltung der Verhaltensregeln und unterstützen andere Nutzer\*innen, um eine konstruktive und positive Atmosphäre zu fördern. Es ist sinnvoll, viele Moderator\*innen an der Schule zu haben, damit sie sich die Aufgaben gut aufteilen können – idealerweise zwei Moderator\*innen pro Klasse.</p>
+<p>Moderator*innen in der aula-Beteiligungssoftware sind Schüler*innen und Lehrkräfte, die sicherstellen, dass sich alle an der Schule aktiv und respektvoll beteiligen können. Sie kümmern sich um die Plattform, achten auf die Einhaltung der Verhaltensregeln und unterstützen andere Nutzer*innen, um eine konstruktive und positive Atmosphäre zu fördern. Es ist sinnvoll viele Moderator*innen an der Schule zu haben, damit sie sich die Aufgaben gut aufteilen können – idealerweise zwei Moderator*innen pro Klasse.</p>
 </details>
 
 <details>
 <summary>4. <strong>Super-Moderator*in</strong></summary>
-<p>Hat Moderationsrechte, wie die Moderator\*inne allerdings nicht beschränkt auf einen/oder mehrere Räume, sondern kann alle Räume und ihre Inhalt sehen. Zusätzlich können Supermoderator*innen die Menüpunkte Ideen und Boxen einsehen, um zusätzlich einen Gesamtüberblick zuhalten. </p>
+<p>Hat Moderationsrechte, wie die Moderator*innen, allerdings nicht beschränkt auf einen/oder mehrere Räume, sondern kann alle Räume und ihre Inhalt sehen. Zusätzlich können Supermoderator*innen die Menüpunkte Ideen und Boxen einsehen, um einen Gesamtüberblick zuhalten. </p>
 </details>
 
 <details>
@@ -89,16 +83,16 @@ Beim Anlegen erhält der/die Benutzer\*in folgende Eigenschaften:
 
 ### 🛠️ Benutzer*in hinzufügen
 
-1. Klicke im Menü auf **Benutzer-Menü**
-2. Klicke auf **NEUER BENUTZER**
-3. Fülle das Formular mit den [oben genannten Angaben](#-benutzerin-eigenschaften) aus
-4. Lege fest, welche Rolle der/die Benutzer\*in in welchem Raum haben soll, indem du auf **RAUM-REGELN FESTLEGEN** klickst
-5. Wähle im **Pop-up-Fenster** für jeden Raum eine Rolle 
-![Raum Rollen setzen](/screenshots/raumrollen_setzen.png)
-6. Bestätige das Pop-up-Fenster
-7. Bestätige die Erstellung des/der neuen Benutzer*in
+1. Klicke im Menü auf **Benutzer-Menü**.
+2. Klicke auf **NEUER BENUTZER**.
+3. Fülle das Formular mit den [oben genannten Angaben](#-benutzerin-eigenschaften) aus.
+4. Lege fest, welche Rolle der/die Benutzer\*in in welchem Raum haben soll, indem du auf **RAUM-REGELN FESTLEGEN** klickst.
+5. Wähle im **Pop-up-Fenster** für jeden Raum eine Rolle. 
+6. Bestätige das Pop-up-Fenster.
+7. Bestätige die Erstellung des/der neuen Benutzer*in.
 
 <img src="/screenshots/benutzer_hinzufügen.png" alt="Raum erstellen" style="height: 300px;">
+<img src="/screenshots/raumrollen_setzen.png" alt="Raum erstellen" style="height: 300px;">
 
 ### Mehrere Benutzer*innen anlegen (CSV-Datei)
 
@@ -124,7 +118,7 @@ Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.
 1. In der Menuleiste klicke auf **Konfigurationen**.
 2. Vermutlich musst du in der Ansicht etwas herrunterscrollen, dann siehst du einen Button mit **Benutzer**.
 3. Klicke im ausgeklappten Menü auf **Datei-Upload**.
-4. Wähle die Datei aus, die der oben genannten Formatvorlage entsprechen muss (!).
+4. Wähle die csv-Datei aus, die der oben genannten Formatvorlage entsprechen muss (!).
 5. Nach der Auswahl der Datei siehst du eine Vorschau aller Benutzer\*innen, die mit dieser Datei importiert werden.
 6. Wähle eine Benutzerrolle aus, die auf alle Benutzer\*innen in der Vorschau angewendet wird.
 7. Wähle einen Raum aus, in dem die Benutzer\*innen mit dieser Rolle hinzugefügt werden sollen
@@ -135,11 +129,11 @@ Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.
 
 ## Wie einzelne Benutzer\*innen zu aula finden
 
-Der Onboarding-Prozess beschreibt, wie Benutzer*innen erstmals auf die Plattform zugreifen können. Es gibt zwei Möglichkeiten, wie eine Person sich nach der Erstellung ihres Kontos anmelden kann:
+Der Onboarding-Prozess beschreibt, wie Benutzer\*innen erstmals auf die Plattform zugreifen können. Es gibt zwei Möglichkeiten, wie eine Person sich nach der Erstellung ihres Kontos anmelden kann:
 
 ### Login per E-Mail
 
-Wenn das Benutzerkonto mit einer E-Mail-Adresse erstellt wurde, erhält der/die Benutzer*in eine E-Mail mit einem sogenannten **Magic Link**. Dieser Link ist eine einmalige URL, mit der man sich **ohne Passwort sofort anmelden** kann.
+Wenn das Benutzerkonto mit einer E-Mail-Adresse erstellt wurde, erhält der/die Benutzer\*in eine E-Mail mit einem sogenannten **Magic Link**. Dieser Link ist eine einmalige URL, mit der man sich **ohne Passwort sofort anmelden** kann.
 
 Der erste Schritt beim Onboarding ist das **Festlegen eines neuen Passworts**.
 
@@ -164,28 +158,28 @@ Alle Benutzerkonten müssen von einem\*r Administrator\*in erstellt werden
 
 **Wer:** Alle Rollen
 
-1. Öffne die E-Mail von [admin@neu.aula.de](mailto:admin@neu.aula.de)  
-2. Notiere dir den **Schulcode** und **Benutzernamen** aus der E-Mail  
-3. Gehe auf **neu.aula.de**  
-4. Gib den **Schulcode** ein  
-    1. → Dieser Schritt ist optional, falls du den Instanzcode bereits eingegeben hast  
-5. Füge den **Magic Link** in die Adresszeile des Browsers ein  
-6. Gib ein neues Passwort **zweimal** ein  
-7. Speichere das neue Passwort
-8. Anschließend kannst du dich mit deinem Benutzer\*innennamen und neuem Passwort anmelden
+1. Öffne die E-Mail von [admin@neu.aula.de](mailto:admin@neu.aula.de).  
+2. Notiere dir den **Schulcode** und **Benutzernamen** aus der E-Mail.  
+3. Gehe auf **www.neu.aula.de**.  
+4. Gib den **Schulcode** ein.  
+    1. → Dieser Schritt ist optional, falls du den Instanzcode bereits eingegeben hast.  
+5. Füge den **Magic Link** in die Adresszeile des Browsers ein.  
+6. Gib ein neues Passwort **zweimal** ein.  
+7. Speichere das neue Passwort.
+8. Anschließend kannst du dich mit deinem Benutzerinnennamen und neuem Passwort anmelden.
 
 
 #### Login mit temporärem Passwort
 
 **Wer:** Alle Rollen
 
-1. Gehe auf www.neu.aula.de
-2. Gib den **Schulcode** ein  
-    1. → Dieser Schritt ist optional, falls du den Instanzcode bereits eingegeben hast  
-3. Gib deinen **Benutzernamen** und das **temporäre Passwort** ein  
-4. Gib erneut das **temporäre Passwort** ein und danach das **neue Passwort** **zweimal**  
-5. Speichere das neue Passwort  
-6. Melde dich mit deinem **Benutzernamen** und dem **neuen Passwort** an  
+1. Gehe auf **www.neu.aula.de**.
+2. Gib den **Schulcode** ein.  
+    1. → Dieser Schritt ist optional, falls du den Instanzcode bereits eingegeben hast.  
+3. Gib deinen **Benutzernamen** und das **temporäre Passwort** ein.  
+4. Gib erneut das **temporäre Passwort** ein und danach das **neue Passwort** **zweimal**.  
+5. Speichere das neue Passwort.  
+6. Melde dich mit deinem **Benutzernamen** und dem **neuen Passwort** an.  
 
 
 #### Passwortliste drucken
@@ -193,11 +187,11 @@ Alle Benutzerkonten müssen von einem\*r Administrator\*in erstellt werden
 
 > 💡 Diese Passwortlisten können ausgeschnitten und dann einzeln an die Schüler\*innen ausgegeben werden.
 
-1. Klicke im Menü auf **Benutzer**
-2. Klicke auf den Button mit dem Drucker-Symbol **PASSWORTLISTE**
-3. Wähle im Pop-up-Fenster den gewünschten **Raum** oder **alle Räume** aus (Standard: alle)
-4. Wähle **nur temporäre Passwörter** aus (Standard)
-5. Bestätige deine Auswahl aus Schritt 3 und 4
-6. Es öffnet sich ein neuer Tab mit der Passwortliste
-7. Klicke oben rechts auf den **Drucken-Button**, um den Druck zu starten
+1. Klicke im Menü auf **Benutzer**.
+2. Klicke auf den Button mit dem Drucker-Symbol **PASSWORTLISTE**.
+3. Wähle im Pop-up-Fenster den gewünschten **Raum** oder **alle Räume** aus (Standard: alle).
+4. Wähle **nur temporäre Passwörter** aus (Standard).
+5. Bestätige deine Auswahl aus Schritt 3 und 4.
+6. Es öffnet sich ein neuer Tab mit der Passwortliste.
+7. Klicke oben rechts auf den **Drucken-Button**, um den Druck zu starten.
 

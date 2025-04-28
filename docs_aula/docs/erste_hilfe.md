@@ -1,28 +1,28 @@
 # Erste Hilfe
-Hier findest du eine Anleitung, die Probleme mit der Aula-Software löst.
+Hier findest Du eine Anleitung, die häufige Probleme mit der aula-Software löst.
 
 ## Seite neu laden
 
-Windows/Linux: Drücken Sie Strg + F5 oder Strg + Umschalt + R.
-Mac: Drücken Sie Cmd + Umschalt + R.
+Windows/Linux: Drücke Strg + F5 oder Strg + Umschalt + R.
+Mac: Drücke Cmd + Umschalt + R.
+
 ## App beenden und Neustart
 **iPhone:**
+
 1. Wische vom unteren Bildschirmrand nach oben und halte kurz gedrückt (oder doppelklicken Sie auf den Home-Button).
-
 2. Wische nach oben über die App die du schließen möchtst.
-
 3. Tippe auf das App-Symbol, um die App neu zu starten.
 
 **Android:** 
-1. Öffnen Sie die App-Übersicht, indem Sie von unten nach oben wischen oder die quadratische "Multitasking"-Taste drücken.
 
+1. Öffne die App-Übersicht, indem Du von unten nach ober wischst oder die quadratische "Multitasking"-Taste drückst.
 2. Wische nach oben oder tippe auf "Alle schließen"
-
 3. Öffne die App noch einmal.
 
-Schritt 2
-Wenn eine Nutzer*in ein Problem hat, kann es an der Nutzer*innenrolle liegen. Das kann zum Beispiel passieren, wenn sie eine bestimmte Aktion nicht durchführen kann oder etwas im Menü oder einen Raum nicht sieht.
-Überprüfe, welche Rolle der Nutzer hat. Kann die Person die Aktion machen?
-Versuche es mal mit und ohne Anmeldung.
+**Schritt 2**
 
-Hast du schon alles probiert? Hast du immer noch Probleme? Schreib uns an support@aula.de
+Wenn ein\*e Nutzer\*in ein Problem hat, kann es an der Nutzer\*innenrolle liegen. Das kann zum Beispiel passieren, wenn er/sie eine bestimmte Aktion nicht durchführen kann oder etwas im Menü oder einem Raum nicht sieht.
+Überprüfe welche Rolle der Nutzer hat. Kann die Person die Aktion durchführen?
+Versuche es mit und ohne Anmeldung.
+
+Hast Du schon alles probiert? Hast Du immer noch Probleme? Schreibe uns an [support@aula.de](mailto:support@aula.de)

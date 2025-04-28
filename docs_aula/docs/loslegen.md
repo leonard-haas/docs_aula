@@ -8,18 +8,17 @@
 
 ### Die ersten beiden Nutzer*innen
 
-Jede Instanz die von aula bereitgestellt wird generiert zunächst zwei Nutzer\*innen den Tech-Admin und den Admin (mehr über die Rollen erfährst du hier). Deshalb benötigt aula zu Anfang zwei Personen, die diese Rollen übernehmen und ihre zugehörigen Email-Adressen, um die Instanz freigeben zu können.
+Jede Instanz die von aula bereitgestellt wird, generiert zunächst zwei Nutzer\*innen den Tech-Admin und den Admin (mehr über die Rollen erfährst du [hier](benutzerverwaltung.md)). Deshalb benötigt aula zu Anfang zwei Personen, die diese Rollen übernehmen und ihre zugehörigen Email-Adressen, um die Instanz freigeben zu können.
 
 
 ### Die E-Mail mit alle notwendigen Informationen:
-Die beiden Nutzer\*innen erhalten im Anschluss eine Email in der sich die wichtigsten Informationen finde:
+Die beiden Nutzer\*innen erhalten im Anschluss eine Email in der sich die wichtigsten Informationen finden:
 
 - Schulcode: Jede Instanz hat ihren eigenen Code
 - Benutzername
 - Link für das Erstellen eines neuen Passworts (magic link)
 
-
-![Erste Mail: Admin](/screenshots/welcome_mail.png)
+<img src="/screenshots/welcome_mail.png" alt="Erste Mail Admin" style="height: 300px;">
 
 ## Die ersten Schritte:
 
@@ -39,8 +38,8 @@ Um die Struktur der Schule in aula abbilden zu können, müssen von den Administ
 
 ### Einen Raum erstellen
 
-1. Gehe im Menü auf Räume
-2. Klicke auf Raum hinzufügen
+1. Gehe im Menü auf "Räume".
+2. Klicke auf Raum hinzufügen.
 3. Richte den Raum ein:
 
     3.1 Gebe einen Namen für den Raum ein.
@@ -68,7 +67,7 @@ Am besten hast du für jede Klasse eine eigene CSV-Tabelle, in der die benötigt
 
 ### Benutzerdaten für den CSV-Importer
 
-Um den CSV-Importer zu verwenden, müssen die Spalten in einem bestimmten Format vorliegen. Als Referenz kannst du auch eine Beispieldatei in der CSV-Importer-Oberfläche herunterladen.
+Um den CSV-Importer zu verwenden, müssen die Spalten in einem bestimmten Format vorliegen. Als Referenz kannst du eine Beispieldatei direkt in der CSV-Importer-Oberfläche herunterladen.
 
 Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.
 
@@ -77,13 +76,13 @@ Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.
 
 ### Anleitung zur Nutzung des CSV-Importers
 
-1. In der Menuleiste klicke auf **Konfigurationen**.
+1. In der Menüleiste klicke auf **Konfigurationen**.
 2. Vermutlich musst du in der Ansicht etwas herrunterscrollen, dann siehst du einen Button mit **Benutzer**.
 3. Klicke im ausgeklappten Menü auf **Datei-Upload**.
-4. Wähle die Datei aus, die der oben genannten Formatvorlage entsprechen muss (!).
+4. Wähle die csv-Datei aus, die der oben genannten Formatvorlage entsprechen muss (!).
 5. Nach der Auswahl der Datei siehst du eine Vorschau aller Benutzer\*innen, die mit dieser Datei importiert werden.
 6. Wähle eine Benutzerrolle aus, die auf alle Benutzer\*innen in der Vorschau angewendet wird.
-7. Wähle einen Raum aus, in dem die Benutzer\*innen mit dieser Rolle hinzugefügt werden sollen
+7. Wähle einen Raum aus, in dem die Benutzer\*innen mit dieser Rolle hinzugefügt werden sollen.
 8. Klicke auf **Bestätigen**.
 9. *Optional:* Überprüfe im Benutzermenü, ob der Import erfolgreich war.
 

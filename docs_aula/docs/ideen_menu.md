@@ -9,9 +9,9 @@
 
 ## Aktionen
 
-### Filter Ideen nach Suchausdrücken
+### Ideen nach Suchausdrücken filtern
 
-**Wer:** Moderator, Super-Moderator, Admin
+**Wer:** Moderator\*in, Super-Moderator\*in, Admin
 
 1. Klicke auf das Filtersymbol oben rechts auf dem Bildschirm.  
 2. Wähle entweder **Titel**, **Inhalt**, ein **benutzerdefiniertes Feld**, **Benutzer** oder **Raum**.  
@@ -22,7 +22,7 @@
 
 ### Ideen nach Status oder Raum filtern
 
-**Wer:** Super-Moderator, Admin
+**Wer:** Super-Moderator\*in, Admin
 
 1. Klicke auf das Filtersymbol oben rechts auf dem Bildschirm.  
 2. Wähle den **Status**, nach dem Du filtern möchtest (z. B. **Archiviert**).  
@@ -32,7 +32,7 @@
 
 ### Eine Idee bearbeiten
 
-**Wer:** Super-Moderator, Admin
+**Wer:** Super-Moderator\*in, Admin
 
 - Klicke auf die Zeile der Idee, die Du bearbeiten möchtest.
 
@@ -40,7 +40,7 @@
 
 ### Eine Idee löschen
 
-**Wer:** Super-Moderator, Admin
+**Wer:** Super-Moderator\*in, Admin
 
 1. Klicke auf das **Kästchen** neben der Idee, die Du löschen möchtest.  
 2. Klicke auf das **rote Müllsymbol**.  

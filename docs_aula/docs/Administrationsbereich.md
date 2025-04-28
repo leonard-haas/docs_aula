@@ -1,18 +1,17 @@
 # Administrationsbereich
 ---
-1. [📩 Nachrichten-Menü](#nachrichten-menü)
-2. [📢 Ankündigungs-Menü](#ankündigungs-menü)
-3. [🚩 Berichte-Menü](#berichte-menü)
-4. [🙋 Anfragen-Menü](#anfragen-menü)
+1. **[📩 Nachrichten-Menü](#nachrichten-menü)**
+2. **[📢 Ankündigungs-Menü](#ankündigungs-menü)**
+3. **[🚩 Berichte-Menü](#berichte-menü)**
+4. **[🙋 Anfragen-Menü](#anfragen-menü)**
 ---
 
 ---
 
 # Nachrichten-Menü
 
-Die Nachrichtenfunktion erlaubt es Administrator\*innen, Nachrichten an bestimmte Nutzer\*innen, Gruppen, Räume oder an alle Nutzer\*innen gleichzeitig zu versenden. Die Nachrichten sind **einseitig** – man kann **nicht darauf antworten**, und **Nutzer*innen können sich nicht gegenseitig schreiben**.
+Die Nachrichtenfunktion erlaubt es Administrator\*innen, Nachrichten an bestimmte Nutzer\*innen, Gruppen, Räume oder an alle Nutzer\*innen gleichzeitig zu versenden. Die Nachrichten sind **einseitig** – es kann **nicht darauf geantwortet werden**, und **Nutzer\*innen können sich nicht gegenseitig schreiben**.
 
-**Aktionen**
 
 ### Nachricht erstellen/versenden
 **Wer:** Admin
@@ -34,7 +33,7 @@ Die Nachrichtenfunktion erlaubt es Administrator\*innen, Nachrichten an bestimmt
 
 # Ankündigungen-Menü
 
-Über das Ankündigungssystem können Administrato\*innen Informationen und Zustimmungsabfragen an alle Nutzer\*innen senden.
+Über das Ankündigungssystem können Administrator\*innen Informationen und Zustimmungsabfragen an alle Nutzer\*innen senden.
 
 - **Obligatorische Zustimmung:** Blockiert die Nutzung der Anwendung, bis diese bestätigt wurde.
 - **Optionale Zustimmung:** Öffnet ein Pop-up, blockiert aber keine Aktionen.
@@ -53,20 +52,20 @@ Die Nachrichtenfunktion erlaubt es Administrator\*innen, Nachrichten an bestimmt
 ### ➕ Neue Ankündigung erstellen
 **Wer:** Admin
 
-1. Klicke auf „+ NEUE ANKÜNDIGUNG“.
+1. Klicke auf **+ NEUE ANKÜNDIGUNG**.
 2. Gib folgende Daten ein:
-   - Titel *(Pflichtfeld)*
-   - Text *(Pflichtfeld)*
-   - Zustimmungstyp *(Pflichtfeld)*: Keine / Optional / Obligatorisch
-   - Zustimmungstext *(Pflichtfeld)*: Konkreter Zustimmungstext zur Bestätigung
-   - Status *(optional)*
+   - **Titel** *(Pflichtfeld)*
+   - **Text** *(Pflichtfeld)*
+   - **Zustimmungstyp** *(Pflichtfeld)*: Keine / Optional / Obligatorisch
+   - **Zustimmungstext** *(Pflichtfeld)*: Konkreter Zustimmungstext zur Bestätigung
+   - **Status** *(optional)*
 3. Bestätige die Eingaben.
 
 ### 🗑️ Ankündigung löschen
 **Wer:** Admin
 
 1. Aktiviere die Checkbox der Ankündigung, die gelöscht werden soll.
-2. Klicke auf Ankündigung entfernen.
+2. Klicke auf **Ankündigung entfernen**.
 3. Bestätige das Popup-Fenster.
 
 ---
@@ -81,18 +80,19 @@ In diesem Bereich werden **alle gemeldeten Inhalte** gesammelt.
 
 
 Die Berichte bestehen aus vier Elementen:
+
 1. Einer Überschrift die angibt, welche Einheit (bspw. Box, Kommentar oder Idee) gemeldet wurde und dem zugehörigen Titel dieser Einheit.
 2. Dem Grund ("claim") hier für gibt es elf Kategorien:
-   - Unangemessene Sprache
-   - Mobbing oder Belästigung
-   - Hassrede
-   - Gewalt oder Drohungen
-   - Fehlinformation
-   - Unangemessener Inhalt für Kinder
-   - Spam oder Werbung
-   - Verletzung der Privatsphäre
-   - Urheberrechtsverletzung
-   - Andere
+      - Unangemessene Sprache
+      - Mobbing oder Belästigung
+      - Hassrede
+      - Gewalt oder Drohungen
+      - Fehlinformation
+      - Unangemessener Inhalt für Kinder
+      - Spam oder Werbung
+      - Verletzung der Privatsphäre
+      - Urheberrechtsverletzung
+      - Andere
 3. Einem Link zu dem Ort (Location), an dem die gemedelte Einheit zu finden ist.
 4. Der Text der die Meldung begründet bzw. dieser hinzugefügt wurde.
 
@@ -101,7 +101,7 @@ Die Berichte bestehen aus vier Elementen:
 ### 🔍 Nach Begriff filtern
 
 1. Klicke auf das Filter-Symbol.
-2. Wähle einen Filter (Titel, Inhalt oder Ersteller).
+2. Wähle einen Filter (Titel, Inhalt oder Ersteller\*in).
 3. Gib den Suchbegriff ein.
 4. Zum Zurücksetzen: Klicke auf „X“ im Eingabefeld.
 

@@ -1,7 +1,5 @@
 # Dokumentation
 
-hello world :) more changes
-
 ## WORK IN PROGRESS
 
 aula interne Erklärung: Unter der neuen URL www.docs.aula.de solle eine umfassende Nutzer-Dokumentation veröffentlicht werden. Diese soll unsere single source of truth sein. Eine "Single Source of Truth" bedeutet, dass alle Informationen an einer zentralen Stelle gespeichert und aktualisiert werden, sodass Benutzer immer auf die aktuellsten und konsistenten Informationen zugreifen können.
