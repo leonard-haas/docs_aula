@@ -1,5 +1,5 @@
 # Dokumentation
-<img src="/screenshots/Plattformquer.png" alt="Plattform" style="height: 300px;">
+<img src="/screenshots/Plattformquer.png" alt="Plattform" style="height: 300px;withd: 600">
 
 
 Herzlich willkommen bei der Online-Dokumentation der aula-Software! 

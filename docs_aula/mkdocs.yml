@@ -46,10 +46,11 @@ markdown_extensions:
   - pymdownx.magiclink
   - pymdownx.blocks.caption
 
-copyright: Copyright &copy; 2024 aula gGmbH
+copyright: Copyright &copy; 2025 aula gGmbH
 
 nav:
   - loslegen.md
+  - erste_hilfe.md
   - benutzerverwaltung.md
   - raeume.md
   - phasen.md
@@ -57,7 +58,6 @@ nav:
   - ideen_menu.md
   - Administrationsbereich.md
   - Konfigurationen.md
-  - erste_hilfe.md
 
 
 extra_css:
