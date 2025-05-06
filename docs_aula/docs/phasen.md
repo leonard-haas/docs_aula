@@ -160,7 +160,7 @@ In dieser Phase ist der Inhalt eingefroren, das bedeutet es ist keine Bearbeitun
 5. **Aktion bestätigen**  
    Bestätige deine Eingabe, um die Genehmigung oder Ablehnung zu speichern.
 
-![Prüfungsphase Übersicht](docs_aula/docs/screenshots/gehnehmigung_prüfungsphase.png "Genehmigung erteilen")
+<img src="/screenshots/gehnehmigung_prüfungsphase.png" alt="Genehmigung" style="height: 300px;width: 800px">
 
 ---
 
