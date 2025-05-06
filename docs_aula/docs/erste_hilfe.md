@@ -1,4 +1,4 @@
-# Erste Hilfe
+# 🆘 Erste Hilfe
 Hier findest Du eine Anleitung, die häufige Probleme mit der aula-Software löst.
 
 ## Seite neu laden

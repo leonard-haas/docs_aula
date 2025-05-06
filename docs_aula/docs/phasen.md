@@ -139,12 +139,28 @@ In dieser Phase ist der Inhalt eingefroren, das bedeutet es ist keine Bearbeitun
 
 ### Genehmigung setzen
 
-**Wer:** Prüfer\*innen, Admin
+**Wer:** Prüfer\*innen(Schulleitung), Admins
 
-1. Auf eine Idee innerhalb einer Box klicken.
-2. „Ja“ oder „Nein“ zur Genehmigung wählen.
-3. Bei „Nein“ ist ein Kommentar erforderlich.
-4. Eingabe bestätigen.
+#### Vorgehensweise
+
+1. **Box auswählen**  
+   Klicke auf eine Box, um die enthaltenen Ideen anzuzeigen.
+
+2. **Idee auswählen**  
+   Wähle die Idee aus, für die du eine Genehmigung vergeben möchtest.
+
+3. **Genehmigung erteilen oder ablehnen**  
+   Klicke auf den **Daumen nach oben**, um die Idee zu genehmigen,  
+   oder auf den **Daumen nach unten**, um sie abzulehnen.
+
+4. **Kommentar bei Ablehnung**  
+   Wenn du eine Idee ablehnst, gib bitte einen **Kommentar mit Begründung** ein.  
+   Dieser Kommentar ist **öffentlich einsehbar**.
+
+5. **Aktion bestätigen**  
+   Bestätige deine Eingabe, um die Genehmigung oder Ablehnung zu speichern.
+
+![Prüfungsphase Übersicht](docs_aula/docs/screenshots/gehnehmigung_prüfungsphase.png "Genehmigung erteilen")
 
 ---
 
