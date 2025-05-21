@@ -81,6 +81,8 @@ Beim Anlegen erhält der/die Benutzer\*in folgende Eigenschaften:
 
 ---
 
+> Hinweis: Wir empfehlen, zunächst einen Test-Nutzer\*in anzulegen, bevor die gesamte Schule hinzugefügt wird. So können Sie sich mit dem Onboarding neuer Benutzer\*innen vertraut machen.
+
 ### 🛠️ Benutzer*in hinzufügen
 
 1. Klicke im Menü auf **Benutzer-Menü**.
@@ -92,11 +94,11 @@ Beim Anlegen erhält der/die Benutzer\*in folgende Eigenschaften:
 7. Bestätige die Erstellung des/der neuen Benutzer*in.
 
 <img src="/screenshots/benutzer_hinzufügen.png" alt="Raum erstellen" style="height: 300px;">
-<img src="/screenshots/raumrollen_setzen.png" alt="Raum erstellen" style="height: 300px;">
+<img src="/screenshots/raumrollen_setzen.png" alt="Rollen per Raum" style="height: 300px;">
 
 ### Mehrere Benutzer*innen anlegen (CSV-Datei)
 
->💡 Wenn du zum ersten Mal alle Benutzer\*innen für eure Schule in aula anlegen möchtest, ist es am einfachsten, die CSV-Importfunktion zu nutzen.
+>💡 Wenn du zum ersten Mal alle Benutzer\*innen für eure Schule in aula anlegen möchtest, ist es am einfachsten, die CSV-Importfunktion zu nutzen. Wir empfehlen, zunächst einige Test-Nutzer\*in anzulegen, bevor die gesamte Schule hinzugefügt wird. So können Sie sich mit dem Onboarding neuer Benutzer\*innen vertraut machen.
 
 Mit dieser Funktion kannst du mehrere Benutzer\*innen auf einmal erstellen – z.B. eine ganze Klasse – und ihnen direkt den richtigen Raum (z. B. Klasse 7a) und eine Rolle (z. B. Nutzer\*in oder Supermoderator\*in) zuweisen.
 

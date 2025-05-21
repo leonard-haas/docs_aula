@@ -22,10 +22,19 @@ Boxen sind Sammlungen zusammengehöriger Ideen. Ab der Diskussionsphase konzentr
 
 Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nächste verschieben. Dieser Schritt ist zentral für das Konzept von aula, da er den Fortschritt einer Idee bis zur ihr Abstimmung darstellt.
 
-1. Auf die drei Punkte oben rechts an einer Box klicken.
-2. Den Stift-Button für „Bearbeiten“ wählen.
-3. Auf der rechten Seite die neue Zielphase auswählen.
-4. Änderungen mit „Bestätigen“ speichern.
+
+1. **Betrete eine Phase (Nur die Wilde Ideen-Phase hat keinen Boxen)**
+   Klicke auf die **drei Punkte** oben rechts in der Box.
+
+2. **Bearbeitungsmodus aktivieren**
+   Wähle den **Stift-Button**, um in den Bearbeitungsmodus zu wechseln.
+
+3. **Zielphase auswählen**
+   Wähle auf der rechten Seite die **neue Zielphase** aus.
+
+4. **Änderungen speichern**
+   Klicke auf **„Bestätigen“**, um die Änderungen zu speichern.
+
 
 <img src="/screenshots/move_box.png" alt="Raum erstellen" style="height: 300px;">
 
@@ -37,7 +46,7 @@ Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nä
 
 ### Prüfung → Abstimmung
 
-- **Automatisch**, sobald **alle Ideen genehmigt** wurden (nur durch die Prüfer\*innen).
+- **Automatisch**, sobald **alle Ideen genehmigt** wurden (durch die Prüfer\*innen oder Admins).
 - **Nicht genehmigte Ideen** sind **ausgegraut** und **nicht abstimmbar**.
 - **Wer:** Prüfer\*innen oder Admins können die Box verschieben.
 - **Zurücksetzen:** Moderator\*innen, Super-Moderator\*innen, Prüfer\*innen oder Admins können Boxen auch wieder in die Diskussionsphase zurückversetzen.
@@ -64,47 +73,83 @@ Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nä
    - **Status**: In der Regel „Aktiv“
 3. Eingaben bestätigen.
 
+Hier ist die überarbeitete Version aller Abschnitte im einheitlichen Markdown-Stil:
+
+---
+
 ### Idee bearbeiten
 
 **Wer:** Ersteller\*in, Moderator\*in, Super-Moderator\*in, Admin
 
-1. Auf die „…“ neben der Idee klicken.
-2. „Bearbeiten“ wählen.
-3. Änderungen vornehmen.
-4. Mit „Bestätigen“ speichern.
+1. **Idee-Feld öffnen**
+   Klicke auf die **drei Punkte** neben der Idee.
+
+2. **Bearbeitungsmodus aktivieren**
+   Wähle den **Stift-Button**, um die Idee zu bearbeiten.
+
+3. **Änderungen vornehmen**
+   Passe Titel, Beschreibung oder andere Inhalte an.
+
+4. **Änderungen speichern**
+   Klicke auf **„Bestätigen“**, um die Bearbeitung zu speichern.
+
+---
 
 ### Idee löschen
 
 **Wer:** Ersteller\*in, Moderator\*in, Super-Moderator\*in, Admin
 
-1. Auf die „…“ klicken.
-2. „Löschen“ wählen.
-3. Pop-up bestätigen.
+1. **Menü öffnen**
+   Klicke auf die **drei Punkte** neben der Idee.
+
+2. **Löschen wählen**
+   Klicke auf das **Mülleimer-Symbol**, um die Idee zu löschen.
+
+3. **Löschung bestätigen**
+   Bestätige im **Pop-up-Fenster**, dass die Idee gelöscht werden soll.
+
+---
 
 ### Idee liken / Like zurücknehmen
 
 **Wer:** Je nach Stimmrecht
 
-- Auf das Herz-Symbol klicken, um zu liken oder Like zurückzunehmen.
+* **Herz-Symbol klicken**
+  Klicke auf das **Herz**, um eine Idee zu liken oder einen Like zurückzunehmen.
+
+---
 
 ### Kommentar erstellen
 
 **Wer:** Alle Rollen
 
-1. Auf den grünen „+“-Button klicken.
-2. Kommentar eingeben.
-3. Optional: Status setzen.
-4. Mit „Bestätigen“ speichern.
+1. **Kommentar erstellen**
+   Klicke auf den **grünen „+“-Button**, um einen neuen Kommentar zu verfassen.
+
+2. **Text eingeben**
+   Gib deinen Kommentar ins Textfeld ein.
+
+3. **Status setzen (optional)**
+   Falls gewünscht, wähle einen passenden **Status** für den Kommentar aus.
+
+4. **Kommentar speichern**
+   Klicke auf **„Bestätigen“**, um den Kommentar zu veröffentlichen.
+
+---
 
 ### Kommentar löschen
 
 **Wer:** Ersteller\*in, Moderator\*in, Super-Moderator\*in, Admin
 
-1. Auf die „…“ klicken.
-2. Mülleimer-Symbol wählen.
-3. Löschen bestätigen.
+1. **Löschen auswählen**
+   Klicke auf die **drei Punkte** beim Kommentar.
 
----
+2. **Löschen wählen**
+   Wähle das **Mülleimer-Symbol**, um den Kommentar zu löschen.
+
+3. **Löschung bestätigen**
+   Bestätige die Aktion, um den Kommentar endgültig zu entfernen.
+
 
 ## Diskussionsphase
 
@@ -160,7 +205,7 @@ In dieser Phase ist der Inhalt eingefroren, das bedeutet es ist keine Bearbeitun
 5. **Aktion bestätigen**  
    Bestätige deine Eingabe, um die Genehmigung oder Ablehnung zu speichern.
 
-<img src="/screenshots/gehnehmigung_prüfungsphase.png" alt="Genehmigung" style="height: 300px;width: 800px">
+<img src="/screenshots/gehnehmigung_prüfungsphase.png" alt="Genehmigung">
 
 ---
 

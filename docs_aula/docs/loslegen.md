@@ -50,14 +50,13 @@ Um die Struktur der Schule in aula abbilden zu können, müssen von den Administ
 
     3.4 Optional: Füge einzelne Benutzer\*innen hinzu. (Beachte das du mit dem CSV Import auch mehrere Benutzer\*innen hinzufügen kannst).
 
-    3.5 Bestätige deine Eingaben durch das klicken auf BESTÄTIGEN
-
+4. Bestätige deine Eingaben durch das klicken auf BESTÄTIGEN
 
 <img src="/screenshots/raum_hinzufügen.png" alt="Raum erstellen" style="height: 300px;">
 
 ## Mehrere Benutzer\*innen mit CSV Tabellen anlegen
 
->💡 Wenn du zum ersten Mal alle Benutzer\*innen für eure Schule in aula anlegen möchtest, ist es am einfachsten, die CSV-Importfunktion zu nutzen.
+>💡 Wenn du zum ersten Mal alle Benutzer\*innen für eure Schule in aula anlegen möchtest, ist es am einfachsten, die CSV-Importfunktion zu nutzen. Wir empfehlen, zunächst einen Test-Nutzer\*in anzulegen, bevor die gesamte Schule hinzugefügt wird. So können Sie sich mit dem Onboarding neuer Benutzer\*innen vertraut machen.
 
 Mit dieser Funktion kannst du mehrere Benutzer\*innen auf einmal erstellen – z.B. eine ganze Klasse – und ihnen direkt den richtigen Raum (z. B. Klasse 7a) und eine Rolle (z. B. Nutzer\*in oder Supermoderator\*in) zuweisen.
 
@@ -87,7 +86,7 @@ Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.
 8. Klicke auf **Bestätigen**.
 9. *Optional:* Überprüfe im Benutzermenü, ob der Import erfolgreich war.
 
-<img src="/screenshots/csv_importer.png" alt="Raum erstellen" style="height: 300px;">
+<img src="/screenshots/csv_importer.png" alt="CSV-Import" style="height: 300px;">
 
 
 ## Die erste Idee erstellen
