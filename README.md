@@ -12,3 +12,9 @@ Install:
 ```bash
 mkdocs serve
 ```
+
+## Deploying
+
+```bash
+mkdocs gh-deploy
+```
