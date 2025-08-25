@@ -1,11 +1,11 @@
 # 🗃️ Menü: Boxen
 
-Boxen (Definition):
-Boxen sind Sammlungen zusammenhängender Ideen. Ab der Diskussionsphase konzentriert sich der Phasenablauf auf Boxen, die eine oder  mehrere Ideen enthalten können.
+Was sind Boxen?:
+Boxen sind Sammlungen (thematisch) zusammenhängender Ideen. Ab der Diskussionsphase konzentriert sich der Phasenablauf auf Boxen, die eine oder  mehrere Ideen enthalten können.
 
 ### Tabellenansicht
 
-Die Tabellenansicht zeigt eine Liste von Boxen. Jede Zeile enthält acht Spalten. Die erste Spalte ist ein **Checkbox** zur Auswahl. Die anderen Spalten:
+Die Tabellenansicht zeigt eine Liste von Boxen. Jede Zeile enthält acht Spalten. Die erste Spalte ist ein **Checkbox** zur Auswahl. Die anderen Spalten sind wie folgt betitelt:
 
 | Checkbox | Beschreibung | Interne Notizen | Raumphase | Status | Erstellungsdatum | Letzte Aktualisierung |
 |-------------------|--------------|-----------------|-----------|--------|------------------|-----------------------|
@@ -42,7 +42,7 @@ Die Tabellenansicht zeigt eine Liste von Boxen. Jede Zeile enthält acht Spalten
 
 **Wer:** Super-Moderator\*innen, Admin
 
-1. Klicke auf **BOX HINZUFÜGEN**
+1. Klicke auf **Box hinzufügen**
 2. Felder ausfüllen:
    - **Name** (Pflicht)
    - **Beschreibung** (Pflicht)
@@ -62,9 +62,9 @@ Die Tabellenansicht zeigt eine Liste von Boxen. Jede Zeile enthält acht Spalten
 
 **Wer:** Super-Moderator\*innen, Admin
 
-1. Auf die Zeile der Box klicken, die du bearbeiten möchtest.
-2. Änderungen vornehmen (s.o.).
-3. Eingaben bestätigen in dem du auf "Bestätigen" klickst.
+1.	Klicke auf die Zeile der Box, die du bearbeiten möchtest.
+2.	 Nimm nun deine Änderungen vor
+3.	Mit Bestätigen speichern.
 
 
 

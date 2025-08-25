@@ -10,9 +10,11 @@
 
 Jede Instanz die von aula bereitgestellt wird, generiert zunächst zwei Nutzer\*innen den Tech-Admin und den Admin (mehr über die Rollen erfährst du [hier](benutzerverwaltung.md)). Deshalb benötigt aula zu Anfang zwei Personen, die diese Rollen übernehmen und ihre zugehörigen Email-Adressen, um die Instanz freigeben zu können.
 
+💡 Als Instanz bezeichnet man eine einzelne Version einer Software, die auf einer Vorlage basiert.
+
 ### Die E-Mail mit alle notwendigen Informationen:
 
-Die beiden Nutzer\*innen erhalten im Anschluss eine Email in der sich die wichtigsten Informationen finden:
+Die beiden Nutzer\*innen erhalten im Anschluss eine E-Mail in der sich die wichtigsten Informationen befinden:
 
 - Schulcode: Jede Instanz hat ihren eigenen Code
 - Benutzername
@@ -28,7 +30,7 @@ Die beiden Nutzer\*innen erhalten im Anschluss eine Email in der sich die wichti
 2. Dort wirst du zuerst nach deinem Schulcode gefragt.
 3. Nachdem du den Code eingegeben hast, wird er automatisch in deinem Browser gespeichert.
 4. Gib dein Benutzername und das temporäres Passwort ein.
-5. Nun kannst du ein neues Passwort festlegen und bestätigen.
+5. Nun kannst du ein neues Passwort festlegen und **"Bestätigen"**.
 6. Zum Schluss kannst du dich mit dem neuen Passwort einloggen.
 
 ### Nutzer mit E-Mail Addresse
@@ -43,24 +45,26 @@ Geschafft!
 
 ## Die Grundlage schaffen: Räume anlegen
 
-Um die Struktur der Schule in aula abbilden zu können, müssen von den Administrator\*innen Räume angelegt werden.
+Um die Struktur der Schule – wie z.B. verschiedene Jahrgänge – in aula abbilden zu können, müssen von den Administrator*innen Räume angelegt werden.
 
 ### Einen Raum erstellen
 
-1. Gehe im Menü auf "Räume".
-2. Klicke auf Raum hinzufügen.
+1. Gehe im Menü auf **"Räume"**.
+2. Klicke auf **"Raum hinzufügen"**.
 3. Richte den Raum ein:
   1. Gebe einen Namen für den Raum ein.
   1. Optional: Füge eine Beschreibung zum Raum hinzu.
   1. Optional: Wähle ein Beispiel Bild aus.
-  1. Optional: Füge einzelne Benutzer\*innen hinzu. (Beachte das du mit dem CSV Import auch mehrere Benutzer\*innen hinzufügen kannst).
-4. Bestätige deine Eingaben durch das klicken auf BESTÄTIGEN
+  1. Optional: Füge einzelne Benutzer\*innen hinzu. (Beachte, dass du mit dem CSV Import auch mehrere Benutzer\*innen hinzufügen kannst– siehe den nächsten Schritt).
+4. Bestätige deine Eingaben durch das Klicken auf **"Bestätigen"**.
 
 <img src="/screenshots/raum_hinzufügen.png" alt="Raum erstellen" style="height: 300px;">
 
 ## Mehrere Benutzer\*innen mit CSV Tabellen anlegen
 
-> 💡 Wenn du zum ersten Mal alle Benutzer\*innen für eure Schule in aula anlegen möchtest, ist es am einfachsten, die CSV-Importfunktion zu nutzen. Wir empfehlen, zunächst einen Test-Nutzer\*in anzulegen, bevor die gesamte Schule hinzugefügt wird. So können Sie sich mit dem Onboarding neuer Benutzer\*innen vertraut machen.
+> Wichtig: Bevor du diesen Schritt gehen kannst, musst du Räume erstellt haben
+
+💡 Wenn du zum ersten Mal alle Benutzer\*innen für eure Schule in aula anlegen möchtest, ist es am einfachsten, die CSV-Importfunktion zu nutzen. Wir empfehlen, zunächst einen Test-Nutzer\*in anzulegen, bevor die gesamte Schule hinzugefügt wird. So kannst du dich mit dem Onboarding neuer Benutzer\*innen vertraut machen.
 
 Mit dieser Funktion kannst du mehrere Benutzer\*innen auf einmal erstellen – z.B. eine ganze Klasse – und ihnen direkt den richtigen Raum (z. B. Klasse 7a) und eine Rolle (z. B. Nutzer\*in oder Supermoderator\*in) zuweisen.
 
@@ -72,17 +76,17 @@ Am besten hast du für jede Klasse eine eigene CSV-Tabelle, in der die benötigt
 
 Um den CSV-Importer zu verwenden, müssen die Spalten in einem bestimmten Format vorliegen. Als Referenz kannst du eine Beispieldatei direkt in der CSV-Importer-Oberfläche herunterladen.
 
-Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.
+Zu Anfang kannst du den echten Namen eines Benutzenden auch in die ersten drei Spalten einfügen.
 
 | Anzeigename | Echter Name | Benutzername | E-Mail (optional) | Über mich (optional) |
 | ----------- | ----------- | ------------ | ----------------- | -------------------- |
 
 ### Anleitung zur Nutzung des CSV-Importers
 
-1. In der Menüleiste klicke auf **Konfigurationen**.
-2. Vermutlich musst du in der Ansicht etwas herrunterscrollen, dann siehst du einen Button mit **Benutzer**.
+1. Klicke in der Menüleiste **"Konfigurationen"**.
+2. Vermutlich musst du in der Ansicht etwas herrunterscrollen, dann siehst du einen Button mit **"Benutzer"**.
 3. Klicke im ausgeklappten Menü auf **Datei-Upload**.
-4. Wähle die csv-Datei aus, die der oben genannten Formatvorlage entsprechen muss (!).
+4. Wähle die CSV-Datei aus, die der oben genannten Formatvorlage entspricht.
 5. Nach der Auswahl der Datei siehst du eine Vorschau aller Benutzer\*innen, die mit dieser Datei importiert werden.
 6. Wähle eine Benutzerrolle aus, die auf alle Benutzer\*innen in der Vorschau angewendet wird.
 7. Wähle einen Raum aus, in dem die Benutzer\*innen mit dieser Rolle hinzugefügt werden sollen.
@@ -99,8 +103,8 @@ Nach dem du jetzt Räume, Rollen und Nutzer\*innen erstellt hast kannst du auch 
 2. Klicke auf das Symbol mit der grünen Glühbirne.
 3. Fülle die folgenden Felder aus:
 
-- **Titel (Pflichtfeld):** Gib einen Titel für die Idee ein.
-- **Inhalt (Pflichtfeld):** Beschreibe die Idee im zweiten Feld ausführlich.
+- **Titel (Pflichtfeld):** Gib deiner Idee einen Titel.
+- **Inhalt (Pflichtfeld):** Beschreibe deine Idee im zweiten Feld ausführlich.
 - **Kategorie (Optional):** Wähle eine passende Kategorie für die Idee aus.
 - **Status (Pflichtfeld):** Der Status sollte in den meisten Fällen auf **„Aktiv“** gesetzt bleiben.
 

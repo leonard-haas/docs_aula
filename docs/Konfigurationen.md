@@ -123,14 +123,13 @@ Mehrere Benutzer\*innen können zu Gruppen zusammengefasst werden – z. B. f�
 
 1. **Pfeil-nach-unten-Taste** in „Ideen“.
 2. **Kreuzsymbol** in gewünschter Gruppe anklicken.
-3. **Löschbestätigung** im Pop-up.
+3. **Löschbestätigung** im Pop-up-Femster.
 
 ---
 
 ## Geplante Aktionen
 
-Ermöglicht das Planen von Aktionen für ein zukünftiges Datum –
-z. B. Benutzer\*innen sperren oder Instanz in den Urlaubsmodus versetzen.
+Ermöglicht das Planen von Aktionen für ein zukünftiges Datum – z. B. das Sperren von Benutzer*innen  oder das Versetzen der Instanz in den Urlaubsmodus.
 
 ### Ansicht für geplante Aktionen
 
@@ -154,7 +153,7 @@ z. B. Benutzer\*innen sperren oder Instanz in den Urlaubsmodus versetzen.
 
 #### Benutzer sperren (und reaktivieren)
 
-1. Bereich: **Benutzer**
+1. Bereich: **Benutzer\*in**
 2. Benutzerstatus auf **gesperrt** setzen.
 3. Menü: **Konfigurationen → Geplante Aktionen**
 4. Bereich: **Benutzer**
@@ -191,13 +190,12 @@ z. B. Benutzer\*innen sperren oder Instanz in den Urlaubsmodus versetzen.
 
 **Wer:** Admin, Tech-Admin
 
-Mit dieser Funktion wird eine Sicherheitskopie (Backup) der gesamten Datenbank erstellt. Diese Datei – ein sogenannter **SQL-Dump** – enthält alle gespeicherten Inhalte und Einstellungen der Plattform.
-Sie kann später verwendet werden, um den Stand zu einem bestimmten Zeitpunkt wiederherzustellen.
+Mit dieser Funktion wird eine Sicherheitskopie, hierBackup genanntder gesamten Datenbank erstellt. Diese Datei – ein sogenannter SQL-Dump – enthält alle gespeicherten Inhalte und Einstellungen der Plattform. Sie kann später verwendet werden, um den Stand zu eines bestimmten Zeitpunkts wiederherzustellen.
 
 **So geht’s:**
 
-1. Öffne das Menü: **Konfigurationen → System**
-2. Klicke auf **„Backup erstellen“**
+1. Öffne das Menü: **Konfigurationen → System**.
+2. Klicke auf **„Backup erstellen“**.
 3. Die Backup-Datei wird automatisch heruntergeladen.
 
 > 💡 **Hinweis**

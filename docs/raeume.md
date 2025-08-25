@@ -18,23 +18,23 @@ Du kannst Räume nach Namen und Beschreibung durchsuchen.
 
 ## Raum erstellen
 
-1. Klicke auf den **RAUM HINZUFÜGEN**-Button.
+1. Klicke auf den **"Raum hinzufügen"**-Button.
 3. Gib einen Namen für den Raum ein.
-4. Du kannst auch eine Beschreibung hinzufügen.
-5. Du kannst auch ein Bild für den Raum einfügen.
+4. Hier kannst du eine Beschreibung hinzufügen.
+5. Hier kannst du ein Bild für den Raum einfügen.
 5. "Dauer der Phasen": Du kannst hier festlegen, wie lange die Phasen in einem bestimmten Raum dauern sollen.
 6. Meistens willst du den Status auf "Aktiv" lassen. Du kannst den Raum auch als "inaktiv" erstellen, damit er für andere Personen nicht sichtbar ist.
-7. Du kannst auch einzelne Benutzer\*innen dem Raum hinzufügen.
-7. Bestätige dein Eingabe.
+7. Es ist auch möglich dem Raum einzelne Benutzer\*innen hinzufügen.
+8. Bestätige deine Eingaben.
 
 <img src="/screenshots/raum_hinzufügen.png" alt="Raum erstellen" style="height: 300px;">
 
 ## Raum bearbeiten
 1. Klicke auf einen Raum in der Tabellenansicht.
 2. Du kannst alle Merkmale des Raumes verändern oder neue Benutzer\*innen hinzufügen.
-4. Bestätige die Eingabe.
+4. Bestätige deine Eingabe.
 
 ## Raum löschen
 1. Klicke auf das Kästchen am linken Rand der Tabelle zum zugehörigen Raum.
-2. Klicke anschließend die rote Mülltonne **RAUM ENTFERNEN**
+2. Klicke anschließend auf den Button mit der roten Mülltonne **RAUM ENTFERNEN**
 3. Bestätige die Löschung in dem Pop-up Fenster.

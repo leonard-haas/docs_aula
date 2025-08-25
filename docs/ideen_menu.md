@@ -25,7 +25,7 @@
 **Wer:** Super-Moderator\*in, Admin
 
 1. Klicke auf das Filtersymbol oben rechts auf dem Bildschirm.
-2. Wähle den **Status**, nach dem Du filtern möchtest (z. B. **Archiviert**).
+2. Wähle den **Status**, nach dem du filtern möchtest (z. B. **Archiviert**).
 3. Wähle den gewünschten **Raum** aus.
 
 ---
@@ -34,7 +34,7 @@
 
 **Wer:** Super-Moderator\*in, Admin
 
-- Klicke auf die Zeile der Idee, die Du bearbeiten möchtest.
+- Klicke auf die Zeile der Idee, die du bearbeiten möchtest.
 
 ---
 
@@ -42,7 +42,7 @@
 
 **Wer:** Super-Moderator\*in, Admin
 
-1. Klicke auf das **Kästchen** neben der Idee, die Du löschen möchtest.
+1. Klicke auf das **Kästchen** neben der Idee, die du löschen möchtest.
 2. Klicke auf das **rote Müllsymbol**.
 3. Bestätige die Warnung im **Pop-up-Fenster**.
 

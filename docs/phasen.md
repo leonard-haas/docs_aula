@@ -16,11 +16,11 @@ Ideen sind Vorschläge, die diskutiert, überarbeitet, geprüft und schließlich
 
 **Boxen**
 
-Boxen sind Sammlungen zusammengehöriger Ideen. Ab der Diskussionsphase konzentriert sich der Flow auf Boxen, die eine oder mehrere Ideen enthalten können.
+Boxen sind Sammlungen thematisch zusammengehöriger Ideen. Ab der Diskussionsphase konzentriert sich der Prozess auf Boxen, die eine oder mehrere Ideen enthalten können.
 
 ## Boxen zwischen Phasen verschieben
 
-Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nächste verschieben. Dieser Schritt ist zentral für das Konzept von aula, da er den Fortschritt einer Idee bis zur ihr Abstimmung darstellt.
+Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nächste verschieben. Dieser Schritt ist zentral für das Konzept von aula, da er den Fortschritt einer Idee bis zur ihrer Abstimmung wiederspiegelt.
 
 
 1. **Betrete eine Phase (Nur die Wilde Ideen-Phase hat keinen Boxen)**
@@ -40,21 +40,22 @@ Abhängig von ihrer Rolle können Nutzer\*innen Boxen von einer Phase in die nä
 
 
 ### Diskussion → Prüfung
+**Wer:** Moderator\*in, Super-Moderator\*in, Prüfer\*innen oder Admins können die Box jederzeit verschieben.
 
-- Nach **X** Tagen (festgelegt beim Erstellen der Box) wird die Box **automatisch** in die Prüfungsphase verschoben.
+- Sind die festgelegten Anzahl an X Tagen vollstrichen, kann die Box manuell verschoben werden.
+<!--Nach **X** Tagen (festgelegt beim Erstellen der Box) wird die Box **automatisch** in die Prüfungsphase verschoben.-->
 - **Wer:** Moderator\*in, Super-Moderator\*in, Prüfer\*innen oder Admins können die Box jederzeit verschieben.
 
 ### Prüfung → Abstimmung
+**Wer:** Prüfer*innen oder Admins können die Box bzw. Idee genehmigen und verschieben
 
-- **Automatisch**, sobald **alle Ideen genehmigt** wurden (durch die Prüfer\*innen oder Admins).
+- Die Abstimmung geschieht , sobald alle Ideen durch die Prüfer*innen oder Admins genehmigt wurden.
 - **Nicht genehmigte Ideen** sind **ausgegraut** und **nicht abstimmbar**.
-- **Wer:** Prüfer\*innen oder Admins können die Box verschieben.
 - **Zurücksetzen:** Moderator\*innen, Super-Moderator\*innen, Prüfer\*innen oder Admins können Boxen auch wieder in die Diskussionsphase zurückversetzen.
 
 ### Abstimmung → Ergebnisse
 
-- Nach **X** Tagen (definiert bei Erstellung der Box) erfolgt die Verschiebung **automatisch**.
-- **Manuell:** Moderator\*in, Super-Moderator\*in, Prüfer\*innen oder Admin.
+- **Wer:** Moderator\*in, Super-Moderator\*in, Prüfer\*innen oder Admin.
 
 ---
 
@@ -127,7 +128,7 @@ Hier ist die überarbeitete Version aller Abschnitte im einheitlichen Markdown-S
    Klicke auf den **grünen „+“-Button**, um einen neuen Kommentar zu verfassen.
 
 2. **Text eingeben**
-   Gib deinen Kommentar ins Textfeld ein.
+   Gib deinen Kommentar in das Textfeld ein.
 
 3. **Status setzen (optional)**
    Falls gewünscht, wähle einen passenden **Status** für den Kommentar aus.
@@ -180,7 +181,7 @@ Hier ist die überarbeitete Version aller Abschnitte im einheitlichen Markdown-S
 
 ## Prüfungsphase
 
-In dieser Phase ist der Inhalt eingefroren, das bedeutet es ist keine Bearbeitung möglich. Nur Admins können Inhalte ändern.
+In dieser Phase ist der Inhalt nicht mehr editierbar, das bedeutet es ist keine Bearbeitung durch Ersteller*innen möglich. Nur Admins können dann ggf. Inhalte ändern.
 
 ### Genehmigung setzen
 
@@ -211,14 +212,16 @@ In dieser Phase ist der Inhalt eingefroren, das bedeutet es ist keine Bearbeitun
 
 ## Abstimmungsphase
 
-Auch hier ist der Inhalt eingefroren – Änderungen nur durch Admins.
+Auch hier ist der Inhalt nicht editierbar – Änderungenkönnen nur durch Admins vorgenommen werden.
 
 ### Abstimmungsmechanismus
 
 
 In der aula-Software wird über eine Idee abgestimmt, wobei die Möglichkeit besteht, **FÜR**, **GEGEN** oder **NEUTRAL** zu stimmen. Die Abstimmungsrechte sind abhängig von den Rollen der Nutzer\*nnen (siehe 1.2). Die Stimmen, die gezählt und im Balkendiagramm angezeigt werden, werden im Verhältnis zu allen Personen im Raum plus den Stimmen von höheren Rollen wie Super-Moderator\*innen, Prinzipal und Admin mit Stimmrecht angezeigt.
 
-Die Zählung ist einfach FÜR = + 1, GEGEN = -1 und NEUTRAL= 0. Es gibt keinen Mechanismus, der eine Idee automatisch genehmigt oder als Gewinner markiert. Da es innerhalb der Boxen und zwischen den Boxen konkurrierende Ideen geben kann, die die gleiche Abstimmung gewinnen können.
+Die Zählung ist einfach FÜR = + 1, GEGEN = -1 und NEUTRAL= 0. 
+
+Eine Idee wird nicht automatisch als Gewinner markiert, da es in den Boxen verschiedene konkurriende Ideen geben kann. Eine gewinnende Idee muss daher von den Admins bzw. Prüfer*innen als solche erklärt werden.
 
 ### Delegation
 Benutzer\*innen mit Stimmrecht können ihre Stimme an eine\*n andere\*n Stimmberechtigte\*n delegieren. Die Delegation gilt pro Box , d.h. sie betrifft alle Ideen innerhalb dieser Box.

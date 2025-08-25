@@ -15,7 +15,7 @@ Es gibt drei verschiedene Arten von Namen:
 1. Wähle den Namen aus, den du ändern möchtest.
 2. Klicke auf das **Schloss-Symbol** links im Namensfeld.
 3. Bearbeite den Namen direkt im Feld.
-4. Klicke auf **SPEICHERN**.
+4. Klicke auf **"Speicher"**.
 5. Bestätige das Pop-up-Fenster, um eine Anfrage an die Admins zu schicken. Sie müssen die Änderung freigeben.
 
 ## Über mich
@@ -25,21 +25,21 @@ tbh.s
 
 **Wer:** Alle
 
-1. Klicke im Menü auf **PROFIL**.
-2. Wähle **SICHERHEIT** aus.
+1. Klicke im Menü auf **"Profil"**.
+2. Wähle **"Sicherheit"** aus.
 3. Gib in den Feldern Folgendes ein:
 
    * Dein aktuelles Passwort
    * Dein neues Passwort
    * Wiederhole das neue Passwort
-4. Klicke auf **SPEICHERN**, um die Änderung zu übernehmen.
+4. Klicke auf **"Speichern"**, um die Änderung zu übernehmen.
 
 ## Passwort zurücksetzen
 
 > Wenn du dein Passwort vergessen hast, kannst du es ganz einfach zurücksetzen.
 
 1. Geh auf die Seite [neu.aula.de](https://neu.aula.de).
-2. Klicke auf **PASSWORT VERGESSEN**.
+2. Klicke auf **"Passwort vergessen"**.
 3. Gib deine E-Mail-Adresse ein.
 4. Nach ein paar Minuten erhältst du eine E-Mail mit einem Link zum Zurücksetzen des Passworts.
 
@@ -48,10 +48,10 @@ tbh.s
 
 1. Klicke im Menü auf PROFIL
 2. Klicke auf Datenschutz
-3. Im nun aufgeklappten Feld klick auf **DATENEXPORT ANFORDERN**
+3. Im nun aufgeklappten Feld klick auf **"Datenexport anfordern"**
 
 ## Konto löschen
 
-1. Klick eim Menü auf PROFIL
+1. Klick eim Menü auf **"Profil"**
 2. Klicke auf Gefahrenzone
-3. Klicke auf **KONTOLÖSCHEN ANFORDERN**
+3. Klicke auf **"Konto löschen anfordern"**
