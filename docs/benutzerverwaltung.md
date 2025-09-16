@@ -1,6 +1,12 @@
 # 👥 Benutzer\*innenverwaltung
 > Hinweis: Diese Ansicht ist nur für Administrator\*innen sichtbar.
 
+Die Benutzerverwaltung ermöglicht Admins Benutzer*innen zu erstellen und dabei Rollen und Räume zuzuweisen. Dabei stehen zwei zentrale Prozesse im Vordergrund:
+1.	Benutzer*innen anlegen – einzeln oder per CSV-Import.
+2.	Onboarding – wie neue Benutzer*innen erstmals auf die Plattform zugreifen.
+Das Onboarding kann entweder mit einem temporären Passwort erfolgen oder mit einer Email Adresse. 
+
+
 ## Rollen in der aula Software
 
 >Kurz erklärt: Das Rollensystem in der aula-Software bestimmt, welche Aufgaben und Rechte die verschiedenen Rollen haben. Es legt fest, wer welche Aktionen ausführen kann und welche Bereiche einsehen darf.
@@ -54,7 +60,7 @@ Das Stimmrecht bezeichnet die Möglichkeit, in der Abstimmungsphase über eine I
 |                                  | Admin                   |
 |                                  | Tech-Admin              |
 
-## Benutzer\*innen erstellen
+## Benutzer\*innen anlegen
 
 ## 👤 Einzelne\*r Benutzer\*in anlegen
 
@@ -129,7 +135,7 @@ Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.
 
 ---
 
-## Wie einzelne Benutzer\*innen zu aula finden
+## Onboarding: Wie einzelne Benutzer\*innen zu aula finden
 
 Der Onboarding-Prozess beschreibt, wie Benutzer\*innen erstmals auf die Plattform zugreifen können. Es gibt zwei Möglichkeiten, wie eine Person sich nach der Erstellung ihres Kontos anmelden kann:
 
