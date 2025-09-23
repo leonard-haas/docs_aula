@@ -20,7 +20,7 @@
       
       
       <link rel="icon" href="../assets/logo.png">
-      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.18">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.20">
     
     
       
@@ -28,7 +28,7 @@
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.7e37652d.min.css">
+      <link rel="stylesheet" href="../assets/stylesheets/main.e53b48f4.min.css">
       
         
         <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
@@ -719,18 +719,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#backup-erstellen" class="md-nav__link">
+  <a href="#backup-erstellen-und-wiederherstellen" class="md-nav__link">
     <span class="md-ellipsis">
-      🔄 Backup erstellen
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#backup-wiederherstellen" class="md-nav__link">
-    <span class="md-ellipsis">
-      ♻️ Backup wiederherstellen
+      🔄 Backup erstellen und wiederherstellen
     </span>
   </a>
   
@@ -893,7 +884,7 @@ Es zeigt an, wie viele Stimmen (in %) für eine Idee erforderlich sind –
 </ol>
 <hr />
 <h2 id="geplante-aktionen">Geplante Aktionen</h2>
-<p>Ermöglicht das Planen von Aktionen für ein zukünftiges Datum – z. B. das Sperren von Benutzer*innen  oder das Versetzen der Instanz in den Urlaubsmodus.</p>
+<p>Ermöglicht das Planen von Aktionen für ein zukünftiges Datum – z. B. das Sperren von Benutzer*innen oder das Versetzen der Instanz in den Urlaubsmodus.</p>
 <h3 id="ansicht-fur-geplante-aktionen">Ansicht für geplante Aktionen</h3>
 <p><strong>Wer:</strong> Admin, Tech-Admin</p>
 <ol>
@@ -944,31 +935,19 @@ Es zeigt an, wie viele Stimmen (in %) für eine Idee erforderlich sind –
 <p><strong>Wer:</strong> Admin, Tech-Admin</p>
 <ol>
 <li>Menü: <strong>Konfigurationen → System</strong></li>
-<li>Status wählen:
-- <em>Aktiv</em>
-- <em>Inaktiv</em>
-- <em>Wochenende</em>
-- <em>Urlaub</em>
-- <em>Feiertag</em></li>
+<li>Status wählen:</li>
 </ol>
-<h3 id="backup-erstellen">🔄 Backup erstellen</h3>
+<ul>
+<li><em>Aktiv</em></li>
+<li><em>Inaktiv</em></li>
+<li><em>Wochenende</em></li>
+<li><em>Urlaub</em></li>
+<li><em>Feiertag</em></li>
+</ul>
+<h3 id="backup-erstellen-und-wiederherstellen">🔄 Backup erstellen und wiederherstellen</h3>
 <p><strong>Wer:</strong> Admin, Tech-Admin</p>
-<p>Mit dieser Funktion wird eine Sicherheitskopie, hierBackup genanntder gesamten Datenbank erstellt. Diese Datei – ein sogenannter SQL-Dump – enthält alle gespeicherten Inhalte und Einstellungen der Plattform. Sie kann später verwendet werden, um den Stand zu eines bestimmten Zeitpunkts wiederherzustellen.</p>
-<p><strong>So geht’s:</strong></p>
-<ol>
-<li>Öffne das Menü: <strong>Konfigurationen → System</strong>.</li>
-<li>Klicke auf <strong>„Backup erstellen“</strong>.</li>
-<li>Die Backup-Datei wird automatisch heruntergeladen.</li>
-</ol>
-<blockquote>
-<p>💡 <strong>Hinweis</strong>
-Das Backup ist eine technische Datei und kann <strong>nicht direkt geöffnet oder gelesen</strong> werden. Sie dient ausschließlich dazu, den Zustand des Systems wiederherzustellen – z. B. im Notfall oder vor größeren Änderungen.</p>
-</blockquote>
-<hr />
-<h3 id="backup-wiederherstellen">♻️ Backup wiederherstellen</h3>
-<p>Ein Backup kann <strong>nur über direkten Serverzugriff</strong> wiederhergestellt werden. Das bedeutet: Dies ist ausschließlich bei <strong>Selfhosting</strong> durch technische Administrator*innen möglich.</p>
-<p><strong>Wenn ihr über keine eigene Serververwaltung verfügt:</strong>
-👉 Bitte kontaktiert das <strong>aula-Team</strong>, um ein Backup einspielen zu lassen.</p>
+<p>Wir hosten die Daten und erstellen täglich automatisierte Datenbackups. Diese Backups sind verschlüsselt und werden an drei Speicherorten in Deutschland repliziert. Unternehmen, die unsere Hosting-Lösung nutzen, müssen keine eigenen Backups erstellen, da dies nur die Komplexität der Pflege erhöht.</p>
+<p>👉 Wenn Sie den Zustand Ihres Systems auf einen früheren Zeitpunkt zurücksetzen möchten, schreiben Sie uns bitte an <a href="mailto:support@aula.de">support@aula.de</a>. Wir können die Speicherung von Backups nicht länger als 30 Tage garantieren.</p>
 <hr />
 <h2 id="gefahrenbereich-instanz-loschen">⚠️ Gefahrenbereich (Instanz löschen) ⚠️</h2>
 <p><strong>Wer:</strong> Admin, Technischer Admin</p>
@@ -1038,7 +1017,7 @@ Das Backup ist eine technische Datei und kann <strong>nicht direkt geöffnet ode
       <script id="__config" type="application/json">{"base": "..", "features": ["navigation.tracking", "navigation.sections", "navigation.instant", "toc.integrate", "navigation.path", "navigation.top", "search-suggest", "search-highlight"], "search": "../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "In Zwischenablage kopiert", "clipboard.copy": "In Zwischenablage kopieren", "search.result.more.one": "1 weiteres Suchergebnis auf dieser Seite", "search.result.more.other": "# weitere Suchergebnisse auf dieser Seite", "search.result.none": "Keine Suchergebnisse", "search.result.one": "1 Suchergebnis", "search.result.other": "# Suchergebnisse", "search.result.placeholder": "Suchbegriff eingeben", "search.result.term.missing": "Es fehlt", "select.version": "Version ausw\u00e4hlen"}, "version": null}</script>
     
     
-      <script src="../assets/javascripts/bundle.92b07e13.min.js"></script>
+      <script src="../assets/javascripts/bundle.f55a23d4.min.js"></script>
       
     
   </body>
