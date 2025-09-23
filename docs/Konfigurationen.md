@@ -129,7 +129,7 @@ Mehrere Benutzer\*innen können zu Gruppen zusammengefasst werden – z. B. f�
 
 ## Geplante Aktionen
 
-Ermöglicht das Planen von Aktionen für ein zukünftiges Datum – z. B. das Sperren von Benutzer*innen  oder das Versetzen der Instanz in den Urlaubsmodus.
+Ermöglicht das Planen von Aktionen für ein zukünftiges Datum – z. B. das Sperren von Benutzer\*innen oder das Versetzen der Instanz in den Urlaubsmodus.
 
 ### Ansicht für geplante Aktionen
 
@@ -142,9 +142,9 @@ Ermöglicht das Planen von Aktionen für ein zukünftiges Datum – z. B. das Sp
    - **Gruppe**
 3. Aktion auswählen:
    - **System:** Status ändern oder löschen
-     - Status: *aktiv*, *inaktiv*, *Wochenende*, *Urlaub*, *Feiertag*
+     - Status: _aktiv_, _inaktiv_, _Wochenende_, _Urlaub_, _Feiertag_
    - **Benutzer:** Login, Logout, Status ändern
-     - Status: *aktiv*, *inaktiv*, *gesperrt*
+     - Status: _aktiv_, _inaktiv_, _gesperrt_
    - **Gruppe:** Benutzer hinzufügen/entfernen
 4. Datum wählen
 5. **Bestätigen**
@@ -170,7 +170,6 @@ Ermöglicht das Planen von Aktionen für ein zukünftiges Datum – z. B. das Sp
 5. Datum einstellen.
 6. Bestätigen.
 
-
 ## System
 
 ### Instanzstatus ändern
@@ -179,36 +178,20 @@ Ermöglicht das Planen von Aktionen für ein zukünftiges Datum – z. B. das Sp
 
 1. Menü: **Konfigurationen → System**
 2. Status wählen:
-- *Aktiv*
-- *Inaktiv*
-- *Wochenende*
-- *Urlaub*
-- *Feiertag*
 
+- _Aktiv_
+- _Inaktiv_
+- _Wochenende_
+- _Urlaub_
+- _Feiertag_
 
-### 🔄 Backup erstellen
+### 🔄 Backup erstellen und wiederherstellen
 
 **Wer:** Admin, Tech-Admin
 
-Mit dieser Funktion wird eine Sicherheitskopie, hierBackup genanntder gesamten Datenbank erstellt. Diese Datei – ein sogenannter SQL-Dump – enthält alle gespeicherten Inhalte und Einstellungen der Plattform. Sie kann später verwendet werden, um den Stand zu eines bestimmten Zeitpunkts wiederherzustellen.
+Wir hosten die Daten und erstellen täglich automatisierte Datenbackups. Diese Backups sind verschlüsselt und werden an drei Speicherorten in Deutschland repliziert. Unternehmen, die unsere Hosting-Lösung nutzen, müssen keine eigenen Backups erstellen, da dies nur die Komplexität der Pflege erhöht.
 
-**So geht’s:**
-
-1. Öffne das Menü: **Konfigurationen → System**.
-2. Klicke auf **„Backup erstellen“**.
-3. Die Backup-Datei wird automatisch heruntergeladen.
-
-> 💡 **Hinweis**
-Das Backup ist eine technische Datei und kann **nicht direkt geöffnet oder gelesen** werden. Sie dient ausschließlich dazu, den Zustand des Systems wiederherzustellen – z. B. im Notfall oder vor größeren Änderungen.
-
----
-
-### ♻️ Backup wiederherstellen
-
-Ein Backup kann **nur über direkten Serverzugriff** wiederhergestellt werden. Das bedeutet: Dies ist ausschließlich bei **Selfhosting** durch technische Administrator\*innen möglich.
-
-**Wenn ihr über keine eigene Serververwaltung verfügt:**
-👉 Bitte kontaktiert das **aula-Team**, um ein Backup einspielen zu lassen.
+👉 Wenn Sie den Zustand Ihres Systems auf einen früheren Zeitpunkt zurücksetzen möchten, schreiben Sie uns bitte an [support@aula.de](mailto:support@aula.de). Wir können die Speicherung von Backups nicht länger als 30 Tage garantieren.
 
 ---
 
