@@ -86,12 +86,13 @@ Zu Anfang kannst du den echten Namen eines Benutzenden auch in die ersten drei S
 1. Klicke in der Menüleiste **"Konfigurationen"**.
 2. Vermutlich musst du in der Ansicht etwas herrunterscrollen, dann siehst du einen Button mit **"Benutzer"**.
 3. Klicke im ausgeklappten Menü auf **Datei-Upload**.
-4. Wähle die CSV-Datei aus, die der oben genannten Formatvorlage entspricht.
+4. Wähle die CSV-Datei (Format: UTF-8) aus, die der oben genannten Formatvorlage entspricht.
 5. Nach der Auswahl der Datei siehst du eine Vorschau aller Benutzer\*innen, die mit dieser Datei importiert werden.
 6. Wähle eine Benutzerrolle aus, die auf alle Benutzer\*innen in der Vorschau angewendet wird.
-7. Wähle einen Raum aus, in dem die Benutzer\*innen mit dieser Rolle hinzugefügt werden sollen.
-8. Klicke auf **Bestätigen**.
-9. _Optional:_ Überprüfe im Benutzermenü, ob der Import erfolgreich war.
+7. Wähle einen oder mehrer Räume aus, in dem die Benutzer\*innen mit dieser Rolle hinzugefügt werden sollen.
+8. _Optional:_ Kannst du einen bestimmten Zeitpunkt terminieren, wann die Onboarding-Email verschickt werden soll. Klicke dazu auf das Feld **"Einladungsdarum für neue Benutzer"**
+9. Klicke auf **Bestätigen**.
+10. _Optional:_ Überprüfe im Benutzermenü, ob der Import erfolgreich war.
 
 <img src="/screenshots/csv_importer.png" alt="CSV-Import" style="height: 300px;">
 

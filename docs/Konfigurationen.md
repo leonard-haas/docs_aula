@@ -77,8 +77,8 @@ Es zeigt an, wie viele Stimmen (in %) für eine Idee erforderlich sind –
 
 **Dropdowns:**
 
-- Raum auswählen
-- Benutzer\*innenrolle festlegen
+- Räume auswählen
+- Benutzer-Rolle festlegen
 
 **Benötigte CSV-Felder:**
 
@@ -90,11 +90,19 @@ Es zeigt an, wie viele Stimmen (in %) für eine Idee erforderlich sind –
 
 ### Benutzer\*innen importieren
 
-1. Beispieldatei herunterladen.
-2. CSV-Datei hochladen.
-3. Raum + Benutzerrolle auswählen.
-4. **Bestätigen**
-5. Optional: **Abbrechen**
+1. Klicke in der Menüleiste **"Konfigurationen"**.
+2. Vermutlich musst du in der Ansicht etwas herrunterscrollen, dann siehst du einen Button mit **"Benutzer"**.
+3. Klicke im ausgeklappten Menü auf **Datei-Upload**.
+4. Wähle die CSV-Datei (Format: UTF-8) aus, die der oben genannten Formatvorlage entspricht.
+5. Nach der Auswahl der Datei siehst du eine Vorschau aller Benutzer\*innen, die mit dieser Datei importiert werden.
+6. Wähle eine Benutzerrolle aus, die auf alle Benutzer\*innen in der Vorschau angewendet wird.
+7. Wähle einen oder mehrer Räume aus, in dem die Benutzer\*innen mit dieser Rolle hinzugefügt werden sollen.
+8. _Optional:_ Kannst du einen bestimmten Zeitpunkt terminieren, wann die Onboarding-Email verschickt werden soll. Klicke dazu auf das Feld **"Einladungsdarum für neue Benutzer"**
+9. Klicke auf **Bestätigen**.
+10. _Optional:_ Überprüfe im Benutzermenü, ob der Import erfolgreich war.
+
+<img src="/screenshots/csv_importer.png" alt="CSV-Import" style="height: 300px;">
+
 
 ---
 
@@ -140,9 +148,6 @@ Ermöglicht das Planen von Aktionen für ein zukünftiges Datum – z. B. das Sp
 3. Aktion auswählen:
    - **System:** Status ändern oder löschen
      - Status: _aktiv_, _inaktiv_, _Wochenende_, _Urlaub_, _Feiertag_
-   - **Benutzer:** Login, Logout, Status ändern
-     - Status: _aktiv_, _inaktiv_, _gesperrt_
-   - **Gruppe:** Benutzer hinzufügen/entfernen
 4. Datum wählen
 5. **Bestätigen**
 
@@ -191,7 +196,7 @@ Wir hosten die Daten und erstellen täglich automatisierte Datenbackups. Diese B
 
 👉 Wenn Sie den Zustand Ihres Systems auf einen früheren Zeitpunkt zurücksetzen möchten, schreiben Sie uns bitte an [support@aula.de](mailto:support@aula.de). Wir können die Speicherung von Backups nicht länger als 30 Tage garantieren.
 
---- -->
+-->
 
 ## ⚠️ Gefahrenbereich (Instanz löschen) ⚠️
 
