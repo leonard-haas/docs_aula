@@ -224,10 +224,8 @@ Die Zählung ist einfach FÜR = + 1, GEGEN = -1 und NEUTRAL= 0.
 Eine Idee wird nicht automatisch als Gewinner markiert, da es in den Boxen verschiedene konkurriende Ideen geben kann. Eine gewinnende Idee muss daher von den Admins bzw. Prüfer*innen als solche erklärt werden.
 
 ### Delegation
-Benutzer\*innen mit Stimmrecht können ihre Stimme an eine\*n andere\*n Stimmberechtigte\*n delegieren. Die Delegation gilt pro Box , d.h. sie betrifft alle Ideen innerhalb dieser Box.
-Die Anzahl der Stimmen steigt um +1, wenn ein Schüler A seine Stimme an Schüler B delegiert. Das bedeutet, dass Schüler B mit + 2 (FÜR) oder -2 (GEGEN) für eine Idee stimmen kann.
-
-Es gibt keine Kettendelegation, d. h. eine Stimme kann nur einmal delegiert werden und wird nicht über mehrere Delegationen hinweg kumuliert. Wenn Schüler A an Schüler B delegiert und Schüler B dann an Schüler C delegiert, erhält Schüler C keine Mehrfachstimmen (mehr als 2 Stimmen). In diesem Fall müsste Schüler A erneut abstimmen, wenn er immer noch teilnehmen möchte, da sonst seine\*ihre Stimme verloren ist, aber das System erzwingt dies nicht. Benutzer\*innen, die bereits eine delegierte Stimme erhalten haben, können keine Stimme von einer anderen Person delegieren.
+Benutzer*innen mit Stimmrecht können ihre Stimme an eine*n andere*n Stimmberechtigte*n abgeben, also delegieren. Die Delegation gilt pro Box, d.h. sie betrifft alle Ideen innerhalb dieser Box. Die Anzahl der Stimmen steigt um +1, wennSchüler*in A seine Stimme an Schüler*in B delegiert. Das bedeutet, dass Schüler*in B mit + 2 (Für) oder -2 (Gegen) für oder gegen eine Idee stimmen kann.
+Es gibt keine Kettendelegation, d. h. eine Stimme kann nur einmal, an eine Person delegiert werden, danach nicht nochmal an eine weitere.  Wenn Schüler\*in A an Schüler*in B delegiert und Schüler*in B dann an Schüler\*in C delegiert, erhält Schüler\*in C keine Mehrfachstimmen (mehr als 2 Stimmen). In diesem Fall müsste Schüler\*in A erneut abstimmen, wenn er immer noch teilnehmen möchte, da sonst seine\*ihre Stimme verloren ist. Benutzer*innen, die bereits eine delegierte Stimme erhalten haben, können keine weitere Stimme von einer anderen Personerhalten.
 
 > Hinweis: Rollen ohne Stimmrecht sehen den Delegieren-Button nicht
 
@@ -241,14 +239,6 @@ Es gibt keine Kettendelegation, d. h. eine Stimme kann nur einmal delegiert werd
    - **Dafür**
    - **Neutral**
    - **Dagegen**
-
-### Stimme delegieren
-
-**Wer:** Alle mit Stimmrecht
-
-1. Button „Delegieren“ klicken.
-2. Wähler:in auswählen.
-3. Mit „Auswählen“ bestätigen.
 
 ### Schnellumfrage erstellen
 
