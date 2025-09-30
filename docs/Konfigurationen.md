@@ -136,22 +136,17 @@ Ermöglicht das Planen von Aktionen für ein zukünftiges Datum – z. B. das Sp
 **Wer:** Admin, Tech-Admin
 
 1. Klick auf **Geplante Aktionen**
-2. Bereich auswählen:
-   - **System**
-   - **Benutzer**
-   - **Gruppe**
+2. Bereich **System** auswählen
 3. Aktion auswählen:
-   - **System:** Status ändern oder löschen
+   - Status ändern oder löschen
      - Status: *aktiv*, *inaktiv*, *Wochenende*, *Urlaub*, *Feiertag*
-   - **Benutzer:** Login, Logout, Status ändern
-     - Status: *aktiv*, *inaktiv*, *gesperrt*
-   - **Gruppe:** Benutzer hinzufügen/entfernen
 4. Datum wählen
 5. **Bestätigen**
 
+
 ### Anwendungsbeispiele für geplante Aktionen
 
-#### Benutzer sperren (und reaktivieren)
+<!-- #### Benutzer sperren (und reaktivieren)
 
 1. Bereich: **Benutzer\*in**
 2. Benutzerstatus auf **gesperrt** setzen.
@@ -159,7 +154,7 @@ Ermöglicht das Planen von Aktionen für ein zukünftiges Datum – z. B. das Sp
 4. Bereich: **Benutzer**
 5. Status: **aktiv**
 6. Datum wählen.
-7. Bestätigen.
+7. Bestätigen. -->
 
 #### Schule in Ferienmodus setzen
 
@@ -186,20 +181,20 @@ Ermöglicht das Planen von Aktionen für ein zukünftiges Datum – z. B. das Sp
 - *Feiertag*
 
 
-### 🔄 Backup erstellen
+<!-- ### 🔄 Backup erstellen
 
 **Wer:** Admin, Tech-Admin
 
 Mit dieser Funktion wird eine Sicherheitskopie, hierBackup genanntder gesamten Datenbank erstellt. Diese Datei – ein sogenannter SQL-Dump – enthält alle gespeicherten Inhalte und Einstellungen der Plattform. Sie kann später verwendet werden, um den Stand zu eines bestimmten Zeitpunkts wiederherzustellen.
 
-**So geht’s:**
+**So geht's:**
 
 1. Öffne das Menü: **Konfigurationen → System**.
-2. Klicke auf **„Backup erstellen“**.
+2. Klicke auf **„Backup erstellen"**.
 3. Die Backup-Datei wird automatisch heruntergeladen.
 
 > 💡 **Hinweis**
-Das Backup ist eine technische Datei und kann **nicht direkt geöffnet oder gelesen** werden. Sie dient ausschließlich dazu, den Zustand des Systems wiederherzustellen – z. B. im Notfall oder vor größeren Änderungen.
+Das Backup ist eine technische Datei und kann **nicht direkt geöffnet oder gelesen** werden. Sie dient ausschließlich dazu, den Zustand des Systems wiederherzustellen – z. B. im Notfall oder vor größeren Änderungen.
 
 ---
 
@@ -210,7 +205,7 @@ Ein Backup kann **nur über direkten Serverzugriff** wiederhergestellt werden. D
 **Wenn ihr über keine eigene Serververwaltung verfügt:**
 👉 Bitte kontaktiert das **aula-Team**, um ein Backup einspielen zu lassen.
 
----
+--- -->
 
 ## ⚠️ Gefahrenbereich (Instanz löschen) ⚠️
 
