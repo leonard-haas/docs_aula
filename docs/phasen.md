@@ -221,6 +221,7 @@ In der aula-Software wird über eine Idee abgestimmt, wobei die Möglichkeit bes
 
 Die Zählung ist einfach FÜR = + 1, GEGEN = -1 und NEUTRAL= 0. 
 
+<!--
 Eine Idee wird nicht automatisch als Gewinner markiert, da es in den Boxen verschiedene konkurriende Ideen geben kann. Eine gewinnende Idee muss daher von den Admins bzw. Prüfer*innen als solche erklärt werden.
 
 ### Delegation
@@ -228,6 +229,7 @@ Benutzer*innen mit Stimmrecht können ihre Stimme an eine*n andere*n Stimmberech
 Es gibt keine Kettendelegation, d. h. eine Stimme kann nur einmal, an eine Person delegiert werden, danach nicht nochmal an eine weitere.  Wenn Schüler\*in A an Schüler*in B delegiert und Schüler*in B dann an Schüler\*in C delegiert, erhält Schüler\*in C keine Mehrfachstimmen (mehr als 2 Stimmen). In diesem Fall müsste Schüler\*in A erneut abstimmen, wenn er immer noch teilnehmen möchte, da sonst seine\*ihre Stimme verloren ist. Benutzer*innen, die bereits eine delegierte Stimme erhalten haben, können keine weitere Stimme von einer anderen Personerhalten.
 
 > Hinweis: Rollen ohne Stimmrecht sehen den Delegieren-Button nicht
+-->
 
 ### Abstimmen
 
