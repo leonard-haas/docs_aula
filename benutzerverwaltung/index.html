@@ -342,6 +342,15 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#globale-und-lokale-rollen-in-aula" class="md-nav__link">
+    <span class="md-ellipsis">
+      Globale und lokale Rollen in Aula
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#stimmrecht" class="md-nav__link">
     <span class="md-ellipsis">
       Stimmrecht
@@ -500,6 +509,15 @@
         
       </ul>
     </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#passwort-zurucksetzen" class="md-nav__link">
+    <span class="md-ellipsis">
+      Passwort zurücksetzen
+    </span>
+  </a>
   
 </li>
         
@@ -690,28 +708,40 @@
 <blockquote>
 <p>Hinweis: Diese Ansicht ist nur für Administrator*innen sichtbar.</p>
 </blockquote>
-<p>Die Benutzerverwaltung ermöglicht Admins Benutzer<em>innen zu erstellen und dabei Rollen und Räume zuzuweisen. Dabei stehen zwei zentrale Prozesse im Vordergrund:
-1.  Benutzer</em>innen anlegen – einzeln oder per CSV-Import.
-2.  Onboarding – wie neue Benutzer*innen erstmals auf die Plattform zugreifen.
-Das Onboarding kann entweder mit einem temporären Passwort erfolgen oder mit einer Email Adresse. </p>
+<p>Die Benutzerverwaltung ermöglicht Admins Benutzer*innen zu erstellen und dabei Rollen und Räume zuzuweisen. Eine Benutzer*in kann in verschiedenen Rollen unterschiedliche Rolle annehmen. Während manche Rollen (Super-Moderator*in, Prüfer*in und Admin) für alle Räume gelten.</p>
 <h2 id="rollen-in-der-aula-software">Rollen in der aula Software</h2>
 <blockquote>
 <p>Kurz erklärt: Das Rollensystem in der aula-Software bestimmt, welche Aufgaben und Rechte die verschiedenen Rollen haben. Es legt fest, wer welche Aktionen ausführen kann und welche Bereiche einsehen darf.</p>
 </blockquote>
+<h3 id="globale-und-lokale-rollen-in-aula">Globale und lokale Rollen in Aula</h3>
+<p>In Aula können Nutzer*innen in verschiedenen Räumen unterschiedliche Rollen haben. Das bedeutet:
+Jede Person kann eine globale Rolle für die gesamte Schule und zusätzlich lokale Rollen in einzelnen Räumen besitzen.</p>
+<ul>
+<li>Globale Rolle:
+Diese gilt für die ganze Schule und betrifft alle Räume.</li>
+</ul>
+<ul>
+<li>Lokale Rolle:
+Diese gilt nur für einen bestimmten Raum (z. B. für eine Klasse oder Projektgruppe).</li>
+</ul>
+<p>So kann eine Person zum Beispiel in der ganzen Schule normale Nutzerin sein, aber in einem bestimmten Raum Moderatorin.</p>
+<p>Die Rollen Supermoderator*in, Prüfer*in und Admin sind ausschließlich globale Rollen, da sie automatisch Zugriff auf alle Räume haben und nicht auf einzelne Bereiche beschränkt sind.</p>
 <details>
 <summary>1. <strong>Gast</strong></summary>
-<p>Kann Inhalte einsehen, aber nicht aktiv teilnehmen.</p>
+<p>Kann Inhalte einsehen, aber nicht aktiv teilnehmen. Diese Rolle kann also nur lesen, aber nicht editieren.</p>
 </details>
 
 <details>
 <summary>2. <strong>Nutzer*in</strong></summary>
-<p>Nutzer*innen können eigene Ideen einbringen, mit anderen Nutzer*innen über Vorschläge diskutieren und in Abstimmungen entscheiden, welche Ideen weiterverfolgt werden sollen.
+<p>Nutzer*innen können eigene Ideen einbringen, mit anderen Nutzer*innen über Vorschläge diskutieren und in Abstimmungen entscheiden, welche Ideen weiterverfolgt werden sollen. Diese Rolle ist als Standard-Rolle (default) für alle neuen User eingestellt.
 </p>
 </details>
 
 <details>
 <summary>3. <strong>Moderator*in</strong></summary>
-<p>Moderator*innen in der aula-Beteiligungssoftware sind Schüler*innen und Lehrkräfte, die sicherstellen, dass sich alle an der Schule aktiv und respektvoll beteiligen können. Sie kümmern sich um die Plattform, achten auf die Einhaltung der Verhaltensregeln und unterstützen andere Nutzer*innen, um eine konstruktive und positive Atmosphäre zu fördern. Es ist sinnvoll viele Moderator*innen an der Schule zu haben, damit sie sich die Aufgaben gut aufteilen können – ideal sind zwei Moderator*innen pro Klasse.</p>
+<p>Moderator*innen in der aula-Beteiligungssoftware sind Schüler*innen und Lehrkräfte, die sicherstellen, dass sich alle an der Schule aktiv und respektvoll beteiligen können. Sie kümmern sich um die Plattform, achten auf die Einhaltung der Verhaltensregeln und unterstützen andere Nutzer*innen, um eine konstruktive und positive Atmosphäre zu fördern. 
+Es ist wichtig zu beachten das eine Moderator*in oft eine lokale Rolle ist. Siehe Unterscheidung global und lokale Rolle
+Für die Nutzung von aula ist es sinnvoll viele Moderator*innen an der Schule zu haben, damit sie sich die Aufgaben gut aufteilen können. Ideal sind zwei Moderator*innen pro Klasse.</p>
 </details>
 
 <details>
@@ -849,6 +879,7 @@ Beim Anlegen erhält der/die Benutzer*in folgende Eigenschaften:</p>
 <li>Nach der Auswahl der Datei siehst du eine Vorschau aller Benutzer*innen, die mit dieser Datei importiert werden.</li>
 <li>Wähle eine Benutzerrolle aus, die auf alle Benutzer*innen in der Vorschau angewendet wird.</li>
 <li>Wähle einen Raum aus, in dem die Benutzer*innen mit dieser Rolle hinzugefügt werden sollen.</li>
+<li><em>Optional:</em> Kannst du einen bestimmten Zeitpunkt terminieren, wann die Onboarding-Email verschickt werden soll. Klicke dazu auf das Feld <strong>"Einladungsdarum für neue Benutzer"</strong></li>
 <li>Klicke auf <strong>Bestätigen</strong>.</li>
 <li><em>Optional:</em> Überprüfe im Benutzermenü, ob der Import erfolgreich war.</li>
 </ol>
@@ -905,6 +936,13 @@ Beim Anlegen erhält der/die Benutzer*in folgende Eigenschaften:</p>
 </ol>
 <!--- Screenshoot -->
 <p><img src="/screenshots/raumrollen_setzen.png" alt="Rollen per Raum" style="height: 300px;"></p>
+<h3 id="passwort-zurucksetzen">Passwort zurücksetzen</h3>
+<ol>
+<li>Klicke im Menü auf <strong>Benutzer</strong>.</li>
+<li>Scrolle in der Zeile des oder der Nutzer/<em>in deren Passwort zurück gesetz werden soll zur Spalte </em><em>"Passwort"</em>*</li>
+<li>Klicke auf <strong>"Passwort zurücksetzen"</strong></li>
+<li>Bestätige das Pop-up Fenster</li>
+</ol>
 
 
 
