@@ -1,30 +1,44 @@
 # 👥 Benutzer\*innenverwaltung
 > Hinweis: Diese Ansicht ist nur für Administrator\*innen sichtbar.
 
-Die Benutzerverwaltung ermöglicht Admins Benutzer*innen zu erstellen und dabei Rollen und Räume zuzuweisen. Dabei stehen zwei zentrale Prozesse im Vordergrund:
-1.	Benutzer*innen anlegen – einzeln oder per CSV-Import.
-2.	Onboarding – wie neue Benutzer*innen erstmals auf die Plattform zugreifen.
-Das Onboarding kann entweder mit einem temporären Passwort erfolgen oder mit einer Email Adresse. 
+Die Benutzerverwaltung ermöglicht Admins Benutzer*innen zu erstellen und dabei Rollen und Räume zuzuweisen. Eine Benutzer\*in kann in verschiedenen Rollen unterschiedliche Rolle annehmen. Während manche Rollen (Super-Moderator\*in, Prüfer\*in und Admin) für alle Räume gelten.
 
 
 ## Rollen in der aula Software
 
 >Kurz erklärt: Das Rollensystem in der aula-Software bestimmt, welche Aufgaben und Rechte die verschiedenen Rollen haben. Es legt fest, wer welche Aktionen ausführen kann und welche Bereiche einsehen darf.
 
+### Globale und lokale Rollen in Aula
+
+In Aula können Nutzer*innen in verschiedenen Räumen unterschiedliche Rollen haben. Das bedeutet:
+Jede Person kann eine globale Rolle für die gesamte Schule und zusätzlich lokale Rollen in einzelnen Räumen besitzen.
+
+- Globale Rolle:
+Diese gilt für die ganze Schule und betrifft alle Räume.
+
+- Lokale Rolle:
+Diese gilt nur für einen bestimmten Raum (z. B. für eine Klasse oder Projektgruppe).
+
+So kann eine Person zum Beispiel in der ganzen Schule normale Nutzerin sein, aber in einem bestimmten Raum Moderatorin.
+
+Die Rollen Supermoderator\*in, Prüfer\*in und Admin sind ausschließlich globale Rollen, da sie automatisch Zugriff auf alle Räume haben und nicht auf einzelne Bereiche beschränkt sind.
+
 <details>
 <summary>1. <strong>Gast</strong></summary>
-<p>Kann Inhalte einsehen, aber nicht aktiv teilnehmen.</p>
+<p>Kann Inhalte einsehen, aber nicht aktiv teilnehmen. Diese Rolle kann also nur lesen, aber nicht editieren.</p>
 </details>
 
 <details>
 <summary>2. <strong>Nutzer*in</strong></summary>
-<p>Nutzer*innen können eigene Ideen einbringen, mit anderen Nutzer*innen über Vorschläge diskutieren und in Abstimmungen entscheiden, welche Ideen weiterverfolgt werden sollen.
+<p>Nutzer*innen können eigene Ideen einbringen, mit anderen Nutzer*innen über Vorschläge diskutieren und in Abstimmungen entscheiden, welche Ideen weiterverfolgt werden sollen. Diese Rolle ist als Standard-Rolle (default) für alle neuen User eingestellt.
 </p>
 </details>
 
 <details>
 <summary>3. <strong>Moderator*in</strong></summary>
-<p>Moderator*innen in der aula-Beteiligungssoftware sind Schüler*innen und Lehrkräfte, die sicherstellen, dass sich alle an der Schule aktiv und respektvoll beteiligen können. Sie kümmern sich um die Plattform, achten auf die Einhaltung der Verhaltensregeln und unterstützen andere Nutzer*innen, um eine konstruktive und positive Atmosphäre zu fördern. Es ist sinnvoll viele Moderator*innen an der Schule zu haben, damit sie sich die Aufgaben gut aufteilen können – ideal sind zwei Moderator*innen pro Klasse.</p>
+<p>Moderator*innen in der aula-Beteiligungssoftware sind Schüler*innen und Lehrkräfte, die sicherstellen, dass sich alle an der Schule aktiv und respektvoll beteiligen können. Sie kümmern sich um die Plattform, achten auf die Einhaltung der Verhaltensregeln und unterstützen andere Nutzer*innen, um eine konstruktive und positive Atmosphäre zu fördern. 
+Es ist wichtig zu beachten das eine Moderator*in oft eine lokale Rolle ist. Siehe Unterscheidung global und lokale Rolle
+Für die Nutzung von aula ist es sinnvoll viele Moderator*innen an der Schule zu haben, damit sie sich die Aufgaben gut aufteilen können. Ideal sind zwei Moderator*innen pro Klasse.</p>
 </details>
 
 <details>
@@ -130,8 +144,9 @@ Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.
 5. Nach der Auswahl der Datei siehst du eine Vorschau aller Benutzer\*innen, die mit dieser Datei importiert werden.
 6. Wähle eine Benutzerrolle aus, die auf alle Benutzer\*innen in der Vorschau angewendet wird.
 7. Wähle einen Raum aus, in dem die Benutzer\*innen mit dieser Rolle hinzugefügt werden sollen.
-8. Klicke auf **Bestätigen**.
-9. *Optional:* Überprüfe im Benutzermenü, ob der Import erfolgreich war.
+8. _Optional:_ Kannst du einen bestimmten Zeitpunkt terminieren, wann die Onboarding-Email verschickt werden soll. Klicke dazu auf das Feld **"Einladungsdarum für neue Benutzer"**
+9. Klicke auf **Bestätigen**.
+10. *Optional:* Überprüfe im Benutzermenü, ob der Import erfolgreich war.
 
 ---
 
@@ -202,3 +217,10 @@ Alle Benutzer\*innekonten müssen von einem\*r Administrator\*in erstellt werden
 
 <!--- Screenshoot -->
 <img src="/screenshots/raumrollen_setzen.png" alt="Rollen per Raum" style="height: 300px;">
+
+### Passwort zurücksetzen
+
+1. Klicke im Menü auf **Benutzer**.
+2. Scrolle in der Zeile des oder der Nutzer/*in deren Passwort zurück gesetz werden soll zur Spalte **"Passwort"**
+3. Klicke auf **"Passwort zurücksetzen"**
+4. Bestätige das Pop-up Fenster

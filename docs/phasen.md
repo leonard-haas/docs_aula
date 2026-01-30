@@ -116,7 +116,7 @@ Hier ist die überarbeitete Version aller Abschnitte im einheitlichen Markdown-S
 **Wer:** Je nach Stimmrecht
 
 * **Herz-Symbol klicken**
-  Klicke auf das **Herz**, um eine Idee zu liken oder einen Like zurückzunehmen.
+  Klicke auf das **Herz**, um eine Idee zu liken oder eruneut klicken,um  ein Like zurückzunehmen.
 
 ---
 
@@ -217,7 +217,7 @@ Auch hier ist der Inhalt nicht editierbar – Änderungenkönnen nur durch Admin
 ### Abstimmungsmechanismus
 
 
-In der aula-Software wird über eine Idee abgestimmt, wobei die Möglichkeit besteht, **FÜR**, **GEGEN** oder **NEUTRAL** zu stimmen. Die Abstimmungsrechte sind abhängig von den Rollen der Nutzer\*nnen (siehe 1.2). Die Stimmen, die gezählt und im Balkendiagramm angezeigt werden, werden im Verhältnis zu allen Personen im Raum plus den Stimmen von höheren Rollen wie Super-Moderator\*innen, Prinzipal und Admin mit Stimmrecht angezeigt.
+In der aula-Software wird über eine Idee abgestimmt, wobei die Möglichkeit besteht, **DAFÜR**, **DAGEGEN** oder **NEUTRAL** zu stimmen. Die Abstimmungsrechte sind abhängig von den Rollen der Nutzer\*nnen (siehe 1.2). Die Stimmen, die gezählt und im Balkendiagramm angezeigt werden, werden im Verhältnis zu allen Personen im Raum plus den Stimmen von höheren Rollen wie Super-Moderator\*innen, Prinzipal und Admin mit Stimmrecht angezeigt.
 
 Die Zählung ist einfach FÜR = + 1, GEGEN = -1 und NEUTRAL= 0. 
 
@@ -243,7 +243,7 @@ Es gibt keine Kettendelegation, d. h. eine Stimme kann nur einmal, an eine Perso
    - **Dagegen**
 
 ### Schnellumfrage erstellen
-
+<!--
 **Wer:** Admin
 
 1. Grünes Fragezeichen klicken.
@@ -254,12 +254,13 @@ Es gibt keine Kettendelegation, d. h. eine Stimme kann nur einmal, an eine Perso
    - **Erklärung zur Frage**
    - **Dauer in Tagen**
 3. Mit „Bestätigen“ speichern.
-
+-->
 ---
 
 ## Ergebnisphase
 
 ### Idee als Gewinner markieren
+Die bedeutet die Idee ist schlussendlich angenommen worden. Dieser Schritt muss immer nochmal manuel gemacht werden.
 
 **Wer:** Super-Moderator\*in, Prüfer\*innen, Admin
 
