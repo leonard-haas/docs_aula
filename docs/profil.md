@@ -15,11 +15,12 @@ Es gibt drei verschiedene Arten von Namen:
 1. Wähle den Namen aus, den du ändern möchtest.
 2. Klicke auf das **Schloss-Symbol** links im Namensfeld.
 3. Bearbeite den Namen direkt im Feld.
-4. Klicke auf **"Speicher"**.
+4. Klicke auf **"Speichern"**.
 5. Bestätige das Pop-up-Fenster, um eine Anfrage an die Admins zu schicken. Sie müssen die Änderung freigeben.
 
 ## Über mich
-tbh.s
+
+Im Feld **"Über mich"** kannst du ein paar Worte über dich schreiben. Der Text wird derzeit an keiner anderen Stelle in aula angezeigt.
 
 ## Passwort ändern
 
@@ -44,14 +45,14 @@ tbh.s
 4. Nach ein paar Minuten erhältst du eine E-Mail mit einem Link zum Zurücksetzen des Passworts.
 
 ## Kontodaten exportieren:
-> Diese Funktion ermöglicht es alle gespeicherten Daten auf aula als CSV Datein zu erhalten.
+> Diese Funktion ermöglicht es, alle gespeicherten Daten auf aula als CSV-Dateien zu erhalten.
 
-1. Klicke im Menü auf PROFIL
-2. Klicke auf Datenschutz
-3. Im nun aufgeklappten Feld klick auf **"Datenexport anfordern"**
+1. Klicke im Menü auf **"Profil"**.
+2. Klicke auf **"Datenschutz"**.
+3. Im nun aufgeklappten Feld klicke auf **"Datenexport anfordern"**.
 
 ## Konto löschen
 
-1. Klick eim Menü auf **"Profil"**
-2. Klicke auf Gefahrenzone
-3. Klicke auf **"Konto löschen anfordern"**
+1. Klicke im Menü auf **"Profil"**.
+2. Klicke auf **"Gefahrenzone"**.
+3. Klicke auf **"Konto löschen anfordern"**.

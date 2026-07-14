@@ -1,10 +1,8 @@
 # ❗ Phasen im Beteiligungsprozess
 
-# Test
-
-1. **[Wilde Ideen](#wildenideen-phase)**
+1. **[Wilde Ideen](#wilde-ideen-phase)**
 2. **[Diskussion](#diskussionsphase)**
-3. **[Prüfung](#prüfungsphase)**
+3. **[Prüfung](#prufungsphase)**
 4. **[Abstimmung](#abstimmungsphase)**
 5. **[Ergebnis](#ergebnisphase)**
 
@@ -21,15 +19,23 @@ Ideen sind Vorschläge, die diskutiert, überarbeitet, geprüft und schließlich
 Boxen sind Sammlungen thematisch zusammengehöriger Ideen. Ab der Diskussionsphase konzentriert sich der Prozess auf Boxen, die eine oder mehrere Ideen enthalten können.
 
 ## Phasendauer
-Für jeden Raum kann eine Standard-Phasendauer festgelegt werden für die Diskussions- und die Abstimmungsphase.
+Für jeden Raum kann eine Standard-Phasendauer für die Diskussions- und die Abstimmungsphase festgelegt werden. Die Phasendauer kann auch für einzelne Boxen verändert werden.
 
-### Phasendauer ändern
+### Standard-Phasendauer ändern
 
-Klicke auf „Räume“.
-Wähle den Raum aus, dessen Phasendauer du ändern möchtest.
-Wähle die Diskussions- oder Abstimmungsphase aus.
-Gib die gewünschte Dauer in Tagen ein.
-Klicke auf „BESTÄTIGEN“.
+1. Klicke auf „Räume“.
+2. Wähle den Raum aus, dessen Phasendauer du ändern möchtest.
+3. Wähle die Diskussions- oder Abstimmungsphase aus.
+4. Gib die gewünschte Dauer in Tagen ein.
+5. Klicke auf „BESTÄTIGEN“.
+
+### Phasendauer einer einzelnen Box ändern
+
+1. Wähle einen Raum von der Startseite aus.
+2. Gehe entweder in die Diskussions- oder Abstimmungsphase.
+3. Klicke auf das Symbol des Stiftes am Rande einer Box.
+4. Klicke auf die Pfeile nach oben oder unten, um die Phase zu verlängern oder zu verkürzen.
+5. Bestätige die Eingabe.
 
 ## Boxen zwischen Phasen verschieben
 
@@ -37,7 +43,7 @@ Abhängig von ihrer Rolle können Nutzer*innen Boxen von einer Phase in die näc
 
 
 
-1. **Betrete eine Phase (Nur die Wilde Ideen-Phase hat keinen Boxen)**
+1. **Betrete eine Phase (nur die Wilde-Ideen-Phase hat keine Boxen)**
    Klicke auf die **drei Punkte** oben rechts in der Box.
 
 2. **Bearbeitungsmodus aktivieren**
@@ -50,20 +56,19 @@ Abhängig von ihrer Rolle können Nutzer*innen Boxen von einer Phase in die näc
    Klicke auf **„Bestätigen“**, um die Änderungen zu speichern.
 
 
-<img src="/screenshots/move_box.png" alt="Raum erstellen" style="height: 300px;">
+<img src="/screenshots/move_box.png" alt="Box in eine andere Phase verschieben" style="height: 300px;">
 
 
 ### Diskussion → Prüfung
 **Wer:** Moderator\*in, Super-Moderator\*in, Prüfer\*innen oder Admins können die Box jederzeit verschieben.
 
-- Sind die festgelegten Anzahl an X Tagen vollstrichen, kann die Box manuell verschoben werden.
+- Ist die festgelegte Anzahl an X Tagen verstrichen, kann die Box manuell verschoben werden.
 <!--Nach **X** Tagen (festgelegt beim Erstellen der Box) wird die Box **automatisch** in die Prüfungsphase verschoben.-->
-- **Wer:** Moderator\*in, Super-Moderator\*in, Prüfer\*innen oder Admins können die Box jederzeit verschieben.
 
 ### Prüfung → Abstimmung
-**Wer:** Prüfer*innen oder Admins können die Box bzw. Idee genehmigen und verschieben
+**Wer:** Prüfer*innen oder Admins können die Box bzw. Idee genehmigen und verschieben.
 
-- Die Abstimmung geschieht , sobald alle Ideen durch die Prüfer*innen oder Admins genehmigt wurden.
+- Die Abstimmung geschieht, sobald alle Ideen durch die Prüfer*innen oder Admins genehmigt wurden.
 - **Nicht genehmigte Ideen** sind **ausgegraut** und **nicht abstimmbar**.
 - **Zurücksetzen:** Moderator\*innen, Super-Moderator\*innen, Prüfer\*innen oder Admins können Boxen auch wieder in die Diskussionsphase zurückversetzen.
 
@@ -73,7 +78,7 @@ Abhängig von ihrer Rolle können Nutzer*innen Boxen von einer Phase in die näc
 
 ---
 
-## Wilde Ideen Phase
+## Wilde-Ideen-Phase
 
 ### Idee erstellen
 
@@ -87,8 +92,6 @@ Abhängig von ihrer Rolle können Nutzer*innen Boxen von einer Phase in die näc
    - **Benutzer\*innendefinierte Felder** (optional)
    - **Status**: In der Regel „Aktiv“
 3. Eingaben bestätigen.
-
-Hier ist die überarbeitete Version aller Abschnitte im einheitlichen Markdown-Stil:
 
 ---
 
@@ -130,7 +133,7 @@ Hier ist die überarbeitete Version aller Abschnitte im einheitlichen Markdown-S
 **Wer:** Je nach Stimmrecht
 
 * **Herz-Symbol klicken**
-  Klicke auf das **Herz**, um eine Idee zu liken oder eruneut klicken,um  ein Like zurückzunehmen.
+  Klicke auf das **Herz**, um eine Idee zu liken, oder erneut, um ein Like zurückzunehmen.
 
 ---
 
@@ -195,11 +198,11 @@ Hier ist die überarbeitete Version aller Abschnitte im einheitlichen Markdown-S
 
 ## Prüfungsphase
 
-In dieser Phase ist der Inhalt nicht mehr editierbar, das bedeutet es ist keine Bearbeitung durch Ersteller*innen möglich. Nur Admins können dann ggf. Inhalte ändern.
+In dieser Phase ist der Inhalt nicht mehr editierbar, das bedeutet, es ist keine Bearbeitung durch Ersteller*innen möglich. Nur Admins können dann ggf. Inhalte ändern.
 
 ### Genehmigung setzen
 
-**Wer:** Prüfer\*innen(Schulleitung), Admins
+**Wer:** Prüfer\*innen (Schulleitung), Admins
 
 #### Vorgehensweise
 
@@ -220,29 +223,29 @@ In dieser Phase ist der Inhalt nicht mehr editierbar, das bedeutet es ist keine 
 5. **Aktion bestätigen**
    Bestätige deine Eingabe, um die Genehmigung oder Ablehnung zu speichern.
 
-<img src="/screenshots/gehnehmigung_prüfungsphase.png" alt="Genehmigung">
+<img src="/screenshots/gehnehmigung_prüfungsphase.png" alt="Idee in der Prüfungsphase mit Daumen-hoch- und Daumen-runter-Button genehmigen">
 
 ---
 
 ## Abstimmungsphase
 
-Auch hier ist der Inhalt nicht editierbar – Änderungenkönnen nur durch Admins vorgenommen werden.
+Auch hier ist der Inhalt nicht editierbar – Änderungen können nur durch Admins vorgenommen werden.
 
 ### Abstimmungsmechanismus
 
 
-In der aula-Software wird über eine Idee abgestimmt, wobei die Möglichkeit besteht, **DAFÜR**, **DAGEGEN** oder **NEUTRAL** zu stimmen. Die Abstimmungsrechte sind abhängig von den Rollen der Nutzer\*nnen (siehe 1.2). Die Stimmen, die gezählt und im Balkendiagramm angezeigt werden, werden im Verhältnis zu allen Personen im Raum plus den Stimmen von höheren Rollen wie Super-Moderator\*innen, Prinzipal und Admin mit Stimmrecht angezeigt.
+In der aula-Software wird über eine Idee abgestimmt, wobei die Möglichkeit besteht, **DAFÜR**, **DAGEGEN** oder **NEUTRAL** zu stimmen. Die Abstimmungsrechte sind abhängig von den Rollen der Nutzer\*innen (siehe [Stimmrecht](benutzerverwaltung.md#stimmrecht)). Die Stimmen, die gezählt und im Balkendiagramm angezeigt werden, werden im Verhältnis zu allen Personen im Raum plus den Stimmen von höheren Rollen wie Super-Moderator\*innen, Prüfer\*innen und Admin mit Stimmrecht angezeigt.
 
-Die Zählung ist einfach FÜR = + 1, GEGEN = -1 und NEUTRAL= 0. 
+Die Zählung ist einfach: FÜR = +1, GEGEN = −1 und NEUTRAL = 0.
 
 <!--
-Eine Idee wird nicht automatisch als Gewinner markiert, da es in den Boxen verschiedene konkurriende Ideen geben kann. Eine gewinnende Idee muss daher von den Admins bzw. Prüfer*innen als solche erklärt werden.
+Eine Idee wird nicht automatisch als Gewinner markiert, da es in den Boxen verschiedene konkurrierende Ideen geben kann. Eine gewinnende Idee muss daher von den Admins bzw. Prüfer*innen als solche erklärt werden.
 
 ### Delegation
-Benutzer*innen mit Stimmrecht können ihre Stimme an eine*n andere*n Stimmberechtigte*n abgeben, also delegieren. Die Delegation gilt pro Box, d.h. sie betrifft alle Ideen innerhalb dieser Box. Die Anzahl der Stimmen steigt um +1, wennSchüler*in A seine Stimme an Schüler*in B delegiert. Das bedeutet, dass Schüler*in B mit + 2 (Für) oder -2 (Gegen) für oder gegen eine Idee stimmen kann.
-Es gibt keine Kettendelegation, d. h. eine Stimme kann nur einmal, an eine Person delegiert werden, danach nicht nochmal an eine weitere.  Wenn Schüler\*in A an Schüler*in B delegiert und Schüler*in B dann an Schüler\*in C delegiert, erhält Schüler\*in C keine Mehrfachstimmen (mehr als 2 Stimmen). In diesem Fall müsste Schüler\*in A erneut abstimmen, wenn er immer noch teilnehmen möchte, da sonst seine\*ihre Stimme verloren ist. Benutzer*innen, die bereits eine delegierte Stimme erhalten haben, können keine weitere Stimme von einer anderen Personerhalten.
+Benutzer*innen mit Stimmrecht können ihre Stimme an eine*n andere*n Stimmberechtigte*n abgeben, also delegieren. Die Delegation gilt pro Box, d. h. sie betrifft alle Ideen innerhalb dieser Box. Die Anzahl der Stimmen steigt um +1, wenn Schüler*in A seine Stimme an Schüler*in B delegiert. Das bedeutet, dass Schüler*in B mit +2 (Für) oder −2 (Gegen) für oder gegen eine Idee stimmen kann.
+Es gibt keine Kettendelegation, d. h. eine Stimme kann nur einmal an eine Person delegiert werden, danach nicht nochmal an eine weitere. Wenn Schüler\*in A an Schüler*in B delegiert und Schüler*in B dann an Schüler\*in C delegiert, erhält Schüler\*in C keine Mehrfachstimmen (mehr als 2 Stimmen). In diesem Fall müsste Schüler\*in A erneut abstimmen, wenn er immer noch teilnehmen möchte, da sonst seine\*ihre Stimme verloren ist. Benutzer*innen, die bereits eine delegierte Stimme erhalten haben, können keine weitere Stimme von einer anderen Person erhalten.
 
-> Hinweis: Rollen ohne Stimmrecht sehen den Delegieren-Button nicht
+> Hinweis: Rollen ohne Stimmrecht sehen den Delegieren-Button nicht.
 -->
 
 ### Abstimmen
@@ -256,8 +259,9 @@ Es gibt keine Kettendelegation, d. h. eine Stimme kann nur einmal, an eine Perso
    - **Neutral**
    - **Dagegen**
 
-### Schnellumfrage erstellen
 <!--
+### Schnellumfrage erstellen
+
 **Wer:** Admin
 
 1. Grünes Fragezeichen klicken.
@@ -269,12 +273,13 @@ Es gibt keine Kettendelegation, d. h. eine Stimme kann nur einmal, an eine Perso
    - **Dauer in Tagen**
 3. Mit „Bestätigen“ speichern.
 -->
+
 ---
 
 ## Ergebnisphase
 
 ### Idee als Gewinner markieren
-Die bedeutet die Idee ist schlussendlich angenommen worden. Dieser Schritt muss immer nochmal manuel gemacht werden.
+Das bedeutet, die Idee ist schlussendlich angenommen worden. Dieser Schritt muss immer nochmal manuell gemacht werden.
 
 **Wer:** Super-Moderator\*in, Prüfer\*innen, Admin
 

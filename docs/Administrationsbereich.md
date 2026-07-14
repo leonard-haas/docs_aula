@@ -1,9 +1,9 @@
 # Administrationsbereich
 ---
-1. **[📩 Nachrichten-schreiben](#nachrichten-menü)**
-2. **[📢 Ankündigungs-Menü](#ankündigungs-menü)**
-3. **[🚩 Berichte-Menü](#berichte-menü)**
-4. **[🙋 Anfragen-Menü](#anfragen-menü)**
+1. **[📩 Nachrichten-schreiben](#nachrichten-schreiben)**
+2. **[📢 Ankündigungen-Menü](#ankundigungen-menu)**
+3. **[🚩 Berichte-Menü](#berichte-menu)**
+4. **[🙋 Anfragen-Menü](#anfragen-menu)**
 ---
 
 ---
@@ -81,8 +81,8 @@ In diesem Bereich werden **alle gemeldeten Inhalte** gesammelt.
 
 Die Berichte bestehen aus vier Elementen:
 
-1. Einer Überschrift die angibt, welche Einheit (bspw. Box, Kommentar oder Idee) gemeldet wurde und dem zugehörigen Titel dieser Einheit.
-2. Dem Grund, hier für gibt es elf Kategorien:
+1. Einer Überschrift, die angibt, welche Einheit (bspw. Box, Kommentar oder Idee) gemeldet wurde, und dem zugehörigen Titel dieser Einheit.
+2. Dem Grund, hierfür gibt es zehn Kategorien:
       - Unangemessene Sprache
       - Mobbing oder Belästigung
       - Hassrede
@@ -93,8 +93,8 @@ Die Berichte bestehen aus vier Elementen:
       - Verletzung der Privatsphäre
       - Urheberrechtsverletzung
       - Andere
-3. Einem Link zu dem Ort, an dem die gemedelte Einheit zu finden ist.
-4. Der Text der die Meldung begründet bzw. dieser hinzugefügt wurde.
+3. Einem Link zu dem Ort, an dem die gemeldete Einheit zu finden ist.
+4. Der Text, der die Meldung begründet bzw. dieser hinzugefügt wurde.
 
 ## Aktionen
 

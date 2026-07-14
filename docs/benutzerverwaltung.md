@@ -1,16 +1,16 @@
 # 👥 Benutzer\*innenverwaltung
 > Hinweis: Diese Ansicht ist nur für Administrator\*innen sichtbar.
 
-Die Benutzerverwaltung ermöglicht Admins Benutzer*innen zu erstellen und dabei Rollen und Räume zuzuweisen. Eine Benutzer\*in kann in verschiedenen Rollen unterschiedliche Rolle annehmen. Während manche Rollen (Super-Moderator\*in, Prüfer\*in und Admin) für alle Räume gelten.
+Die Benutzerverwaltung ermöglicht Admins, Benutzer*innen zu erstellen und dabei Rollen und Räume zuzuweisen. Ein\*e Benutzer\*in kann in verschiedenen Räumen unterschiedliche Rollen annehmen, während manche Rollen (Super-Moderator\*in, Prüfer\*in und Admin) für alle Räume gelten.
 
 
-## Rollen in der aula Software
+## Rollen in der aula-Software
 
 >Kurz erklärt: Das Rollensystem in der aula-Software bestimmt, welche Aufgaben und Rechte die verschiedenen Rollen haben. Es legt fest, wer welche Aktionen ausführen kann und welche Bereiche einsehen darf.
 
-### Globale und lokale Rollen in Aula
+### Globale und lokale Rollen in aula
 
-In Aula können Nutzer*innen in verschiedenen Räumen unterschiedliche Rollen haben. Das bedeutet:
+In aula können Nutzer*innen in verschiedenen Räumen unterschiedliche Rollen haben. Das bedeutet:
 Jede Person kann eine globale Rolle für die gesamte Schule und zusätzlich lokale Rollen in einzelnen Räumen besitzen.
 
 - Globale Rolle:
@@ -37,18 +37,18 @@ Die Rollen Supermoderator\*in, Prüfer\*in und Admin sind ausschließlich global
 <details>
 <summary>3. <strong>Moderator*in</strong></summary>
 <p>Moderator*innen in der aula-Beteiligungssoftware sind Schüler*innen und Lehrkräfte, die sicherstellen, dass sich alle an der Schule aktiv und respektvoll beteiligen können. Sie kümmern sich um die Plattform, achten auf die Einhaltung der Verhaltensregeln und unterstützen andere Nutzer*innen, um eine konstruktive und positive Atmosphäre zu fördern. 
-Es ist wichtig zu beachten das eine Moderator*in oft eine lokale Rolle ist. Siehe Unterscheidung global und lokale Rolle
-Für die Nutzung von aula ist es sinnvoll viele Moderator*innen an der Schule zu haben, damit sie sich die Aufgaben gut aufteilen können. Ideal sind zwei Moderator*innen pro Klasse.</p>
+Es ist wichtig zu beachten, dass ein*e Moderator*in oft eine lokale Rolle ist. Siehe Unterscheidung globale und lokale Rolle.
+Für die Nutzung von aula ist es sinnvoll, viele Moderator*innen an der Schule zu haben, damit sie sich die Aufgaben gut aufteilen können. Ideal sind zwei Moderator*innen pro Klasse.</p>
 </details>
 
 <details>
 <summary>4. <strong>Super-Moderator*in</strong></summary>
-<p>Hat Moderationsrechte, wie die Moderator*innen, allerdings nicht beschränkt auf einen/oder mehrere Räume, sondern kann alle Räume und ihre Inhalt sehen. Zusätzlich können Supermoderator*innen die Menüpunkte Ideen und Boxen einsehen, um einen Gesamtüberblick zuhaben. </p>
+<p>Hat Moderationsrechte, wie die Moderator*innen, allerdings nicht beschränkt auf einen oder mehrere Räume, sondern kann alle Räume und ihre Inhalte sehen. Zusätzlich können Supermoderator*innen die Menüpunkte Ideen und Boxen einsehen, um einen Gesamtüberblick zu haben.</p>
 </details>
 
 <details>
-<summary>5. <strong>Prüfer*in </strong></summary>
-<p>Überprüft in der Prüfungsphase die Rechtmäßigkeit einer Idee im Sinne des aula Vertrags. Oftmals bekommen Teile der Schulleitung diese Rolle zu geschrieben. </p>
+<summary>5. <strong>Prüfer*in</strong></summary>
+<p>Überprüft in der Prüfungsphase die Rechtmäßigkeit einer Idee im Sinne des aula-Vertrags. Oftmals bekommen Teile der Schulleitung diese Rolle zugeschrieben.</p>
 </details>
 
 <details>
@@ -58,7 +58,7 @@ Für die Nutzung von aula ist es sinnvoll viele Moderator*innen an der Schule zu
 
 <details>
 <summary>7. <strong>Tech-Admin</strong></summary>
-<p>Kann grundlegende Änderungen an der Schul-Instanz vornehmen, z.B. die Instanz offline schalten oder Betriebszeiten festlegen. Mit dem Tech-Admin-Account sind keine Inhalte sichtbar. Diesen Account kann bspw. auch ein externer Dienstleister nutzen, denn der Tech-Admin hat keinen Einblick auf die inhaltliche Ebene der erstellten Ideen etc.</p>
+<p>Kann grundlegende Änderungen an der Schul-Instanz vornehmen, z. B. die Instanz offline schalten oder Betriebszeiten festlegen. Mit dem Tech-Admin-Account sind keine Inhalte sichtbar. Diesen Account kann bspw. auch ein externer Dienstleister nutzen, denn der Tech-Admin hat keinen Einblick auf die inhaltliche Ebene der erstellten Ideen etc.</p>
 </details>
 
 ### Stimmrecht
@@ -76,12 +76,12 @@ Das Stimmrecht bezeichnet die Möglichkeit, in der Abstimmungsphase über eine I
 
 ## Benutzer\*innen anlegen
 
-## 👤 Einzelne\*r Benutzer\*in anlegen
+### 👤 Einzelne\*r Benutzer\*in anlegen
 
 Einzelne Benutzer\*innen können im **Benutzer-Menü** erstellt werden.
 Beim Anlegen erhält der/die Benutzer\*in folgende Eigenschaften:
 
-### 📄 Benutzer\*innen-Eigenschaften
+#### 📄 Benutzer\*innen-Eigenschaften
 
 - **Anzeigename**
   → Der Name, der beim Kommentieren oder beim Erstellen einer Idee angezeigt wird.
@@ -90,43 +90,43 @@ Beim Anlegen erhält der/die Benutzer\*in folgende Eigenschaften:
   → Login-Name
 - **Optional:** E-Mail-Adresse
 - **Optional:** Beschreibung
-- **Benutzerrolle** *(siehe Standard-Setup unter 1.2)*
+- **Benutzerrolle** *(siehe [Rollen in der aula-Software](#rollen-in-der-aula-software))*
 - **Status**
   Es gibt vier mögliche Status:
-    - Aktiv *(Standard)*
-    - Inaktiv
-    - Gesperrt
-    - Archiviert
+  - Aktiv *(Standard)*
+  - Inaktiv
+  - Gesperrt
+  - Archiviert
 - **Optional:** Zuordnung zu einem Raum oder mehreren Räumen
 
 ---
 
-> Hinweis: Wir empfehlen, zunächst einen Test-Nutzer\*in anzulegen, bevor die gesamte Schule hinzugefügt wird. So kannst du dich mit dem Onboarding neuer Benutzer\*innen vertraut machen.
+> Hinweis: Wir empfehlen, zunächst eine\*n Test-Nutzer\*in anzulegen, bevor die gesamte Schule hinzugefügt wird. So kannst du dich mit dem Onboarding neuer Benutzer\*innen vertraut machen.
 
-### 🛠️ Benutzer*in hinzufügen
+#### 🛠️ Benutzer*in hinzufügen
 
-1. Klicke im Menü auf **Benutzer-Menü**.
+1. Klicke im Menü auf **Benutzer**.
 2. Klicke auf **Neuer Benutzer**.
-3. Fülle das Formular mit den [oben genannten Angaben](#-benutzerin-eigenschaften) aus.
+3. Fülle das Formular mit den [oben genannten Angaben](#benutzerinnen-eigenschaften) aus.
 4. Lege fest, welche Rolle der\*die Benutzer\*in in welchem Raum haben soll, indem du auf **"Raumrollen setzen"** klickst.
 5. Wähle im **Pop-up-Fenster** für jeden Raum eine Rolle.
 6. Bestätige das Pop-up-Fenster.
 7. Bestätige die Erstellung des/der neuen Benutzer*in.
 
-<img src="/screenshots/benutzer_hinzufügen.png" alt="Raum erstellen" style="height: 300px;">
-<img src="/screenshots/raumrollen_setzen.png" alt="Rollen per Raum" style="height: 300px;">
+<img src="/screenshots/benutzer_hinzufügen.png" alt="Formular zum Anlegen eines neuen Benutzerkontos" style="height: 300px;">
+<img src="/screenshots/raumrollen_setzen.png" alt="Pop-up-Fenster zum Setzen der Rolle je Raum" style="height: 300px;">
 
 ### Mehrere Benutzer*innen anlegen (CSV-Datei)
 
->💡 Wenn du zum ersten Mal alle Benutzer\*innen für eure Schule in aula anlegen möchtest, ist es am einfachsten, die CSV-Importfunktion zu nutzen. Wir empfehlen, zunächst einige Test-Nutzer\*in anzulegen, bevor die gesamte Schule hinzugefügt wird. So können Sie sich mit dem Onboarding neuer Benutzer\*innen vertraut machen.
+>💡 Wenn du zum ersten Mal alle Benutzer\*innen für eure Schule in aula anlegen möchtest, ist es am einfachsten, die CSV-Importfunktion zu nutzen. Wir empfehlen, zunächst einige Test-Nutzer\*innen anzulegen, bevor die gesamte Schule hinzugefügt wird. So kannst du dich mit dem Onboarding neuer Benutzer\*innen vertraut machen.
 
-Mit dieser Funktion kannst du mehrere Benutzer\*innen auf einmal erstellen – z.B. eine ganze Klasse – und ihnen direkt den richtigen Raum (z. B. Klasse 7a) und eine Rolle (z. B. Nutzer\*in oder Supermoderator\*in) zuweisen.
+Mit dieser Funktion kannst du mehrere Benutzer\*innen auf einmal erstellen – z. B. eine ganze Klasse – und ihnen direkt den richtigen Raum (z. B. Klasse 7a) und eine Rolle (z. B. Nutzer\*in oder Supermoderator\*in) zuweisen.
 
-Am besten hast du für jede Klasse eine eigene CSV-Tabelle, in der die benötigten Benutzerdaten(s.u.) der Schüler\*innen stehen. Diese Tabellen kannst du dann nacheinander hochladen, um alle Benutzer\*innen systematisch zur Plattform hinzuzufügen.
+Am besten hast du für jede Klasse eine eigene CSV-Tabelle, in der die benötigten Benutzerdaten (s. u.) der Schüler\*innen stehen. Diese Tabellen kannst du dann nacheinander hochladen, um alle Benutzer\*innen systematisch zur Plattform hinzuzufügen.
 
 >💡 CSV ist ein offenes Dateiformat, das du problemlos mit Microsoft Excel oder anderen Office-Produkten erstellen kannst.
 
-### Benutzerdaten für den CSV-Importer
+#### Benutzerdaten für den CSV-Importer
 
 Um den CSV-Importer zu verwenden, müssen die Spalten in einem bestimmten Format vorliegen. Als Referenz kannst du auch eine Beispieldatei in der CSV-Importer-Oberfläche herunterladen.
 
@@ -135,7 +135,7 @@ Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.
 | Anzeigename | Echter Name | Benutzername | E-Mail (optional) | Über mich (optional) |
 |------------|------------|--------------|--------------------|------------------|
 
-### Anleitung zur Nutzung des CSV-Importers
+#### Anleitung zur Nutzung des CSV-Importers
 
 1. Klicke in der Menüleiste auf **"Konfigurationen"**.
 2. Vermutlich musst du in der Ansicht etwas herunterscrollen, dann siehst du einen Button mit **Benutzer**.
@@ -143,8 +143,8 @@ Zu Anfang kannst du den echten Namen auch in die ersten drei Spalten einfügen.
 4. Wähle die CSV-Datei aus, die der oben genannten Formatvorlage entspricht.
 5. Nach der Auswahl der Datei siehst du eine Vorschau aller Benutzer\*innen, die mit dieser Datei importiert werden.
 6. Wähle eine Benutzerrolle aus, die auf alle Benutzer\*innen in der Vorschau angewendet wird.
-7. Wähle einen Raum aus, in dem die Benutzer\*innen mit dieser Rolle hinzugefügt werden sollen.
-8. _Optional:_ Kannst du einen bestimmten Zeitpunkt terminieren, wann die Onboarding-Email verschickt werden soll. Klicke dazu auf das Feld **"Einladungsdarum für neue Benutzer"**
+7. Wähle einen oder mehrere Räume aus, in denen die Benutzer\*innen mit dieser Rolle hinzugefügt werden sollen.
+8. _Optional:_ Du kannst einen bestimmten Zeitpunkt terminieren, wann die Onboarding-E-Mail verschickt werden soll. Klicke dazu auf das Feld **"Einladungsdatum für neue Benutzer"**.
 9. Klicke auf **Bestätigen**.
 10. *Optional:* Überprüfe im Benutzermenü, ob der Import erfolgreich war.
 
@@ -161,7 +161,7 @@ Wenn das Benutzerkonto mit einer E-Mail-Adresse erstellt wurde, erhält der/die 
 Der erste Schritt beim Onboarding ist das **Festlegen eines neuen Passworts**.
 
 
-### Login mit temporäre Passwort
+### Login mit temporärem Passwort
 
 Wenn dem Konto ein temporäres Passwort zugewiesen wurde, kann man sich mit dem **Benutzernamen** und diesem **temporären Passwort** anmelden.
 
@@ -171,7 +171,7 @@ Nach dem ersten Zugang – egal ob per Magic Link oder temporärem Passwort – 
 
 ### Registrierung
 
-Alle Benutzer\*innekonten müssen von einem\*r Administrator\*in erstellt werden
+Alle Benutzer\*innenkonten müssen von einem\*r Administrator\*in erstellt werden.
 > Hinweis: **Eine Selbstregistrierung ist derzeit nicht möglich**.
 
 
@@ -183,10 +183,10 @@ Alle Benutzer\*innekonten müssen von einem\*r Administrator\*in erstellt werden
 
 1. Öffne die E-Mail von [admin@neu.aula.de](mailto:admin@neu.aula.de).
 2. Notiere dir den **Benutzernamen** aus der E-Mail.
-3. Klick auf den Link in der Mail.
+3. Klicke auf den Link in der Mail.
 4. Gib ein neues Passwort **zweimal** ein.
 5. Speichere dein neues Passwort.
-6. Anschließend kannst du dich mit deinem Benutzerinnennamen und neuem Passwort anmelden.
+6. Anschließend kannst du dich mit deinem Benutzernamen und neuem Passwort anmelden.
 
 
 #### Login mit temporärem Passwort
@@ -195,23 +195,27 @@ Alle Benutzer\*innekonten müssen von einem\*r Administrator\*in erstellt werden
 
 1. Gehe auf **www.neu.aula.de**.
 2. Gib den **Schulcode** ein.
-    1. → Dieser Schritt ist optional, falls du den Instanzcode bereits eingegeben hast.
+  1. → Dieser Schritt ist optional, falls du den Instanzcode bereits eingegeben hast.
 3. Gib deinen **Benutzernamen** und das **temporäre Passwort** ein.
 4. Gib erneut das **temporäre Passwort** ein und danach das **neue Passwort** **zweimal**.
 5. Speichere das neue Passwort.
 6. Melde dich mit deinem **Benutzernamen** und dem **neuen Passwort** an.
 
 ### Nutzer\*innen filtern
-**Wer:**Administrator\*innen
+**Wer:** Administrator\*innen
 
-1. Klicke im Menu auf **Benutzer**
-2. Klicke oben rechts in der Ecke auf das Filter-Symbol
-3. In der nun erschienen Maske wähle das Attribut aus Wonach du filtern willst:
--  
+1. Klicke im Menü auf **Benutzer**.
+2. Klicke oben rechts in der Ecke auf das Filter-Symbol.
+3. In der nun erschienenen Maske wähle das Attribut aus, wonach du filtern willst:
+   - Textsuche: Anzeigename, Benutzername, E-Mail
+   - Wähle: Raum
+   - Wähle: Benutzerrolle
+   - Wähle: Status
+4. Klicke auf die Einstellung.
 
 
 
-#### Passwortliste drucken
+### Passwortliste drucken
 **Wer:** Administrator\*innen
 
 > 💡 Diese Passwortlisten können ausgeschnitten und dann einzeln an die Schüler\*innen ausgegeben werden.
@@ -224,39 +228,39 @@ Alle Benutzer\*innekonten müssen von einem\*r Administrator\*in erstellt werden
 6. Es öffnet sich ein neuer Tab mit der Passwortliste.
 7. Klicke oben rechts auf den **"Drucken-Button"**, um den Druck zu starten.
 
-<!--- Screenshoot -->
+<!--- Screenshot -->
 <img src="/screenshots/raumrollen_setzen.png" alt="Rollen per Raum" style="height: 300px;">
 
 ### Passwort zurücksetzen
 
 1. Klicke im Menü auf **Benutzer**.
-2. Scrolle in der Zeile des oder der Nutzer/*in deren Passwort zurück gesetz werden soll zur Spalte **"Passwort"**
-3. Klicke auf **"Passwort zurücksetzen"**
-4. Bestätige das Pop-up Fenster
+2. Scrolle in der Zeile des oder der Nutzer\*in, dessen oder deren Passwort zurückgesetzt werden soll, zur Spalte **"Passwort"**.
+3. Klicke auf **"Passwort zurücksetzen"**.
+4. Bestätige das Pop-up-Fenster.
 
-### Passwort für mehrer Benutzer gleichzeitig zurücksetzen
+### Passwort für mehrere Benutzer gleichzeitig zurücksetzen
 
 1. Klicke im Menü auf **Benutzer**.
 2. Wähle die Checkboxen neben den Zeilen der Benutzer aus, deren Passwort du zurücksetzen möchtest.
 3. Klicke auf **"Passwort zurücksetzen"** in der Button-Leiste oberhalb der Tabelle.
-4. Bestätige das Pop-up Fenster
+4. Bestätige das Pop-up-Fenster.
 
 ### Jahrgangsraum anlegen
 1. Klicke im Menü auf **Benutzer**.
-2. Wähle im Filter unter "RÄUME" die Klasse aus die du in eine Jahrgangsstufe verschieben willst.
+2. Wähle im Filter unter "RÄUME" die Klasse aus, die du in eine Jahrgangsstufe verschieben willst.
 3. Wähle alle Schüler\*innen aus, die nun gefiltert sind.
 4. Klicke auf "ZU RAUM HINZUFÜGEN" und wähle in der Auswahl den betreffenden Raum aus.
-5. Bestätigen die Eingabe.
+5. Bestätige die Eingabe.
 
 
 
-## Schuljahres wechsel
+## Schuljahreswechsel
 
-Zum neuen Schuljahr müssen die Klassen der Schüler\*innen gewechselt werden, um die Versetzung im System abzu bilden.
-Hier für schlagen wir vor die (Klassen-)Räume der Schüler\*innen zu ändern anstatt die Schüler in neue Räume zu schieben.
+Zum neuen Schuljahr müssen die Klassen der Schüler\*innen gewechselt werden, um die Versetzung im System abzubilden.
+Hierfür schlagen wir vor, die (Klassen-)Räume der Schüler\*innen zu ändern, anstatt die Schüler\*innen in neue Räume zu schieben.
 
-### Löschen von abgegangen Schüler\*innen
+### Löschen von abgegangenen Schüler\*innen
 
-1. Filtere nach den Räumen bzw. Klassen dessen SchüLer*innen von der Schule abgeheben bspw. 12a
+1. Filtere nach den Räumen bzw. Klassen, deren Schüler\*innen von der Schule abgehen, bspw. 12a.
 2. Klicke auf die Checkbox oben links in der Ecke.
-3. Klicke auf den Button löschen 
+3. Klicke auf den Button **Löschen**.

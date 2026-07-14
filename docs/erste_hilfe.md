@@ -23,17 +23,17 @@ Hier findest Du eine Anleitung, die häufige Probleme mit der aula-Software lös
 ## Rollenrechte und Berechtigungen
 
 Wenn ein\*e Nutzer\*in ein Problem hat, kann es an der Nutzer\*innenrolle liegen. Das kann zum Beispiel passieren, wenn die Person eine bestimmte Aktion nicht durchführen kann oder etwas im Menü oder einem Raum nicht sieht.
-Überprüfe welche Rolle der*die Nutzende hat. Kann die Person die Aktion durchführen?
+Überprüfe, welche Rolle der*die Nutzende hat. Kann die Person die Aktion durchführen?
 Versuche es mit und ohne Anmeldung.
 
 ## CSV Importer
 
-Überprüfe genau: sind alle Spalten vorhanden? Ist der Dateityp richtg .csv und nicht z.B. .xlsx?
+Überprüfe genau: Sind alle Spalten vorhanden? Ist der Dateityp richtig .csv und nicht z. B. .xlsx?
 
-Auch hilft es vielleicht einfach die Beispieldatei zunutzen und hier Inhalte mit copy & paste hinzuzufügen.
+Auch hilft es vielleicht, einfach die Beispieldatei zu nutzen und hier Inhalte mit copy & paste hinzuzufügen.
 
-# Fehlermelden
+## Fehler melden
 
 Hast du schon alles Mögliche probiert? Dann ist es gut möglich, dass du einen Bug gefunden hast. Schreib uns an support@aula.de.
 
-Damit wir das Problem besser verstehen können, hilft es uns sehr, wenn ihr Screenshots oder noch besser Screenrecordings schickt, die euer Problem zeigen. Natürlich könnt ihr das Problem auch ausführlich beschreiben. Dabei hilft es, wenn ihr Schritt für Schritt erklärt, wie das Problem auftritt. Auch Informatioen über den Kontext können helfen, tritt das Problem nur Mittwochs auf usw.
+Damit wir das Problem besser verstehen können, hilft es uns sehr, wenn ihr Screenshots oder noch besser Screenrecordings schickt, die euer Problem zeigen. Natürlich könnt ihr das Problem auch ausführlich beschreiben. Dabei hilft es, wenn ihr Schritt für Schritt erklärt, wie das Problem auftritt. Auch Informationen über den Kontext können helfen: Tritt das Problem nur mittwochs auf usw.?

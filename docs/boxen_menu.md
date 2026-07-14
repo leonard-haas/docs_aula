@@ -1,18 +1,18 @@
 # 🗃️ Menü: Boxen
 
 Was sind Boxen?:
-Boxen sind Sammlungen (thematisch) zusammenhängender Ideen. Ab der Diskussionsphase konzentriert sich der Phasenablauf auf Boxen, die eine oder  mehrere Ideen enthalten können.
+Boxen sind Sammlungen (thematisch) zusammenhängender Ideen. Ab der Diskussionsphase konzentriert sich der Phasenablauf auf Boxen, die eine oder mehrere Ideen enthalten können.
 
 ### Tabellenansicht
 
-Die Tabellenansicht zeigt eine Liste von Boxen. Jede Zeile enthält acht Spalten. Die erste Spalte ist ein **Checkbox** zur Auswahl. Die anderen Spalten sind wie folgt betitelt:
+Die Tabellenansicht zeigt eine Liste von Boxen. Jede Zeile enthält acht Spalten. Die erste Spalte ist eine **Checkbox** zur Auswahl. Die anderen Spalten sind wie folgt betitelt:
 
-| Checkbox | Beschreibung | Interne Notizen | Raumphase | Status | Erstellungsdatum | Letzte Aktualisierung |
-|-------------------|--------------|-----------------|-----------|--------|------------------|-----------------------|
-|                   |              |                 |           |        |                  |                       |
+| Checkbox | Name | Beschreibung | Interne Notizen | Raumphase | Status | Erstellungsdatum | Letzte Aktualisierung |
+|----------|------|--------------|-----------------|-----------|--------|------------------|-----------------------|
+|          |      |              |                 |           |        |                  |                       |
 
 
-> Hinweis: Jede Spalte kann **aufsteigend gefiltert** werden, in dem auf den Namen der Spalte geklickt wird.
+> Hinweis: Jede Spalte kann **aufsteigend gefiltert** werden, indem auf den Namen der Spalte geklickt wird.
 
 
 
@@ -53,7 +53,7 @@ Die Tabellenansicht zeigt eine Liste von Boxen. Jede Zeile enthält acht Spalten
    - **Ideen auswählen** (Pflicht)
 3. Mit „Bestätigen“ speichern.
 
-<img src="/screenshots/add_box.png" alt="Raum erstellen" style="height: 300px;">
+<img src="/screenshots/add_box.png" alt="Formular zum Erstellen einer neuen Box" style="height: 300px;">
 
 
 ---
@@ -62,9 +62,9 @@ Die Tabellenansicht zeigt eine Liste von Boxen. Jede Zeile enthält acht Spalten
 
 **Wer:** Super-Moderator\*innen, Admin
 
-1.	Klicke auf die Zeile der Box, die du bearbeiten möchtest.
-2.	 Nimm nun deine Änderungen vor
-3.	Mit Bestätigen speichern.
+1. Klicke auf die Zeile der Box, die du bearbeiten möchtest.
+2. Nimm nun deine Änderungen vor.
+3. Mit Bestätigen speichern.
 
 
 

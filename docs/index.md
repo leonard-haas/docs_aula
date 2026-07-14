@@ -8,4 +8,4 @@ Die Dokumentation richtet sich grundsätzlich an alle Nutzer\*innen von aula, al
 Hier findet ihr die Beschreibung der Funktionen und Einstellungen der aula-Software. Die Seite wird fortlaufend vom aula-Team bearbeitet.
 
 
-Das aula-Konzept wird hier didaktisch nicht ausführlich besprochen. Dafür sind die Kurse auf unserer [Lernplattform](https://learning.aula.de) und unsere [Webseite](www.aula.de) geeignet.
+Das aula-Konzept wird hier didaktisch nicht ausführlich besprochen. Dafür sind die Kurse auf unserer [Lernplattform](https://learning.aula.de) und unsere [Webseite](https://www.aula.de) geeignet.
