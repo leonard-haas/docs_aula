@@ -256,8 +256,14 @@ Alle Benutzer\*innenkonten müssen von einem\*r Administrator\*in erstellt werde
 
 ## Schuljahreswechsel
 
-Zum neuen Schuljahr müssen die Klassen der Schüler\*innen gewechselt werden, um die Versetzung im System abzubilden.
-Hierfür schlagen wir vor, die (Klassen-)Räume der Schüler\*innen zu ändern, anstatt die Schüler\*innen in neue Räume zu schieben.
+Zum neuen schuljahr schlagen wir vor , die Namen der (Klassen-)Räume zu ändern, anstatt den Schüler*innen neue Räume zuzuordnen. 
+Außerdem wird der Raum bzw. die Räume der Schuler\*innen, die die Shcule verlassen, gelöscht.
+
+**Bitte beachtet, dass vor dem Anlegen der neuen Schüler*innen (bspw. Stufe 5) die neuen Räume für die Stufe 5 angelegt sein sollten.**
+
+- Raum "Stufe 12" wird gelöscht.
+- Raum "Stufe 11" wird umbenannt in "Stufe 12".
+- Raum "Stufe 10" wird umbenannt in "Stufe 11" usw. ein neuer Raum "Stufe 5" wird angelegt und die neuen Schüler*innen werden dem neuen Raum (oder den neuen Räumen) zugeordnet.
 
 ### Löschen von abgegangenen Schüler\*innen
 
