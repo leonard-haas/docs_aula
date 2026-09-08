@@ -1,8 +1,4 @@
-# Konfigurationen / Tech-Admin-Panel
-
-> Das Konfigurationsmenü in der Menüleiste ist identisch mit dem Panel, auf das der Tech-Admin Zugriff hat.
-
----
+# Konfigurationen
 
 ## Admin-Panel
 
@@ -141,7 +137,7 @@ Ermöglicht das Planen von Aktionen für ein zukünftiges Datum – z. B. das Sp
 
 ### Ansicht für geplante Aktionen
 
-**Wer:** Admin, Tech-Admin
+**Wer:** Admin
 
 1. Klicke auf **Geplante Aktionen**.
 2. Bereich **System** auswählen.
@@ -177,7 +173,7 @@ Ermöglicht das Planen von Aktionen für ein zukünftiges Datum – z. B. das Sp
 
 ### Instanzstatus ändern
 
-**Wer:** Admin, Tech-Admin
+**Wer:** Admin
 
 1. Menü: **Konfigurationen → System**
 2. Status wählen:
@@ -189,7 +185,7 @@ Ermöglicht das Planen von Aktionen für ein zukünftiges Datum – z. B. das Sp
 
 ### 🔄 Backup erstellen und wiederherstellen
 
-**Wer:** Admin, Tech-Admin
+**Wer:** Admin
 
 Wir hosten die Daten und erstellen täglich automatisierte Datenbackups. Diese Backups sind verschlüsselt und werden an drei Speicherorten in Deutschland repliziert. Schulen, die unsere Hosting-Lösung nutzen, müssen keine eigenen Backups erstellen, da dies nur die Komplexität der Pflege erhöht.
 
@@ -197,7 +193,7 @@ Wir hosten die Daten und erstellen täglich automatisierte Datenbackups. Diese B
 
 ## ⚠️ Gefahrenbereich (Instanz löschen) ⚠️
 
-**Wer:** Admin, Tech-Admin
+**Wer:** Admin
 
 1. Klicke auf Gefahrenzone.
 2. Anschließend auf **Konto löschen**.

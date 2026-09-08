@@ -72,7 +72,7 @@ Die Tabellenansicht zeigt eine Liste von Boxen. Jede Zeile enthält acht Spalten
 
 ### Eine Box löschen
 
-**Wer:** Super-Moderator\*innen, Tech-Admin, Admin
+**Wer:** Super-Moderator\*innen, Admin
 
 1. Klicke auf das **Kontrollkästchen** der Box, die Du löschen möchtest.
 2. Klicke auf das **rote Müllsymbol**.

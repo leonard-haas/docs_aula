@@ -56,11 +56,6 @@ Für die Nutzung von aula ist es sinnvoll, viele Moderator*innen an der Schule z
 <p>Verwaltet die Plattform.</p>
 </details>
 
-<details>
-<summary>7. <strong>Tech-Admin</strong></summary>
-<p>Kann grundlegende Änderungen an der Schul-Instanz vornehmen, z. B. die Instanz offline schalten oder Betriebszeiten festlegen. Mit dem Tech-Admin-Account sind keine Inhalte sichtbar. Diesen Account kann bspw. auch ein externer Dienstleister nutzen, denn der Tech-Admin hat keinen Einblick auf die inhaltliche Ebene der erstellten Ideen etc.</p>
-</details>
-
 ### Stimmrecht
 
 Das Stimmrecht bezeichnet die Möglichkeit, in der Abstimmungsphase über eine Idee abzustimmen. Während Nutzer\*innen immer ein Stimmrecht haben, gibt es für Moderator\*innen, Super-Moderator\*innen und Prüfer\*innen jeweils eine Variante mit und ohne Stimmrecht.
@@ -72,7 +67,6 @@ Das Stimmrecht bezeichnet die Möglichkeit, in der Abstimmungsphase über eine I
 | Super-Moderator\*in mit Stimmrecht | Super-Moderator\*in      |
 | Prüfer\*in mit Stimmrecht         | Prüfer\*in               |
 |                                  | Admin                   |
-|                                  | Tech-Admin              |
 
 ## Benutzer\*innen anlegen
 
