@@ -173,7 +173,7 @@ Abhängig von ihrer Rolle können Nutzer*innen Boxen von einer Phase in die näc
 
 ### Box erstellen
 
-**Wer:** Moderator\*in, Super-Moderator\*in, Admin, Tech-Admin
+**Wer:** Moderator\*in, Super-Moderator\*in, Admin
 
 1. Auf das „+“-Symbol klicken.
 2. Felder ausfüllen:
@@ -188,7 +188,7 @@ Abhängig von ihrer Rolle können Nutzer*innen Boxen von einer Phase in die näc
 
 ### Box bearbeiten
 
-**Wer:** Moderator\*in, Super-Moderator\*in, Admin, Tech-Admin
+**Wer:** Moderator\*in, Super-Moderator\*in, Admin
 
 1. Auf die „…“ neben der Box klicken.
 2. „Bearbeiten“ wählen.

@@ -8,7 +8,7 @@
 
 ### Die ersten beiden Nutzer\*innen
 
-Jede Instanz, die von aula bereitgestellt wird, generiert zunächst zwei Nutzer\*innen: den Tech-Admin und den Admin (mehr über die Rollen erfährst du [hier](benutzerverwaltung.md)). Deshalb benötigt aula zu Anfang zwei Personen, die diese Rollen übernehmen, und ihre zugehörigen E-Mail-Adressen, um die Instanz freigeben zu können.
+Jede Instanz, die von aula bereitgestellt wird, generiert zunächst zwei Nutzer\*innen der Rolle Admin (mehr über die Rollen erfährst du [hier](benutzerverwaltung.md)). Deshalb benötigt aula zu Anfang zwei Personen, die diese Rollen übernehmen, und ihre zugehörigen E-Mail-Adressen, um die Instanz freigeben zu können.
 
 💡 Als Instanz bezeichnet man eine einzelne Version einer Software, die auf einer Vorlage basiert.
 
